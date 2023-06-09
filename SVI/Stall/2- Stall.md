@@ -6,6 +6,8 @@ Source: <https://youtu.be/vRIByTNTG9U>
 
 Date: 4th June 2023
 
+![decklist](../images/../../images/SVI/Stall/2-%20Stall.png)
+
 ## List
 
 * 1 Mimikyu CEC 245

@@ -8,6 +8,8 @@ Date: May 2023
 
 Description: Coalbox based around you guessed it: Coalossal Vmax
 
+![decklist](../images/../../images/SVI/Coalossal%20Vmax/1-%20Coalossal%20Vmax.png)
+
 ## List
 
 * 2 Koraidon ex SVI 125

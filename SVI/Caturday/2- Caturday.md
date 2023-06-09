@@ -6,6 +6,8 @@ Source: Discord
 
 Date: 13th May 2023
 
+![decklist](../images/../../images/SVI/Caturday/2-%20Caturday.png)
+
 ## List
 
 * 1 Mew UNB 76

@@ -8,6 +8,8 @@ Date: May 2023
 
 Description: This is just an expanded and tweaked version of my first competitive deck. I hope you enjoy it!
 
+![decklist](../images/../../images/SVI/Aggron%20Zacian/1-%20Aggron%20Zacian.png)
+
 ## List
 
 * 1 Dedenne-GX UNB 57
@@ -20,7 +22,7 @@ Description: This is just an expanded and tweaked version of my first competitiv
 * 2 Aggron VMAX BRS 97
 * 4 Cynthia UPR 119
 * 4 Pokégear 3.0 SVI 186
-* 2 Professor's Research (Professor Turo) SVI 190
+* 2 Professor's Research SVI 190
 * 4 Rare Candy SVI 191
 * 2 Switch SVI 194
 * 2 Air Balloon SSH 156

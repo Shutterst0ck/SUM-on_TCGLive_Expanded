@@ -6,6 +6,8 @@ Source: <https://youtu.be/CyZ2Ew3dziM>
 
 Date: 12th May 2023
 
+![decklist](../images/../../images/SVI/Caturday/1-%20Caturday.png)
+
 ## List
 
 * 1 Mew SMP 215

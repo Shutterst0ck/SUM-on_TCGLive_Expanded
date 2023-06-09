@@ -6,6 +6,8 @@ Source: <https://youtu.be/Z65l5IpYC-w>
 
 Date: 11th June 2023
 
+![decklist](../images/../../images/SVI/Shadow%20Rider%20Vmax/3-%20Shadow%20Rider%20Vmax.png)
+
 ## List
 
 * 4 Shadow Rider Calyrex V CRE 74

@@ -8,6 +8,8 @@ Date: March 2023
 
 Description: Ran into this crazy poison deck, immediatly decided to build my own!
 
+![decklist](../../images/CRZ/Muk%20&%20Alolan%20Muk%20GX/1-%20Muk%20&%20Alolan%20Muk%20GX.png)
+
 ## List
 
 * 4 Muk & Alolan Muk-GX UNB 61

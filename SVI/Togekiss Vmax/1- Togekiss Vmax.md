@@ -8,6 +8,8 @@ Date: 4th June 2023
 
 Description: A good choice when you have some extra time on your hands and you want your opponents to suffer.
 
+![decklist](../images/../../images/SVI/Togekiss%20Vmax/1-%20Togekiss%20Vmax.png)
+
 ## List
 
 * 4 Togekiss V VIV 140

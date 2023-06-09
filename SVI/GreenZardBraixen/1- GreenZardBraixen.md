@@ -6,6 +6,8 @@ Source: Discord
 
 Date: 13th May 2023
 
+![decklist](../images/../../images/SVI/GreenZardBraixen/1-%20GreenZardBraixen.png)
+
 ## List
 
 * 3 Volcanion UNB 25
@@ -21,8 +23,8 @@ Date: 13th May 2023
 * 4 Trekking Shoes ASR 156
 * 2 Big Charm SSH 158
 * 1 Heat Factory {*} LOT 178
-* 2 Fiery Flint SMALT 110
-* 2 Max Potion SMALT 45
+* 2 Fiery Flint DRM 60
+* 2 Max Potion GRI 128
 * 4 Custom Catcher LOT 171
 * 1 Cape of Toughness DAA 160
 * 4 Green's Exploration UNB 175

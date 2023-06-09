@@ -6,6 +6,8 @@ Source: <https://youtu.be/4LF70Yhcg58>
 
 Date: 9th June 2023
 
+![decklist](../images/../../images/SVI/Pikarom/5-%20Pikarom.png)
+
 ## List
 
 * 1 Vikavolt V DAA 180

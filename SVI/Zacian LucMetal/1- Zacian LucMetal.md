@@ -8,6 +8,8 @@ Date: 3rd May 2023
 
 Description: A deck to play when you have a lot of time on your hands.
 
+![decklist](../images/../../images/SVI/Zacian%20LucMetal/1-%20Zacian%20LucMetal.png)
+
 ## List
 
 * 2 Lucario & Melmetal-GX UNB 120

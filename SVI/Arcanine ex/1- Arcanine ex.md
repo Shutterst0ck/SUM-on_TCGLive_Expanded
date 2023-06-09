@@ -8,6 +8,8 @@ Date: May 2023
 
 Description: alright so this deck is a test for now feedback is welcome i feel like it needs more draw. this is specificaly in pokemon live expanded because they are dumb and wont update it but this is what we got for now.
 
+![decklist](../images/../../images/SVI/Arcanine%20ex/1-%20Arcanine%20ex.png)
+
 ## List
 
 * 1 Dedenne-GX UNB 195

@@ -6,6 +6,8 @@ Source: <https://youtu.be/yhqwNwFxdfc>
 
 Date: 6th May 2023
 
+![decklist](../images/../../images/SVI/Palkia%20Vstar/4-%20Palkia%20Vstar.png)
+
 ## List
 
 * 3 Origin Forme Palkia V ASR 167

@@ -6,6 +6,8 @@ Source: <https://youtu.be/6glElFg5R9o>
 
 Date: 8th June 2023
 
+![decklist](../images/../../images/SVI/Blacephalon/1-%20Blacephalon.png)
+
 ## List
 
 * 4 Blacephalon UNB 32

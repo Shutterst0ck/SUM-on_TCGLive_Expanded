@@ -6,6 +6,8 @@ Source: <https://youtu.be/QreX2eK07Ys>
 
 Date: 4th May 2023
 
+![decklist](../images/../../images/SVI/Toxicroak%20ex/1-%20Toxicroak%20ex.png)
+
 ## List
 
 * 2 Toxicroak SSH 124
@@ -25,7 +27,7 @@ Date: 4th May 2023
 * 4 Quick Ball FST 237
 * 2 Evolution Incense SSH 163
 * 4 Dark Patch DEX 93
-* 2 Marnie SWSHALT 21
+* 2 Marnie SSH 169
 * 1 Rescue Stretcher GRI 130
 * 2 Choice Belt BRS 135
 * 2 Raihan SIT-TG 27

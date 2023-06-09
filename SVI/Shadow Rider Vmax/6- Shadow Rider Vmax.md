@@ -6,6 +6,8 @@ Source: <https://youtu.be/ffIKT2m36GA>
 
 Date: 12th May 2023
 
+![decklist](../images/../../images/SVI/Shadow%20Rider%20Vmax/6-%20Shadow%20Rider%20Vmax.png)
+
 ## List
 
 * 1 Gengar & Mimikyu-GX TEU 53

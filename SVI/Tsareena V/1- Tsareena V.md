@@ -8,6 +8,8 @@ Date: May 2023
 
 Description: another test so feedback welcome, again i feel like draw issues may switch 1 Lumineon V (Brilliant Stars) for a Crobat V (Darkness Ablaze)  this is in the pokemon trading card game live expanded format because gamefreak is lazy
 
+![decklist](../images/../../images/SVI/Tsareena%20V/1-%20Tsareena%20V.png)
+
 ## List
 
 * 2 Dedenne-GX UNB 195
@@ -21,7 +23,7 @@ Description: another test so feedback welcome, again i feel like draw issues may
 * 2 Net Ball LOT 187
 * 1 Arven SVI 166
 * 2 Judge SVI 176
-* 4 Professor's Research (Professor Sada) SVI 189
+* 4 Professor's Research SVI 189
 * 4 Ultra Ball SVI 196
 * 2 Air Balloon SSH 156
 * 4 Quick Ball SSH 179

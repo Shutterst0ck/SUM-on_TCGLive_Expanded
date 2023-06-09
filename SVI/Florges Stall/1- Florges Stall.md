@@ -6,6 +6,8 @@ Source: Discord
 
 Date: 7th June 2023
 
+![decklist](../images/../../images/SVI/Florges%20Stall/1-%20Florges%20Stall.png)
+
 ## List
 
 * 1 Snorlax PGO 55
@@ -23,7 +25,7 @@ Date: 7th June 2023
 * 4 Lillie's Poké Doll CEC 197
 * 1 Guzma BUS 143
 * 3 Sky Pillar CES 144
-* 4 Steven's Resolve SMALT 121
+* 4 Steven's Resolve CES 145
 * 1 Counter Catcher CIN 91
 * 1 Rescue Stretcher BUS 165
 * 1 Team Yell's Cheer BRS 149

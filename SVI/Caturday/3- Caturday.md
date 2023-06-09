@@ -6,6 +6,8 @@ Source: <https://youtu.be/e_m8KCUGivk>
 
 Date: 16th May 2023
 
+![decklist](../images/../../images/SVI/Caturday/3-%20Caturday.png)
+
 ## List
 
 * 1 Litten UNB 27

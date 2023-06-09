@@ -6,6 +6,8 @@ Source: <https://youtu.be/Rm6Vdf44ZQc>
 
 Date: 18th May 2023
 
+![decklist](../images/../../images/SVI/EggRow/1-%20EggRow.png)
+
 ## List
 
 * 3 Rowlet & Alolan Exeggutor-GX UNM 1

@@ -6,6 +6,8 @@ Source: <https://youtu.be/5nyWT6oPrWI>
 
 Date: 28th May 2023
 
+![decklist](../images/../../images/SVI/Regidrago%20Vstar/2-%20Regidrago%20Vstar.png)
+
 ## List
 
 * 1 Dialga-GX UPR 164

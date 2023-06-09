@@ -6,6 +6,8 @@ Source: Discord
 
 Date: 13th May 2023
 
+![decklist](../images/../../images/SVI/ComboZac/1-%20ComboZac.png)
+
 ## List
 
 * 3 Zacian V SSH 138

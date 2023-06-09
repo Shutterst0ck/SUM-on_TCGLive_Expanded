@@ -6,6 +6,8 @@ Source: <https://youtu.be/xu5XJ2hpNbI>
 
 Date: 18th May 2023
 
+![decklist](../images/../../images/SVI/Pikarom/6-%20Pikarom.png)
+
 ## List
 
 * 1 Crobat V DAA 182

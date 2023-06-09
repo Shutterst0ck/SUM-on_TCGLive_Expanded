@@ -8,6 +8,8 @@ Date: 20th May 2023
 
 Description: Possibly the BDIF in the Live Expanded beta format.
 
+![decklist](../images/../../images/SVI/Shadow%20Rider%20Vmax/1-%20Shadow%20Rider%20Vmax.png)
+
 ## List
 
 * 1 Alolan Grimer SUM 57
@@ -18,7 +20,7 @@ Description: Possibly the BDIF in the Live Expanded beta format.
 * 1 Trevenant & Dusknoir-GX PR-SM 217
 * 4 Shadow Rider Calyrex V CRE 74
 * 4 Shadow Rider Calyrex VMAX CRE 75
-* 1 Professor’s Research (Professor Oak) CEL 23
+* 1 Professor’s Research CEL 23
 * 1 Field Blower GRI 125
 * 2 Acerola BUS 112
 * 2 Guzma BUS 115

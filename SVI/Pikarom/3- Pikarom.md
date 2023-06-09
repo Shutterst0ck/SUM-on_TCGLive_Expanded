@@ -8,6 +8,8 @@ Date: 6th May 2023
 
 Description: Turn one dominance
 
+![decklist](../images/../../images/SVI/Pikarom/3-%20Pikarom.png)
+
 ## List
 
 * 1 Dedenne-GX UNB 195

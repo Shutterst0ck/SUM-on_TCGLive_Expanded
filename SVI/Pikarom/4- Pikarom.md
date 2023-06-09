@@ -8,6 +8,8 @@ Date: 9th June 2023
 
 Description: 2023 Asia wide.
 
+![decklist](../images/../../images/SVI/Pikarom/4-%20Pikarom.png)
+
 ## List
 
 * 1 Dedenne-GX UNB 57
@@ -24,7 +26,7 @@ Description: 2023 Asia wide.
 * 4 Electropower LOT 172a
 * 1 Thunder Mountain ◇ LOT 191
 * 4 Electric Generator SVI 170
-* 3 Professor's Research (Professor Sada) SVI 189
+* 3 Professor's Research SVI 189
 * 2 Switch SVI 194
 * 4 Marnie SSH 169
 * 3 Quick Ball SSH 179

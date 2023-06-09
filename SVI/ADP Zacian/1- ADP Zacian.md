@@ -8,6 +8,8 @@ Date: 2d May 2023
 
 Description: A deck to play when you have a lot of time on your hands.
 
+![decklist](../images/../../images/SVI/ADP%20Zacian/1-%20ADP%20Zacian.png)
+
 ## List
 
 * 2 Dedenne-GX UNB 57
@@ -17,7 +19,7 @@ Description: A deck to play when you have a lot of time on your hands.
 * 1 Radiant Greninja ASR 46
 * 1 Crobat V DAA 104
 * 1 Aegislash V VIV 126
-* 4 Professor’s Research (Professor Oak) CEL 23
+* 4 Professor’s Research CEL 23
 * 2 Cherish Ball UNM 191
 * 3 Guzma BUS 115
 * 4 Acro Bike CES 123

@@ -6,6 +6,8 @@ Source: <https://youtu.be/7PiiA8xhQbE>
 
 Date: 13th May 2023
 
+![decklist](../images/../../images/SVI/Item%20Lock/1-%20Item%20Lock.png)
+
 ## List
 
 * 2 Gengar & Mimikyu-GX TEU 165

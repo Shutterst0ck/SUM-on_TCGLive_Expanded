@@ -8,6 +8,8 @@ Date: June 2023
 
 Description: just get at least 2 jirachi out for search you'll typically hit a lot more with those and the ropes and guzma over boss's orders so you can use your retreat and then force switching the opponent into a bad pokemon. there is room for cards like galar mine and some other things so mess around with it. it struggles against anything that takes 2 prizes for 1 like Guzzlord (Cosmic Eclipse) other than that comment any changes you have made and i will test it
 
+![decklist](../images/../../images/SVI/Centiscorch%20Mill/1-%20Centiscorch%20Mill.png)
+
 ## List
 
 * 2 Charizard PGO 10

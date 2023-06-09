@@ -6,6 +6,8 @@ Source: <https://youtu.be/VXXe8n5Aa8g>
 
 Date: 4th June 2023
 
+![decklist](../images/../../images/SVI/Lost%20Zone/3-%20Lost%20Zone.png)
+
 ## List
 
 * 4 Comfey CRZ-GG 14

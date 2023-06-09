@@ -8,6 +8,8 @@ Date: 7th June 2023
 
 Description: Altered Creation Wailord I guess idk 🤷
 
+![decklist](../images/../../images/SVI/Palkia%20Vstar/3-%20Palkia%20Vstar.png)
+
 ## List
 
 * 2 Arceus & Dialga & Palkia-GX CEC 156
@@ -24,7 +26,7 @@ Description: Altered Creation Wailord I guess idk 🤷
 * 1 Viridian Forest TEU 156
 * 2 Arven SVI 166
 * 2 Marnie SSH 169
-* 2 Professor's Research (Professor Magnolia) SSH 178
+* 2 Professor's Research SSH 178
 * 2 Quick Ball SSH 179
 * 2 Switch SSH 183
 * 2 Boss's Orders RCL 154

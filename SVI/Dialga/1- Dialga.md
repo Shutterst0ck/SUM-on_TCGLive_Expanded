@@ -6,6 +6,8 @@ Source: <https://youtu.be/6jSGZuhXeG8>
 
 Date: 2d May 2023
 
+![decklist](../images/../../images/SVI/Dialga/1-%20Dialga.png)
+
 ## List
 
 * 2 Origin Forme Dialga VSTAR ASR 114

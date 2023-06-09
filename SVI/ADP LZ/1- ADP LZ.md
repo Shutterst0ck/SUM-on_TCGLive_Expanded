@@ -6,6 +6,8 @@ Source: <https://youtu.be/JU4dWcAY3is>
 
 Date: 6th June 2023
 
+![decklist](../images/../../images/SVI/ADP%20LZ/1-%20ADP%20LZ.png)
+
 ## List
 
 * 1 Lumineon V PR-SW 250

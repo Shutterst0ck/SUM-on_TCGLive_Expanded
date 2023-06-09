@@ -6,6 +6,8 @@ Source: Discord
 
 Date: 13th May 2023
 
+![decklist](../images/../../images/SVI/Doublade/1-%20Doublade.png)
+
 ## List
 
 * 2 Bibarel BRS 121

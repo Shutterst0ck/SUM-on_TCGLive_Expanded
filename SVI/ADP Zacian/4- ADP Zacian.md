@@ -6,6 +6,8 @@ Source: Discord
 
 Date: 13th May 2023
 
+![decklist](../images/../../images/SVI/ADP%20Zacian/4-%20ADP%20Zacian.png)
+
 ## List
 
 * 2 Dedenne-GX UNB 57

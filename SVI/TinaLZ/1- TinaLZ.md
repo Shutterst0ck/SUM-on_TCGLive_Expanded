@@ -8,6 +8,8 @@ Date: May 2023
 
 Description: Pretty simple! Go seconded and try to get cram going. Swing until cram is dead by then mirage gate should be set up and you can swing with Giratina. Zigzagoon helps with math. Sableye helps against single-prize decks. The choice belt is for Vmax decks like Mew.
 
+![decklist](../images/../../images/SVI/TinaLZ/1-%20TinaLZ.png)
+
 ## List
 
 * 1 Mew UNB 76

@@ -17,41 +17,34 @@ Description:
 
 • Collapsed stadium is to give you a chance against eternatus, and for free healing against non-dark decks. Temple is for Lugia, Zoroark, Arceus, Mew3, or stray single prize DCE deck
 
+![decklist](../images/../../images/SVI/Shadow%20Rider%20Vmax/2-%20Shadow%20Rider%20Vmax.png)
+
 ## List
 
-* 2 Crobat V DAA 182
-* 1 Eternatus VMAX DAA 117
-* 4 Eternatus V DAA 116
-* 1 Eternatus VMAX PR-SW 45
-* 1 Galarian Moltres V CRE 97
-* 2 Galarian Zigzagoon SSH 117
-* 3 Sneasel BRS 86
-* 1 Guzzlord CEC 136
-* 2 Crobat V DAA 104
-* 1 Eternatus VMAX LOR-TG 22
-* 2 Weavile-GX UNM 132
-* 1 Air Balloon SSH 156
+* 1 Tapu Lele-GX GRI 60
+* 4 Shadow Rider Calyrex V CRE 74
+* 1 Alolan Grimer SUM 57
+* 1 Gengar & Mimikyu-GX TEU 53
+* 1 Radiant Eternatus CRZ 105
+* 1 Alolan Muk SUM 58
+* 4 Shadow Rider Calyrex VMAX CRE 75
+* 2 Air Balloon SSH 156
+* 1 Collapsed Stadium BRS 137 PH
 * 1 Pal Pad SSH 172
-* 1 Quick Ball SSH 179
+* 4 Quick Ball SSH 179
+* 4 Mysterious Treasure FLI 113
 * 1 Forest Seal Stone SIT 156
-* 1 Marnie SSH 169
 * 1 Field Blower GRI 125
 * 1 Switch CES 147
-* 2 Arven SVI 166
 * 1 Marnie SSH 200
-* 1 Battle VIP Pass FST 225
-* 3 Ultra Ball PLB 90
-* 3 Max Potion BKP 103
-* 1 Energy Spinner UNB 170
-* 1 Evolution Incense SSH 163
-* 1 Quick Ball SSH 179
-* 1 Marnie SSH 169
-* 1 Rescue Stretcher GRI 130
+* 1 Temple of Sinnoh ASR 155
+* 4 Fog Crystal CRE 140
+* 1 Adventure Bag LOT 167
+* 2 Acerola BUS 112 PH
+* 2 Marnie SSH 169
+* 1 Ordinary Rod SSH 171 PH
 * 1 Roxanne ASR 150
+* 1 Collapsed Stadium BRS 137
 * 1 Guzma BUS 115
-* 1 Professor's Research SVI 241
-* 1 Quick Ball SSH 216
-* 2 Professor's Research SVI 190
-* 2 Chaotic Swell CEC 187
-* 9 Basic {D} Energy Energy 24
-* 1 Hiding {D} Energy DAA 175
+* 3 Professor's Research SVI 190
+* 14 Basic {P} Energy Energy 22

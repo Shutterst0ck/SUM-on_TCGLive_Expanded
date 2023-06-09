@@ -8,6 +8,8 @@ Date: 1st April 2023
 
 Description: ADPZ with Bronzong package to consistently use altered creation turn 1 going 2nd.
 
+![decklist](../../images/CRZ/ADP%20Zacian/1-%20ADP%20Zacian.png)
+
 ## List
 
 * 1 Lumineon V BRS 40

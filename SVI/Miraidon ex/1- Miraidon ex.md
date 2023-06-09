@@ -6,6 +6,8 @@ Source: <https://youtu.be/dhY6My55gk0>
 
 Date: 18th May 2023
 
+![decklist](../images/../../images/SVI/Miraidon%20ex/1-%20Miraidon%20ex.png)
+
 ## List
 
 * 1 Vikavolt V DAA 60
@@ -24,7 +26,7 @@ Date: 18th May 2023
 * 1 Pal Pad FLF 92
 * 2 Guzma BUS 115
 * 1 Echoing Horn CRE 136
-* 4 Electropower SMALT 137
+* 4 Electropower LOT 172
 * 1 Ordinary Rod SSH 171
 * 1 Thorton LOR 195
 * 1 Forest Seal Stone SIT 156

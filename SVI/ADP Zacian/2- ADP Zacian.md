@@ -8,6 +8,8 @@ Date: 13th May 2023
 
 Description: ADP but it's ADDP
 
+![decklist](../images/../../images/SVI/ADP%20Zacian/2-%20ADP%20Zacian.png)
+
 ## List
 
 * 2 Origin Forme Dialga VSTAR ASR 114

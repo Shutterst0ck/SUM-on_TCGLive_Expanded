@@ -8,6 +8,8 @@ Date: May 2023
 
 Description: Palkia Vstar with SVI Cards amd rotated cards in expanded is insane. Planning on making a version with Aqua Patch from a set in Sun & Moon era
 
+![decklist](../images/../../images/SVI/Palkia%20Vstar/1-%20Palkia%20Vstar.png)
+
 ## List
 
 * 2 Alolan Sandshrew CEC 137

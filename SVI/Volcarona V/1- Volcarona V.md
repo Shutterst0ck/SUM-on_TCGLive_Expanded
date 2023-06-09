@@ -6,6 +6,8 @@ Source: <https://youtu.be/J7dcqmTl1xA>
 
 Date: 9th May 2023
 
+![decklist](../images/../../images/SVI/Volcarona%20V/1-%20Volcarona%20V.png)
+
 ## List
 
 * 3 Blitzle LOT 81

@@ -8,6 +8,8 @@ Date: 4th May 2023
 
 Description: Another enjoyable deck to play in the Live Expanded beta
 
+![decklist](../images/../../images/SVI/Welder%20Box/1-%20Welder%20Box.png)
+
 ## List
 
 * 1 Radiant Charizard PGO 11
@@ -29,7 +31,7 @@ Description: Another enjoyable deck to play in the Live Expanded beta
 * 2 Big Charm SSH 158
 * 1 Marnie SSH 169
 * 4 Pokégear 3.0 SSH 174
-* 1 Professor's Research (Professor Magnolia) SSH 178
+* 1 Professor's Research SSH 178
 * 4 Quick Ball SSH 179
 * 4 Switch SSH 183
 * 14 Fire Energy 2
