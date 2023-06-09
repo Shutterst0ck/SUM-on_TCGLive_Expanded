@@ -1,0 +1,36 @@
+# APD Zacian
+
+Author: MrDogPTCGL
+
+Source: <https://youtu.be/zowxOzbL5HY>
+
+Date: 1st April 2023
+
+Description: ADPZ with Bronzong package to consistently use altered creation turn 1 going 2nd.
+
+## List
+
+* 1 Lumineon V BRS 40
+* 3 Zacian V SSH 138
+* 2 Bronzor TEU 100
+* 2 Dedenne-GX UNB 57
+* 2 Bronzong BST 102
+* 2 Arceus & Dialga & Palkia-GX CEC 156
+* 1 Crobat V LOR-TG 20
+* 1 Switch CRZ 144
+* 4 Quick Ball FST 237
+* 1 Escape Rope BST 125 PH
+* 2 Chaotic Swell CEC 187
+* 2 Rusted Sword SHF 62
+* 4 Guzma BUS 115
+* 1 Ordinary Rod SSH 171
+* 4 Metal Saucer SSH 170
+* 1 Raihan EVS 202
+* 4 Professor's Research CEL 24
+* 2 Air Balloon SSH 156
+* 4 Ultra Ball BRS 150
+* 1 Forest Seal Stone SIT 156
+* 2 Guzma & Hala CEC 193
+* 2 Marnie SSH 200
+* 8 Basic {M} Energy Energy 34
+* 4 Rainbow Energy XY 131
