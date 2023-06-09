@@ -21,7 +21,7 @@ Description: ADPZ with Bronzong package to consistently use altered creation tur
 * 1 Crobat V LOR-TG 20
 * 1 Switch CRZ 144
 * 4 Quick Ball FST 237
-* 1 Escape Rope BST 125 PH
+* 1 Escape Rope BST 125
 * 2 Chaotic Swell CEC 187
 * 2 Rusted Sword SHF 62
 * 4 Guzma BUS 115

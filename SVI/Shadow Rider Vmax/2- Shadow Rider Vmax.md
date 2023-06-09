@@ -29,7 +29,7 @@ Description:
 * 1 Alolan Muk SUM 58
 * 4 Shadow Rider Calyrex VMAX CRE 75
 * 2 Air Balloon SSH 156
-* 1 Collapsed Stadium BRS 137 PH
+* 1 Collapsed Stadium BRS 137
 * 1 Pal Pad SSH 172
 * 4 Quick Ball SSH 179
 * 4 Mysterious Treasure FLI 113
@@ -40,9 +40,9 @@ Description:
 * 1 Temple of Sinnoh ASR 155
 * 4 Fog Crystal CRE 140
 * 1 Adventure Bag LOT 167
-* 2 Acerola BUS 112 PH
+* 2 Acerola BUS 112
 * 2 Marnie SSH 169
-* 1 Ordinary Rod SSH 171 PH
+* 1 Ordinary Rod SSH 171
 * 1 Roxanne ASR 150
 * 1 Collapsed Stadium BRS 137
 * 1 Guzma BUS 115

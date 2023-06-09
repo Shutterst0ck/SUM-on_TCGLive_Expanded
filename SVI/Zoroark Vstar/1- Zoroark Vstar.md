@@ -31,7 +31,7 @@ Date: 7th June 2023
 * 1 Rosa CEC 236
 * 2 Tool Jammer BST 136
 * 3 Ultra Ball BRS 150
-* 1 Stadium Nav UNM 208 PH
+* 1 Stadium Nav UNM 208
 * 4 Gapejaw Bog ASR 142
 * 2 Pokémon Communication TEU 152
 * 1 Ordinary Rod SSH 215
