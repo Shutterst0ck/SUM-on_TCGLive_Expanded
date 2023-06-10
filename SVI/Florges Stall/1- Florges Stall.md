@@ -6,6 +6,8 @@ Source: Discord
 
 Date: 7th June 2023
 
+Description: a.k.a. "I want to die
+
 ![decklist](../../images/SVI/Florges%20Stall/1-%20Florges%20Stall.png)
 
 ## List
