@@ -8,7 +8,7 @@ Date: 11th May 2023
 
 Description: It can wipe out an opponents entire board. Yes, it is a bit high roll, but it is so fun when it works. And it can also win the traditional way by taking prizes.
 
-![decklist](../images/../../images/SVI/TinaChomp%20Dialga/1-%20TinaChomp%20Dialga.png)
+![decklist](../../images/SVI/TinaChomp%20Dialga/1-%20TinaChomp%20Dialga.png)
 
 ## List
 

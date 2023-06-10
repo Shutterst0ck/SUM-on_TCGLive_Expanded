@@ -6,7 +6,7 @@ Source: <https://youtu.be/UHeR-3yfDi8>
 
 Date: 6th April 2023
 
-![decklist](../images/../../images/SVI/Shadow%20Rider%20Vmax/4-%20Shadow%20Rider%20Vmax.png)
+![decklist](../../images/SVI/Shadow%20Rider%20Vmax/4-%20Shadow%20Rider%20Vmax.png)
 
 ## List
 

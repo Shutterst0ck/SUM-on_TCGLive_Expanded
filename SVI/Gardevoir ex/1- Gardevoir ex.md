@@ -6,7 +6,7 @@ Source: <https://youtu.be/7dKNwdQgCgY>
 
 Date: 5th June 2023
 
-![decklist](../images/../../images/SVI/Gardevoir%20ex/1-%20Gardevoir%20ex.png)
+![decklist](../../images/SVI/Gardevoir%20ex/1-%20Gardevoir%20ex.png)
 
 ## List
 

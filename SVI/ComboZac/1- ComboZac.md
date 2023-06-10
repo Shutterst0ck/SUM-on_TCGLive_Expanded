@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 13th May 2023
 
-![decklist](../images/../../images/SVI/ComboZac/1-%20ComboZac.png)
+![decklist](../../images/SVI/ComboZac/1-%20ComboZac.png)
 
 ## List
 

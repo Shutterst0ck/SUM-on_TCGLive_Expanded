@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 10th June 2023
 
-![decklist](../images/../../images/SVI/Nuzzle/1-%20Nuzzle.png)
+![decklist](../../images/SVI/Nuzzle/1-%20Nuzzle.png)
 
 ## List
 

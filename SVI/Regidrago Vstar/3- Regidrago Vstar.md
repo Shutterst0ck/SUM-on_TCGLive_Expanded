@@ -6,7 +6,7 @@ Source: <https://twitter.com/CardQueenEileen/status/1651804240296439808>
 
 Date: 28th April 2023
 
-![decklist](../images/../../images/SVI/Regidrago%20Vstar/3-%20Regidrago%20Vstar.png)
+![decklist](../../images/SVI/Regidrago%20Vstar/3-%20Regidrago%20Vstar.png)
 
 ## List
 

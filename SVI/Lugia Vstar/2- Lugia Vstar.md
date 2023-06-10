@@ -6,7 +6,7 @@ Source: <https://www.youtube.com/live/tEeLP4Jzi0M?feature=share>
 
 Date: 5th June 2023
 
-![decklist](../images/../../images/SVI/Lugia%20Vstar/2-%20Lugia%20Vstar.png)
+![decklist](../../images/SVI/Lugia%20Vstar/2-%20Lugia%20Vstar.png)
 
 ## List
 

@@ -6,7 +6,7 @@ Source: <https://twitter.com/HaydenF98856419/status/1651455918981226497>
 
 Date: 27th April 2023
 
-![decklist](../images/../../images/SVI/Pikarom/7-%20Pikarom.png)
+![decklist](../../images/SVI/Pikarom/7-%20Pikarom.png)
 
 ## List
 

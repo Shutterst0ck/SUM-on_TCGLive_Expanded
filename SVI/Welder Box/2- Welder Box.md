@@ -6,7 +6,7 @@ Source: <https://youtu.be/xfkTijpBS2s>
 
 Date: 1st June 2023
 
-![decklist](../images/../../images/SVI/Welder%20Box/2-%20Welder%20Box.png)
+![decklist](../../images/SVI/Welder%20Box/2-%20Welder%20Box.png)
 
 ## List
 

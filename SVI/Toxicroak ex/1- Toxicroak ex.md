@@ -6,7 +6,7 @@ Source: <https://youtu.be/QreX2eK07Ys>
 
 Date: 4th May 2023
 
-![decklist](../images/../../images/SVI/Toxicroak%20ex/1-%20Toxicroak%20ex.png)
+![decklist](../../images/SVI/Toxicroak%20ex/1-%20Toxicroak%20ex.png)
 
 ## List
 

@@ -6,7 +6,7 @@ Source: <https://youtu.be/7PiiA8xhQbE>
 
 Date: 13th May 2023
 
-![decklist](../images/../../images/SVI/Item%20Lock/1-%20Item%20Lock.png)
+![decklist](../../images/SVI/Item%20Lock/1-%20Item%20Lock.png)
 
 ## List
 

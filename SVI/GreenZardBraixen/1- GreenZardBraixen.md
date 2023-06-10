@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 13th May 2023
 
-![decklist](../images/../../images/SVI/GreenZardBraixen/1-%20GreenZardBraixen.png)
+![decklist](../../images/SVI/GreenZardBraixen/1-%20GreenZardBraixen.png)
 
 ## List
 

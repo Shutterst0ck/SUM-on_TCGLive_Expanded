@@ -8,7 +8,7 @@ Date: May 2023
 
 Description: This is just an expanded and tweaked version of my first competitive deck. I hope you enjoy it!
 
-![decklist](../images/../../images/SVI/Aggron%20Zacian/1-%20Aggron%20Zacian.png)
+![decklist](../../images/SVI/Aggron%20Zacian/1-%20Aggron%20Zacian.png)
 
 ## List
 

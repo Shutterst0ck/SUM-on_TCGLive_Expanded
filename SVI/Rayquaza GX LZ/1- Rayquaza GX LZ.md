@@ -8,7 +8,7 @@ Date: May 2023
 
 Description: Rayquaza GX in a new way!
 
-![decklist](../images/../../images/SVI/Rayquaza%20GX%20LZ/1-%20Rayquaza%20GX%20LZ.png)
+![decklist](../../images/SVI/Rayquaza%20GX%20LZ/1-%20Rayquaza%20GX%20LZ.png)
 
 ## List
 

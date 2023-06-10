@@ -6,7 +6,7 @@ Source: <https://youtu.be/E8P5OhcQicY>
 
 Date: 9th May 2023
 
-![decklist](../images/../../images/SVI/Vikavolt%20V/2-%20Vikavolt%20V.png)
+![decklist](../../images/SVI/Vikavolt%20V/2-%20Vikavolt%20V.png)
 
 ## List
 

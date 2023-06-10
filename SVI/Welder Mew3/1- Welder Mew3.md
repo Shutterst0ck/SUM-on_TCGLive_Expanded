@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 10th June 2023
 
-![decklist](../images/../../images/SVI/Welder%20Mew3/1-%20Welder%20Mew3.png)
+![decklist](../../images/SVI/Welder%20Mew3/1-%20Welder%20Mew3.png)
 
 ## List
 

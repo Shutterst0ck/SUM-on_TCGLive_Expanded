@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 10th June 2023
 
-![decklist](../images/../../images/SVI/Florges%20Stall/2-%20Florges%20Stall.png)
+![decklist](../../images/SVI/Florges%20Stall/2-%20Florges%20Stall.png)
 
 ## List
 

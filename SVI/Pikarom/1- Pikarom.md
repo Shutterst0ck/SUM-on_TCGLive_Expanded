@@ -6,7 +6,7 @@ Source: <https://youtu.be/BmAm5ox-_dU>
 
 Date: 1st May 2023
 
-![decklist](../images/../../images/SVI/Pikarom/1-%20Pikarom.png)
+![decklist](../../images/SVI/Pikarom/1-%20Pikarom.png)
 
 ## List
 

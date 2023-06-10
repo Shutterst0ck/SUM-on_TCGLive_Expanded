@@ -6,7 +6,7 @@ Source: <https://youtu.be/UHeR-3yfDi8>
 
 Date: 6th April 2023
 
-![decklist](../images/../../images/SVI/ADP%20Zacian/3-%20ADP%20Zacian.png)
+![decklist](../../images/SVI/ADP%20Zacian/3-%20ADP%20Zacian.png)
 
 ## List
 

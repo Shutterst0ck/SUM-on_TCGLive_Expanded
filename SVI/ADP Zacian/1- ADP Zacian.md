@@ -8,7 +8,7 @@ Date: 2d May 2023
 
 Description: A deck to play when you have a lot of time on your hands.
 
-![decklist](../images/../../images/SVI/ADP%20Zacian/1-%20ADP%20Zacian.png)
+![decklist](../../images/SVI/ADP%20Zacian/1-%20ADP%20Zacian.png)
 
 ## List
 

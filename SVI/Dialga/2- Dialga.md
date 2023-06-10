@@ -8,7 +8,7 @@ Source: <https://twitter.com/saitsuyo_poke/status/1667158220425789440>
 
 Date: 9th June 2023
 
-![decklist](../images/../../images/SVI/Dialga/2-%20Dialga.png)
+![decklist](../../images/SVI/Dialga/2-%20Dialga.png)
 
 ## List
 

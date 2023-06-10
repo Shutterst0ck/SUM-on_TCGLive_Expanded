@@ -17,7 +17,7 @@ Description:
 
 • Collapsed stadium is to give you a chance against eternatus, and for free healing against non-dark decks. Temple is for Lugia, Zoroark, Arceus, Mew3, or stray single prize DCE deck
 
-![decklist](../images/../../images/SVI/Shadow%20Rider%20Vmax/2-%20Shadow%20Rider%20Vmax.png)
+![decklist](../../images/SVI/Shadow%20Rider%20Vmax/2-%20Shadow%20Rider%20Vmax.png)
 
 ## List
 

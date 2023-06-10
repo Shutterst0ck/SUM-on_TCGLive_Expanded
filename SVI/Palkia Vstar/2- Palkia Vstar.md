@@ -6,7 +6,7 @@ Source: <https://youtu.be/7OWmWeq7o_Y>
 
 Date: 28th April 2023
 
-![decklist](../images/../../images/SVI/Palkia%20Vstar/2-%20Palkia%20Vstar.png)
+![decklist](../../images/SVI/Palkia%20Vstar/2-%20Palkia%20Vstar.png)
 
 ## List
 

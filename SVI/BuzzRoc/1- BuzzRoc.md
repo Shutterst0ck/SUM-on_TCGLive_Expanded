@@ -8,7 +8,7 @@ Date: June 2023
 
 Description: Main point is to get one big buzz one little and diancie are the only ones you 100% need dedenne gx is a last out the more bench space the better bibarel is the new Octillery (BREAKthrough) so that was easy and then the pickaxes are nice when you have oranguru otherwise it is good deck thinning or you hit energy which is goated. arcanine is there as a secondary atacker (feel like i spelled that wrong)  and koraidon is there for powering up buzzwole gx makes that a little easier. this is based off of the 2019 Portland Expanded so anything to add feel free to lmk
 
-![decklist](../images/../../images/SVI/BuzzRoc/1-%20BuzzRoc.png)
+![decklist](../../images/SVI/BuzzRoc/1-%20BuzzRoc.png)
 
 ## List
 

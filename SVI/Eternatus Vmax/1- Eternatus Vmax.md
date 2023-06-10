@@ -13,7 +13,7 @@ Description:
 
 • I don’t like playing marnie, but with ADP-D/ADP-Z having such a prominent place in the format, and no ranger anymore, your only hope is keeping their hand size low
 
-![decklist](../images/../../images/SVI/Eternatus%20Vmax/1-%20Eternatus%20Vmax.png)
+![decklist](../../images/SVI/Eternatus%20Vmax/1-%20Eternatus%20Vmax.png)
 
 ## List
 

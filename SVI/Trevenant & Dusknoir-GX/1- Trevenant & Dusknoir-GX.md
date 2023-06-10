@@ -8,7 +8,7 @@ Date: 8th June 2023
 
 Description: Two copies of Roxanne are put in the deck in order to use Roxanne on the turn after Dusknoir is defeated, but one may be sufficient.
 
-![decklist](../images/../../images/SVI/Trevenant%20&%20Dusknoir-GX/1-%20Trevenant%20&%20Dusknoir-GX.png)
+![decklist](../../images/SVI/Trevenant%20&%20Dusknoir-GX/1-%20Trevenant%20&%20Dusknoir-GX.png)
 
 ## List
 

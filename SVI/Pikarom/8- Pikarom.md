@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 10th June 2023
 
-![decklist](../images/../../images/SVI/Pikarom/8-%20Pikarom.png)
+![decklist](../../images/SVI/Pikarom/8-%20Pikarom.png)
 
 ## List
 

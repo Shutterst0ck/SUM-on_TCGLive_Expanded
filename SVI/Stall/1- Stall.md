@@ -8,7 +8,7 @@ Date: May 2023
 
 Description: The goal of the deck is to stall and mill your opponent. The early game goal is to get out the bibarel and skwovet engine, with a wall (preferably the altaria, but the miltank or doll works too), the munchlax, and the supporter Altaria. Then go through your deck until you can consistently use bellelba and Brycen-man to mill, with Lusamine/Cyllene to recover them. Either let the wall get knocked out to active the counter catcher or scoop it up. The mid-game consists of removing energy with Plumeria, faba, and an enhanced hammer while gusting up a Pokemon that cannot attack. When you get to the end game scoop up your wall and the support altaria to continuously loop poke-dolls. Try only to use the manaphy when you need to so you have the bench space. The Marnie is useful when facing opponents who use Steven's resolve or other control-like things. The Tate and Liza can be used to switch or draw cards when you need them.
 
-![decklist](../images/../../images/SVI/Stall/1-%20Stall.png)
+![decklist](../../images/SVI/Stall/1-%20Stall.png)
 
 ## List
 

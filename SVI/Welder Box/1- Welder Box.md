@@ -8,7 +8,7 @@ Date: 4th May 2023
 
 Description: Another enjoyable deck to play in the Live Expanded beta
 
-![decklist](../images/../../images/SVI/Welder%20Box/1-%20Welder%20Box.png)
+![decklist](../../images/SVI/Welder%20Box/1-%20Welder%20Box.png)
 
 ## List
 

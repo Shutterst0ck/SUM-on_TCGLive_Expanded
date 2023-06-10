@@ -8,7 +8,7 @@ Date: 9th June 2023
 
 Description: 2023 Asia wide.
 
-![decklist](../images/../../images/SVI/Pikarom/4-%20Pikarom.png)
+![decklist](../../images/SVI/Pikarom/4-%20Pikarom.png)
 
 ## List
 

@@ -8,7 +8,7 @@ Date: 20th May 2023
 
 Description: Possibly the BDIF in the Live Expanded beta format.
 
-![decklist](../images/../../images/SVI/Shadow%20Rider%20Vmax/1-%20Shadow%20Rider%20Vmax.png)
+![decklist](../../images/SVI/Shadow%20Rider%20Vmax/1-%20Shadow%20Rider%20Vmax.png)
 
 ## List
 

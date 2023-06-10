@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 10th June 2023
 
-![decklist](../images/../../images/SVI/Blacephalon/2-%20Blacephalon.png)
+![decklist](../../images/SVI/Blacephalon/2-%20Blacephalon.png)
 
 ## List
 

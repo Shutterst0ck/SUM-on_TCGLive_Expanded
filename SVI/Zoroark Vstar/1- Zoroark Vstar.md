@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 7th June 2023
 
-![decklist](../images/../../images/SVI/Zoroark%20Vstar/1-%20Zoroark%20Vstar.png)
+![decklist](../../images/SVI/Zoroark%20Vstar/1-%20Zoroark%20Vstar.png)
 
 ## List
 

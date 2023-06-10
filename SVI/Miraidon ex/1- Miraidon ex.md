@@ -6,7 +6,7 @@ Source: <https://youtu.be/dhY6My55gk0>
 
 Date: 18th May 2023
 
-![decklist](../images/../../images/SVI/Miraidon%20ex/1-%20Miraidon%20ex.png)
+![decklist](../../images/SVI/Miraidon%20ex/1-%20Miraidon%20ex.png)
 
 ## List
 

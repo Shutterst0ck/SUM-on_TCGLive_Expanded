@@ -6,7 +6,7 @@ Source: <https://www.youtube.com/live/tEeLP4Jzi0M?feature=share>
 
 Date: 5th June 2023
 
-![decklist](../images/../../images/SVI/Dialga/3-%20Dialga.png)
+![decklist](../../images/SVI/Dialga/3-%20Dialga.png)
 
 ## List
 

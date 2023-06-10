@@ -6,7 +6,7 @@ Source: <https://youtu.be/9Bd-I7ffVIo>
 
 Date: 2d June 2023
 
-![decklist](../images/../../images/SVI/Lost%20Zone/2-%20Lost%20Zone.png)
+![decklist](../../images/SVI/Lost%20Zone/2-%20Lost%20Zone.png)
 
 ## List
 

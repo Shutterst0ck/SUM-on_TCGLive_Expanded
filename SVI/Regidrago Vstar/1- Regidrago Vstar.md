@@ -6,7 +6,7 @@ Source: <https://youtu.be/HBDhMpkt7Jo>
 
 Date: 25th May 2023
 
-![decklist](../images/../../images/SVI/Regidrago%20Vstar/1-%20Regidrago%20Vstar.png)
+![decklist](../../images/SVI/Regidrago%20Vstar/1-%20Regidrago%20Vstar.png)
 
 ## List
 

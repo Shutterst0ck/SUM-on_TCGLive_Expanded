@@ -8,7 +8,7 @@ Date: May 2023
 
 Description: another test so feedback welcome, again i feel like draw issues may switch 1 Lumineon V (Brilliant Stars) for a Crobat V (Darkness Ablaze)  this is in the pokemon trading card game live expanded format because gamefreak is lazy
 
-![decklist](../images/../../images/SVI/Tsareena%20V/1-%20Tsareena%20V.png)
+![decklist](../../images/SVI/Tsareena%20V/1-%20Tsareena%20V.png)
 
 ## List
 

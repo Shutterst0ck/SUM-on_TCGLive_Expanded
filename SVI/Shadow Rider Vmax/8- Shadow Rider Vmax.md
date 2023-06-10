@@ -17,7 +17,7 @@ Description:
 
 • I didn’t like the idea of playing a stadium war with a chaotic swell deck, so I pivoted to sudowoodo as an eternatus counter and wondrous lab for adp, eternatus, etc
 
-![decklist](../images/../../images/SVI/Shadow%20Rider%20Vmax/8-%20Shadow%20Rider%20Vmax.png)
+![decklist](../../images/SVI/Shadow%20Rider%20Vmax/8-%20Shadow%20Rider%20Vmax.png)
 
 ## List
 
@@ -42,7 +42,7 @@ Description:
 * 4 Fog Crystal CRE 140
 * 1 Super Rod NVI 95
 * 1 Adventure Bag LOT 167
-* 2 Acerola BUS 112 PH
+* 2 Acerola BUS 112
 * 3 Marnie SSH 169
 * 1 Roxanne ASR 150
 * 1 Guzma BUS 115

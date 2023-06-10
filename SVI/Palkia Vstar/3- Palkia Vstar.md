@@ -8,7 +8,7 @@ Date: 7th June 2023
 
 Description: Altered Creation Wailord I guess idk 🤷
 
-![decklist](../images/../../images/SVI/Palkia%20Vstar/3-%20Palkia%20Vstar.png)
+![decklist](../../images/SVI/Palkia%20Vstar/3-%20Palkia%20Vstar.png)
 
 ## List
 

@@ -8,7 +8,7 @@ Date: 21th May 2023
 
 Description: Vikavolt V is a very annoying and reasonably powerful Live Expanded beta deck. The fun starts when you item lock your opponent on turn one, then evolve into Regieleki Vmax to do even more damage. Item lock your opponent (and do meaningful damage) is so much fun.
 
-![decklist](../images/../../images/SVI/Vikavolt%20V/1-%20Vikavolt%20V.png)
+![decklist](../../images/SVI/Vikavolt%20V/1-%20Vikavolt%20V.png)
 
 ## List
 

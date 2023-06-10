@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 10th June 2023
 
-![decklist](../images/../../images/SVI/Eternatus%20Vmax/2-%20Eternatus%20Vmax.png)
+![decklist](../../images/SVI/Eternatus%20Vmax/2-%20Eternatus%20Vmax.png)
 
 ## List
 

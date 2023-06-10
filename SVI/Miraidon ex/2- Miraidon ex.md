@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 13th May 2023
 
-![decklist](../images/../../images/SVI/Miraidon%20ex/2-%20Miraidon%20ex.png)
+![decklist](../../images/SVI/Miraidon%20ex/2-%20Miraidon%20ex.png)
 
 ## List
 
