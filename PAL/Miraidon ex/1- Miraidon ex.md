@@ -6,6 +6,8 @@ Source: Discord
 
 Date: 10th June 2023
 
+Description: Mimikyu is mostly just for ladder tbh. Because vast majority of them run V’s and ex’s and don’t know how to play around walls so I just slapped it in there
+
 ![decklist](../../images/PAL/Miraidon%20ex/1-%20Miraidon%20ex.png)
 
 ## List
