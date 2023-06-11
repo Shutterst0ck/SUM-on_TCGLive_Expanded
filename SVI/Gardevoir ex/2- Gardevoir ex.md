@@ -21,7 +21,7 @@ Date: 18th May 2023
 * 1 Radiant Greninja ASR 46
 * 3 Gardevoir ex SVI 86
 * 1 Viridian Forest TEU 156
-* 1 Penny SVI 183 PH
+* 1 Penny SVI 183
 * 2 Pokémon Communication TEU 152
 * 4 Mysterious Treasure FLI 113
 * 1 Pal Pad SVI 182
