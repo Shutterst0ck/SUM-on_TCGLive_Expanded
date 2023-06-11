@@ -1,5 +1,7 @@
 # Lugia Vstar
 
+## /!\ Wild Format
+
 Author: Earth25
 
 Source: <https://pokemoncard.io/deck/lugia-vstar-hates-lost-zone-and-gardevior-ex-decks-47119>

@@ -1,5 +1,7 @@
 # Ice Rider Kyurem
 
+## /!\ Wild Format
+
 Author: Earth25
 
 Source: <https://pokemoncard.io/deck/kyurem-expanded-48712>

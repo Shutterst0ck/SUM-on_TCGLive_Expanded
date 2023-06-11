@@ -1,5 +1,7 @@
 # Lugia Vstar
 
+## /!\ Wild Format
+
 Author: Earth25
 
 Source: <https://pokemoncard.io/deck/f-you-all-49429>

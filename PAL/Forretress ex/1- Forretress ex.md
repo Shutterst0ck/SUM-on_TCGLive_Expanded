@@ -6,9 +6,9 @@ Source: <https://pokemoncard.io/deck/go-big-or-go-home-49369>
 
 Date: 11th June 2023
 
-![decklist](../../images/PAL/Forretress%20ex/1-%20Forretress%20ex.png)
-
 Description: could be better but expanded isnt supported :( A go big or go home type deck that is really funny when you take all 6 prizes in one turn haven't really play tested it either but its pretty fun.
+
+![decklist](../../images/PAL/Forretress%20ex/1-%20Forretress%20ex.png)
 
 ## List
 

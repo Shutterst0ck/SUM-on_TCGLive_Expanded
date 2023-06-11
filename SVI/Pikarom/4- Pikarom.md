@@ -1,12 +1,12 @@
 # Pikarom
 
+## /!\ Wild Format
+
 Author: Earth25
 
 Source: <https://pokemoncard.io/deck/miraidon-expanded-48410>
 
 Date: 9th June 2023
-
-Description: 2023 Asia wide.
 
 ![decklist](../../images/SVI/Pikarom/4-%20Pikarom.png)
 
