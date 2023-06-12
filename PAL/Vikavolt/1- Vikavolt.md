@@ -1,0 +1,41 @@
+# Vikavolt
+
+Author: よいち＠めいかいのとびら
+
+Source: <https://twitter.com/yoichi_vivi/status/1668252312744214535>
+
+Date: 12th June 2023
+
+![decklist](../../images/PAL/Vikavolt/1-%20Vikavolt.png)
+
+## List
+
+* 2 Regieleki V SIT 57
+* 1 Vikavolt V DAA 180
+* 2 Dedenne-GX UNB 57
+* 2 Dusclops VIV 70
+* 1 Tapu Koko-GX GRI 47
+* 2 Duskull CEC 83
+* 1 Miraidon ex SVI 81
+* 2 Dusknoir VIV 71
+* 1 Tapu Koko {*} TEU 51
+* 2 Vikavolt V DAA 60
+* 2 Regieleki VMAX SIT 58
+* 4 Electropower LOT 172a
+* 2 Air Balloon SSH 156
+* 1 Cherish Ball UNM 191
+* 2 Forest Seal Stone SIT 156
+* 1 Cynthia & Caitlin CEC 189
+* 1 Field Blower GRI 125
+* 4 Nest Ball SVI 181
+* 1 Marnie SSH 200
+* 2 Professor's Research SSH 201
+* 2 Tag Call CEC 206
+* 2 Boost Shake EVS 142
+* 2 Guzma & Hala CEC 193
+* 1 Rescue Stretcher GRI 130
+* 2 Guzma BUS 115
+* 1 Thunder Mountain {*} LOT 191
+* 4 Ultra Ball SVI 196
+* 6 Basic {L} Energy Energy 39
+* 4 Speed {L} Energy RCL 173
