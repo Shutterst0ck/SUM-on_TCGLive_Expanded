@@ -36,5 +36,5 @@ Date: 8th June 2023
 * 2 Fiery Flint DRM 60
 * 2 Scoop Up Net RCL 165
 * 1 Magma Basin BRS 144
-* 9 Basic {R} Energy ecalt 2
+* 9 Basic {R} Energy SVE 2
 * 2 Heat {R} Energy DAA 174

@@ -34,5 +34,5 @@ Date: 28th May 2023
 * 2 Quick Ball SSH 179
 * 3 PokéStop PGO 68
 * 4 Gardenia's Vigor ASR 184
-* 9 Basic {G} Energy ecalt 1
-* 4 Basic {R} Energy ecalt 2
+* 9 Basic {G} Energy SVE 1
+* 4 Basic {R} Energy SVE 2

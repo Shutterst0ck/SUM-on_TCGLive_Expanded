@@ -34,4 +34,4 @@ Date: 18th May 2023
 * 4 Ultra Ball BRS 186
 * 4 Quick Ball SSH 179
 * 1 Thunder Mountain {*} LOT 191
-* 14 Basic {L} Energy ecalt 4
+* 14 Basic {L} Energy SVE 4

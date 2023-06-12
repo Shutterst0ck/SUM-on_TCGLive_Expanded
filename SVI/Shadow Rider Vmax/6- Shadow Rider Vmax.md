@@ -34,4 +34,4 @@ Date: 12th May 2023
 * 1 Forest Seal Stone SIT 156
 * 3 Air Balloon SSH 156
 * 4 Cynthia UPR 119
-* 13 Basic {P} Energy ecalt 5
+* 13 Basic {P} Energy SVE 5

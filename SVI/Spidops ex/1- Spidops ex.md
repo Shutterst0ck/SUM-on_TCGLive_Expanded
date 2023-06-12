@@ -38,4 +38,4 @@ Date: 10th June 2023
 * 1 Faba LOT 208
 * 4 Galar Mine RCL 160
 * 2 Lusamine CIN 110
-* 8 Basic {G} Energy ecalt 1
+* 8 Basic {G} Energy SVE 1

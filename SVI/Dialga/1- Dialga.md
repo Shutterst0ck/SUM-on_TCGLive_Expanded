@@ -29,4 +29,4 @@ Date: 2d May 2023
 * 2 Air Balloon SSH 156
 * 4 Professor's Research PR-SW 152
 * 4 Quick Ball SSH 179
-* 12 Basic {M} Energy ecalt 8
+* 12 Basic {M} Energy SVE 8

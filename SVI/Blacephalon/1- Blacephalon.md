@@ -30,4 +30,4 @@ Date: 8th June 2023
 * 1 Field Blower GRI 125
 * 1 Rescue Stretcher GRI 130
 * 3 Energy Retrieval EVO 77
-* 14 Basic {R} Energy ecalt 2
+* 14 Basic {R} Energy SVE 2

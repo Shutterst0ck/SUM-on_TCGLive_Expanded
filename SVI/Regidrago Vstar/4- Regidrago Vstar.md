@@ -40,5 +40,5 @@ Date: 10th June 2023
 * 1 Choice Belt BRS 135
 * 1 Triple Acceleration Energy UNB 190
 * 4 Double Colorless Energy EVO 90
-* 5 Basic {G} Energy ecalt 1
-* 4 Basic {R} Energy ecalt 2
+* 5 Basic {G} Energy SVE 1
+* 4 Basic {R} Energy SVE 2

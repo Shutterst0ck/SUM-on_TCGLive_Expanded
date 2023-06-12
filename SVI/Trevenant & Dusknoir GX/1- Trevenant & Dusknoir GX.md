@@ -38,4 +38,4 @@ Description: Two copies of Roxanne are put in the deck in order to use Roxanne o
 * 2 Air Balloon SSH 213
 * 4 Ultra Ball SUM 161
 * 2 Horror {P} Energy RCL 172
-* 7 Basic {P} Energy ecalt 5
+* 7 Basic {P} Energy SVE 5

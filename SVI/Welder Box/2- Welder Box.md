@@ -32,4 +32,4 @@ Date: 1st June 2023
 * 4 Pokégear 3.0 SSH 174
 * 2 Fire Crystal UNB 231
 * 2 Big Charm RCL 206
-* 14 Basic {R} Energy ecalt 2
+* 14 Basic {R} Energy SVE 2

@@ -33,5 +33,5 @@ Date: 6th June 2023
 * 3 Quick Ball SSH 179
 * 2 Switch Cart ASR 154
 * 3 Basic {W} Energy CRE 231
-* 3 Basic {R} Energy ecalt 2
-* 5 Basic {M} Energy ecalt 8
+* 3 Basic {R} Energy SVE 2
+* 5 Basic {M} Energy SVE 8

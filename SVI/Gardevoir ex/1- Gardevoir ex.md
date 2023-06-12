@@ -34,4 +34,4 @@ Date: 5th June 2023
 * 3 Evolution Incense SSH 163
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Cynthia UPR 119
-* 10 Basic {P} Energy ecalt 5
+* 10 Basic {P} Energy SVE 5

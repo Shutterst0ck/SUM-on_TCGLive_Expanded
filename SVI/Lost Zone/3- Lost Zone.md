@@ -28,4 +28,4 @@ Date: 4th June 2023
 * 1 Echoing Horn CRE 225
 * 4 Rescue Carrier CRZ 142
 * 4 PokéStop PGO 68
-* 5 Basic {P} Energy ecalt 5
+* 5 Basic {P} Energy SVE 5

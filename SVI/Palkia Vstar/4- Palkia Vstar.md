@@ -36,5 +36,5 @@ Date: 6th May 2023
 * 1 Energy Spinner UNB 170
 * 4 Professor's Research PR-SW 152
 * 4 Quick Ball SSH 179
-* 8 Basic {W} Energy ecalt 3
-* 3 Basic {M} Energy ecalt 8
+* 8 Basic {W} Energy SVE 3
+* 3 Basic {M} Energy SVE 8

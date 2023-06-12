@@ -1,6 +1,6 @@
 # Dialga
 
-## NOTE THAT THIS DECKLIST USES THE GLITCH ON INSTRUCT ORANGURU ([Example](https://twitter.com/kinoita_shiro/status/1667139351086792704?s=20))
+## NOTE THAT THIS DECKLIST USES THE GLITCH ON INSTRUCT ORANGURU ([Example](https://twitter.com/kinoita_shiro/status/1667139351086792704))
 
 Author: 藤井システム
 

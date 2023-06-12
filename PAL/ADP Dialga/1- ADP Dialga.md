@@ -35,4 +35,4 @@ Date: 11th June 2023
 * 3 Quick Ball SSH 179
 * 2 Aurora Energy SSH 186
 * 2 Basic {W} Energy CRE 231
-* 8 Basic {M} Energy ecalt 8
+* 8 Basic {M} Energy SVE 8
