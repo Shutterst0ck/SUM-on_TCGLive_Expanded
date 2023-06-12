@@ -12,11 +12,11 @@ Description: This has to be, in my opinion, one of the most underrated single-pr
 
 ## List
 
-* 3 Metapod RCL 2 PH
-* 4 Salazzle BST 28 PH
+* 3 Metapod RCL 2
+* 4 Salazzle BST 28
 * 4 Salandit GRI 15
 * 3 Butterfree FST 3
-* 3 Caterpie RCL 1 PH
+* 3 Caterpie RCL 1
 * 3 Jirachi SMP 161
 * 2 Cynthia HIF 151
 * 2 Escape Board UPR 167
@@ -27,10 +27,10 @@ Description: This has to be, in my opinion, one of the most underrated single-pr
 * 3 Evolution Incense SSH 163
 * 1 Escape Rope BUS 163
 * 2 Turffield Stadium RCL 170
-* 2 Energy Loto GRI 122 PH
+* 2 Energy Loto GRI 122
 * 4 Professor's Research SVI 189
 * 2 Choice Belt BRS 135
-* 1 Rescue Carrier EVS 154 PH
+* 1 Rescue Carrier EVS 154
 * 1 Boss's Orders BRS 132
 * 2 Twin Energy RCL 209
 * 4 Double Colorless Energy GRI 166
