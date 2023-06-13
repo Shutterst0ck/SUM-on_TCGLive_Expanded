@@ -10,7 +10,7 @@ Date: 13th June 2023
 
 ## List
 
-* 2 Zorua EVS 102 PH
+* 2 Zorua EVS 102
 * 2 Galarian Moltres V CRE 97
 * 3 Eternatus VMAX SHF 195
 * 4 Eternatus V SHF 194
@@ -29,14 +29,14 @@ Date: 13th June 2023
 * 1 Rescue Stretcher GRI 130
 * 1 Quick Ball SSH 216
 * 2 Energy Switch SIT 212
-* 1 Vitality Band SSH 185 PH
+* 1 Vitality Band SSH 185
 * 1 Forest Seal Stone SIT 156
 * 2 Switch EVO 88
-* 3 Great Ball CPA 52 PH
+* 3 Great Ball CPA 52
 * 1 Devoured Field CIN 93
 * 1 Boss's Orders RCL 189
 * 3 Professor's Research PR-SW 152
-* 3 Quick Ball SSH 179 PH
-* 1 Weakness Guard Energy UNM 213 PH
+* 3 Quick Ball SSH 179
+* 1 Weakness Guard Energy UNM 213
 * 7 Basic {D} Energy ecalt 7
-* 2 Hiding {D} Energy DAA 175 PH
+* 2 Hiding {D} Energy DAA 175
