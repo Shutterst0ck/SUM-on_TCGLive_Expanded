@@ -13,8 +13,8 @@ Date: 13th June 2023
 * 1 Galarian Zigzagoon SSH 117
 * 1 Sprigatito PAL 12
 * 2 Meowscarada ex PAL 15
-* 1 Floragato PAL 14 PH
-* 1 Mew UNB 76 PH
+* 1 Floragato PAL 14
+* 1 Mew UNB 76
 * 3 Sprigatito SVI 13
 * 1 Radiant Alakazam SIT 59
 * 1 Floragato PAL 14
