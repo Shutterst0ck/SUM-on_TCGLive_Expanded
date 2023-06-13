@@ -8,6 +8,8 @@ Source: <https://twitter.com/saitsuyo_poke/status/1668559400733409280>
 
 Date: 13th June 2023
 
+Description: maybe we should run 3 Electrode-GX and 3 voltorb.
+
 ![decklist](../../images/PAL/Raichu%20Electrode/1-%20Raichu%20Electrode.png)
 
 ## List
