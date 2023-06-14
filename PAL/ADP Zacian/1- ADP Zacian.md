@@ -6,7 +6,7 @@ Source: <https://www.youtube.com/live/3KXbrSvm-NY?feature=share>
 
 Date: 12th June 2023
 
-![decklist](../../images/PAL/ADP%20Dialga/1-%20ADP%20Dialga.png)
+![decklist](../../images/PAL/ADP%20Zacian/1-%20ADP%20Zacian.png)
 
 ## List
 
