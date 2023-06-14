@@ -24,16 +24,16 @@ Description: OH SHIT OH FUCK
 * 3 Electrode-GX HIF 126
 * 2 Pikachu LOR 52
 * 2 Alolan Raichu UNM 57
-* 1 Chaotic Swell CEC 187 PH
+* 1 Chaotic Swell CEC 187
 * 4 Cram-o-matic FST 229
 * 1 Hisuian Heavy Ball ASR 146
 * 4 Trekking Shoes ASR 156
-* 4 Ultra Ball PLB 90 PH
+* 4 Ultra Ball PLB 90
 * 1 Telescopic Sight VIV 160
 * 1 Escape Rope PRC 127
 * 1 Air Balloon SSH 156
 * 4 Professor's Research SVI 241
-* 4 Quick Ball FST 237 PH
+* 4 Quick Ball FST 237
 * 4 Acro Bike CES 123
 * 2 Rescue Stretcher GRI 13
 * 4 Counter Energy CIN 100
