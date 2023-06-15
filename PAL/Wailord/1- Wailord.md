@@ -34,4 +34,3 @@ Description: If able. Wailmer always starts on your bench. Search bax/evolutions
 * 2 Ultra Ball FLF 99
 * 12 Water Energy 3
 * 4 Jet Energy PAL 190
-
