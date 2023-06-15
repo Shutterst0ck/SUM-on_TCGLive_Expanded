@@ -8,7 +8,6 @@ Date: 15th June 2023
 
 Description: The goal is to lock the opponent under Path to the Peak and Alolan Muk. Marshadow is here to get rid of a lock in case the opponent placed its own Path to the Peak. Once you've locked your opponent, the win is almost yours, thanks to the Path to the Peak and Noivern ex's Dominating Echo attack that prevents the opponent to attach special Energy cards and mostly to counter the stadium! Alolan Muk will block any opponent's Marshadow for example. I also thought of playing Galarian Meowth to discard Dragon Pokémon, but could find room except by removing items. But I think the deck might lose consistency without the items. And so obviously always go first!
 
-
 ![decklist](../../images/PAL/Regidrago%20Vstar/2-%20Regidrago%20Vstar.png)
 
 ## List
