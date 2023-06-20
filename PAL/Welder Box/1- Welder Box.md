@@ -6,7 +6,7 @@ Source: Discord
 
 Date: 18th June 2023
 
-![decklist](../../images/PAL/Volcarona%20V/6-%20Volcarona%20V.png)
+![decklist](../../images/PAL/Welder%20Box/1-%20Welder%20Box.png)
 
 ## List
 
