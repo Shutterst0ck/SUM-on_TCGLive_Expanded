@@ -39,4 +39,4 @@ Date: 17th June 2023
 * 1 Bravery Charm PAL 173
 * 3 Quick Ball SSH 179
 * 2 Aurora Energy SSH 186
-* 10 Basic {D} Energy ecalt 7
+* 10 Basic {D} Energy SVE 7

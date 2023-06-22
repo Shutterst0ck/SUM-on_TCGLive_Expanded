@@ -37,4 +37,4 @@ Date: 14th June 2023
 * 1 Choice Belt BRS 135
 * 4 Quick Ball SSH 216
 * 4 Aurora Energy SSH 186
-* 7 Basic {W} Energy ecalt 3
+* 7 Basic {W} Energy SVE 3

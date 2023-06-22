@@ -30,4 +30,4 @@ Date: 18th June 2023
 * 1 Heat Factory {*} LOT 178
 * 2 Scoop Up Net RCL 165
 * 1 Field Blower GRI 125
-* 10 Basic {R} Energy ecalt 2
+* 10 Basic {R} Energy SVE 2

@@ -35,4 +35,4 @@ Date: 14th June 2023
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Rescue Carrier CRZ 142
 * 3 Basic {R} Energy Energy 28
-* 15 Basic {R} Energy ecalt 2
+* 15 Basic {R} Energy SVE 2

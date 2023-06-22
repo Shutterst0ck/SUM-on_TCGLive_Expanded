@@ -34,5 +34,5 @@ Date: 17th June 2023
 * 1 Choice Belt BRS 135
 * 1 Rescue Stretcher GRI 130
 * 1 Quick Ball SSH 216
-* 5 Basic {G} Energy ecalt 1
+* 5 Basic {G} Energy SVE 1
 * 4 Double Colorless Energy SLG 69

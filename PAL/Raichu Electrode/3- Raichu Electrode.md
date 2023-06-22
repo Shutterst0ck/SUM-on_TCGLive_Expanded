@@ -36,7 +36,7 @@ Date: 18th June 2023
 * 2 PokéStop PGO 68
 * 1 Speed {L} Energy RCL 173
 * 2 Reversal Energy PAL 192
-* 2 Basic {L} Energy ecalt 4
+* 2 Basic {L} Energy SVE 4
 * 4 Counter Energy CIN 100
 * 2 Reversal Energy PAL 192
 * 3 Speed {L} Energy RCL 173

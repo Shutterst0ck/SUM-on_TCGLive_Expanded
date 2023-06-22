@@ -38,5 +38,5 @@ Date: 13th June 2023
 * 3 Professor's Research PR-SW 152
 * 3 Quick Ball SSH 179
 * 1 Weakness Guard Energy UNM 213
-* 7 Basic {D} Energy ecalt 7
+* 7 Basic {D} Energy SVE 7
 * 2 Hiding {D} Energy DAA 175

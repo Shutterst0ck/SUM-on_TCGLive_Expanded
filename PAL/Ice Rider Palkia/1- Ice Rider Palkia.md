@@ -25,11 +25,11 @@ Date: 19th June 2023
 * 1 Air Balloon SSH 156
 * 2 Cynthia UPR 119
 * 4 Aqua Patch GRI 119
-* 2 Quick Ball FST 237 PH
-* 1 Ultra Ball BRS 150 PH
+* 2 Quick Ball FST 237
+* 1 Ultra Ball BRS 150
 * 1 Quick Ball SSH 179
 * 1 Escape Rope BST 125
-* 2 Calamitous Snowy Mountain PAL 174 PH
+* 2 Calamitous Snowy Mountain PAL 174
 * 3 Scoop Up Net RCL 165
 * 1 Leon VIV 154
 * 1 Max Potion GRI 128
@@ -37,11 +37,11 @@ Date: 19th June 2023
 * 1 Ultra Ball SUM 135
 * 2 Ultra Ball BRS 150
 * 2 Iono PAL 185
-* 1 Choice Belt PAL 176 PH
+* 1 Choice Belt PAL 176
 * 2 Capacious Bucket RCL 156
 * 1 Choice Belt BRS 135
 * 1 Guzma BUS 115
 * 1 Melony ASR-TG 26
 * 1 Switch SVI 194
-* 1 Basic {W} Energy Energy 20 PH
+* 1 Basic {W} Energy Energy 20
 * 7 Basic {W} Energy Energy 29
