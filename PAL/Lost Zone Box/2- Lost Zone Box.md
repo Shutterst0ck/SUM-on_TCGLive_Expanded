@@ -31,7 +31,7 @@ Date: 26th June 2023
 * 1 Boss's Orders BRS 132
 * 4 Colress's Experiment LOR 155
 * 1 Gladion CIN 95
-* 1 Iono SV2 185
+* 1 Iono PAL 185
 * 3 Professor Kukui SUM 128
 * 1 Choice Belt BRS 135
 * 1 Capture Energy RCL 171
