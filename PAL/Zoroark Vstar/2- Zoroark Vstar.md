@@ -14,7 +14,7 @@ Date: 17th July 2023
 * 3 Hisuian Zoroark VSTAR LOR 147
 * 2 Dedenne-GX UNB 57
 * 4 Hisuian Zoroark V LOR 146
-* 4 Gengar LOR 66 PH
+* 4 Gengar LOR 66
 * 1 Crobat V LOR-TG 20
 * 3 Guzma BUS 115
 * 4 Iono PAL 185
@@ -28,5 +28,5 @@ Date: 17th July 2023
 * 4 Gapejaw Bog ASR 142
 * 1 Rescue Stretcher GRI 130
 * 1 Field Blower GRI 125
-* 4 Double Colorless Energy PHF 111 PH
+* 4 Double Colorless Energy PHF 111
 * 2 Triple Acceleration Energy UNB 190
