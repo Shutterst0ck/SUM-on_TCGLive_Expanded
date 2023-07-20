@@ -34,7 +34,7 @@ Date: 18th July 2023
 * 2 Guzma HIF 153
 * 1 Hisuian Heavy Ball ASR 146
 * 1 Adventure Bag LOT 167
-* 1 Marnie PR-SW 121
+* 1 Volkner UPR 135
 * 2 Iono PAL 269
 * 1 Thunder Mountain {*} LOT 191
 * 12 Basic {L} Energy Energy 30
