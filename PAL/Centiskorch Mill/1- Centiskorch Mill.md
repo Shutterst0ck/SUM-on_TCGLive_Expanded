@@ -6,7 +6,7 @@ Source: <https://youtu.be/ML2GBrgREmU>
 
 Date: 14th June 2023
 
-![decklist](../../images/PAL/Centiskorch%20Mill/1-%20Centiskorch%20Mill.pngg)
+![decklist](../../images/PAL/Centiskorch%20Mill/1-%20Centiskorch%20Mill.png)
 
 ## List
 
