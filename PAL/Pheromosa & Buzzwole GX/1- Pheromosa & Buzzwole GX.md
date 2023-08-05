@@ -1,4 +1,4 @@
-# Forretress ex
+# Pheromosa & Buzzwole GX
 
 Author: GEK0
 
@@ -8,7 +8,7 @@ Date: 11th June 2023
 
 Description: could be better but expanded isnt supported :( A go big or go home type deck that is really funny when you take all 6 prizes in one turn haven't really play tested it either but its pretty fun.
 
-![decklist](../../images/PAL/Forretress%20ex/1-%20Forretress%20ex.png)
+![decklist](../../images/PAL/Pheromosa%20&%20Buzzwole%20GX/1-%20Pheromosa%20&%20Buzzwole%20GX.png)
 
 ## List
 
