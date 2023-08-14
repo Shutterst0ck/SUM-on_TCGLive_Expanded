@@ -11,7 +11,7 @@ Date: 13th August 2023
 ## List
 
 2 Zacian V SSH 138
-3 Revavroom ex SV3 85
+3 Revavroom ex OBF 156
 3 Varoom SVI 140
 3 Jirachi TEU 99
 1 Lucario & Melmetal-GX UNB 120
