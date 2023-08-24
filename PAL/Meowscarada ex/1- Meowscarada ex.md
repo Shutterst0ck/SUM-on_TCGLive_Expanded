@@ -1,6 +1,6 @@
 # Meowscarada ex
 
-Author: SamX9000#2540
+Author: samx9000
 
 Source: Discord
 

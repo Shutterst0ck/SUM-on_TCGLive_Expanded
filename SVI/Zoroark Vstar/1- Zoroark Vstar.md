@@ -1,6 +1,6 @@
 # Zoroark Vstar
 
-Author: Cdbidz45#3527
+Author: cdbidz45
 
 Source: Discord
 

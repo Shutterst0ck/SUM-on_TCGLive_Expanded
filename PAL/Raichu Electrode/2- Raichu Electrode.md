@@ -2,7 +2,7 @@
 
 ## NOTE THAT THIS DECKLIST USES THE GLITCH ON INSTRUCT ORANGURU ([Example](https://twitter.com/kinoita_shiro/status/1667139351086792704))
 
-Author: Deseus | Legacy of Wrath#6582
+Author: deseuslegacyofwrath
 
 Source: Discord
 

@@ -1,6 +1,6 @@
 # Miraidon ex
 
-Author: Deseus | Legacy of Wrath#6582
+Author: deseuslegacyofwrath
 
 Source: Discord
 

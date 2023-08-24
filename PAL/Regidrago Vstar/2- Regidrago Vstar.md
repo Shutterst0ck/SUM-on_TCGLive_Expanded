@@ -1,6 +1,6 @@
 # Regidrago Vstar
 
-Author: Sayen-Raigin#5576
+Author: sayenraigin
 
 Source: Discord
 

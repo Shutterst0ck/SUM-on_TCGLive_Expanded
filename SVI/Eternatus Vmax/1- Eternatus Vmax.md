@@ -1,6 +1,6 @@
 # Eternatus Vmax
 
-Author: MattyCims#5702
+Author: mattycims
 
 Source: Discord
 
