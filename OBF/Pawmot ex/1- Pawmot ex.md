@@ -20,10 +20,10 @@ Date: 24th August 2023
 * 3 Pawmot ex OBF 73
 * 2 Mareep EVS 54
 * 1 Crobat V DAA 182
-* 2 Flaaffy EVS 55 PH
+* 2 Flaaffy EVS 55
 * 1 Cynthia HIF 151
 * 1 Marnie SSH 208
-* 4 Battle VIP Pass FST 225 PH
+* 4 Battle VIP Pass FST 225
 * 1 Professor's Research SSH 209
 * 2 Stormy Mountains EVS 161
 * 1 Raihan EVS 224
