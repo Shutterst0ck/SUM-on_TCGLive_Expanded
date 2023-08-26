@@ -1,4 +1,4 @@
-# Giratina Vstar
+# Regidrago Vstar
 
 Author: 雨男 デッパLv.X ☔️
 
@@ -6,7 +6,7 @@ Source: <https://twitter.com/biidroof28/status/1668914598840500224>
 
 Date: 14th June 2023
 
-![decklist](../../images/PAL/Giratina%20Vstar/4-%20Giratina%20Vstar.png)
+![decklist](../../images/PAL/Regidrago%20Vstar/6-%20Regidrago%20Vstar.png)
 
 ## List
 

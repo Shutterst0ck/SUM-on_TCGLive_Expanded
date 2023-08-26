@@ -1,4 +1,4 @@
-# Giratina Vtsar
+# Regidrago Vstar
 
 Author: ラルダ
 
@@ -6,7 +6,7 @@ Source: <https://twitter.com/Jroad_boy/status/1668324712135667715>
 
 Date: 12th June 2023
 
-![decklist](../../images/PAL/Giratina%20Vstar/2-%20Giratina%20Vstar.png)
+![decklist](../../images/PAL/Regidrago%20Vstar/4-%20Regidragoo%20Vstar.png)
 
 ## List
 
