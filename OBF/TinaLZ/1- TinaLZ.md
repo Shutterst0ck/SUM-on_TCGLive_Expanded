@@ -35,7 +35,7 @@ Date: 26th August 2023
 * 4 Mirage Gate LOR 163
 * 1 Colress's Experiment LOR 205
 * 2 Colress's Experiment LOR 155
-* 1 Choice Belt PAL 176 PH
+* 1 Choice Belt PAL 176
 * 2 Beach Court SVI 167
 * 1 Field Blower GRI 125
 * 4 Basic {G} Energy Energy 18

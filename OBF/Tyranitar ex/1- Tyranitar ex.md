@@ -10,7 +10,7 @@ Date: 26th August 2023
 
 ## List
 
-* 2 Pupitar LOT 116 PH
+* 2 Pupitar LOT 116
 * 1 Crobat V PR-SW 98
 * 3 Tyranitar ex OBF 66
 * 3 Larvitar LOT 114
