@@ -1,0 +1,37 @@
+# Copperajah ex
+
+Author: Expanded ShowRoom
+
+Source: <https://youtu.be/gxyczN4Gi0s?si=E2B8jGqR60mTwcf4>
+
+Date: 10th September 2023
+
+![decklist](../../images/OBF)
+
+## List
+
+* 1 Lumineon V BRS 40
+* 1 Zacian V SSH 138
+* 3 Copperajah ex PAL 150
+* 4 Cufant PAL 149
+* 1 Radiant Tsareena SIT 16
+* 1 Crobat V DAA 104
+* 2 Guzma BUS 115
+* 2 Battle VIP Pass FST 225
+* 2 Acerola BUS 112
+* 1 Field Blower GRI 125
+* 2 Iono PAL 185
+* 2 Professor's Research CEL 23
+* 2 Metal Frying Pan FLI 112
+* 1 Rescue Stretcher GRI 130
+* 4 Metal Saucer SSH 170
+* 4 Quick Ball SSH 179
+* 4 Crystal Cave EVS 144
+* 2 Metal Goggles TEU 148
+* 2 Energy Search CRZ 128
+* 4 Ultra Ball BRS 150
+* 2 Energy Switch SSH 162
+* 1 Forest Seal Stone SIT 156
+* 1 Mallow & Lana CEC 198
+* 1 Arven SVI 166
+* 10 Basic {M} Energy BWALT 22

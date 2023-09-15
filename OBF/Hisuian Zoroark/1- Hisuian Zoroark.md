@@ -4,7 +4,7 @@ Author: .sonnenbrille
 
 Source: Discord
 
-Date: 30th August 2023
+Date: 7th September 2023
 
 ![decklist](../../images/OBF/Hisuian%20Zoroark/1-%20Hisuian%20Zoroark.png)
 
@@ -19,18 +19,19 @@ Date: 30th August 2023
 * 4 Raichu BUS 41
 * 1 Crobat V DAA 182
 * 4 Devolution Spray Z UNB 166
-* 2 Cynthia UPR 119
 * 1 Chaotic Swell CEC 187
+* 1 Path to the Peak ASR 213
 * 2 Rescue Stretcher GRI 130
-* 2 Guzma BUS 143
+* 1 Guzma BUS 143
 * 4 Battle VIP Pass FST 225
 * 1 Iono PAL 269
 * 3 Nest Ball SUM 123
-* 1 PokéStop PGO 68
+* 4 Quick Ball SSH 216
 * 2 Ultra Ball BRS 186
 * 2 Air Balloon SSH 156
+* 1 Guzma HIF 153
 * 4 Evolution Incense SSH 163
+* 2 Cynthia UPR 148
 * 4 Scoop Up Net RCL 165
 * 3 Marnie SSH 200
 * 1 Field Blower GRI 125
-* 4 Quick Ball SSH 179 PH
