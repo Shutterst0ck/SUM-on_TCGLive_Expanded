@@ -1,5 +1,7 @@
 # Toedscruel ex
 
+## NOTE THAT THIS DECKLIST USES THE GLITCH ON TOEDSCRUEL EX (If you attach anything -included evolving- to a Grass Pokémon, it will count as a Grass Energy attached and so will boost Toedscruel ex's damage)
+
 Author: Expanded ShowRoom
 
 Source: <https://youtu.be/NSajdgiUncE?si=pEjFzjsBaxmtQT_Q>
