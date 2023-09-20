@@ -1,5 +1,7 @@
 # Arceus Duraludon
 
+## /!\ Wild Format
+
 Author: トニオ(トネ)
 
 Source: <https://twitter.com/tonio_sw1/status/1703183669761032574>
