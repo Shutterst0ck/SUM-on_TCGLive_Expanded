@@ -17,8 +17,7 @@ Description: OH SHIT OH FUCK
 * 1 Squawkabilly ex PAL 264
 * 1 Whismur CES 116
 * 2 Oranguru SUM 113
-* 1 Dedenne-GX UNB 57
-* 1 Dedenne-GX UNB 57
+* 2 Dedenne-GX UNB 57
 * 1 Ditto {*} LOT 154
 * 3 Voltorb PAL 66
 * 3 Electrode-GX HIF 126
@@ -35,7 +34,7 @@ Description: OH SHIT OH FUCK
 * 4 Professor's Research SVI 241
 * 4 Quick Ball FST 237
 * 4 Acro Bike CES 123
-* 2 Rescue Stretcher GRI 13
+* 2 Rescue Stretcher GRI 130
 * 4 Counter Energy CIN 100
 * 4 Speed {L} Energy RCL 173
 * 4 Reversal Energy PAL 192
