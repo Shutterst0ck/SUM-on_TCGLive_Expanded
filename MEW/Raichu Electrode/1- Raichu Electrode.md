@@ -6,7 +6,7 @@ Source: <https://youtu.be/2nQsoCD2JmA?si=At6RKaXIHN2R1nCp>
 
 Date: 23th September 2023
 
-![decklist](../../images/OBF)
+![decklist](../../images/MEW/Raichu%20Electrode/1-%20Raichu%20Electrode.png)
 
 ## List
 

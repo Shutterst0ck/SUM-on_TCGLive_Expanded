@@ -10,9 +10,8 @@ Date: 11th August 2023
 
 ## List
 
-* 3 Charjabug UNB 58
+* 4 Charjabug UNB 58
 * 2 Inteleon SSH 58
-* 1 Charjabug UNB 58
 * 3 Drizzile SSH 56
 * 4 Sobble CRE 41
 * 3 Vikavolt FST 101
@@ -24,12 +23,11 @@ Date: 11th August 2023
 * 1 Professor's Research SSH 209
 * 4 Rescue Carrier EVS 154
 * 4 Level Ball BST 129
-* 2 Iono PAL 269
 * 1 Field Blower GRI 125
 * 4 Nest Ball SUM 123
 * 4 Path to the Peak CRE 148
 * 4 Rare Candy SSH 180
 * 3 Evolution Incense SSH 163
-* 2 Iono PAL 254
+* 4 Iono PAL 254
 * 4 Scoop Up Net RCL 165
 * 1 Capture Energy RCL 171
