@@ -12,7 +12,7 @@ Date: 12th June 2023
 
 * 3 Miraidon ex SVI 81
 * 4 Jirachi TEU 99
-* 1 Tapu Koko {*} TEU 51
+* 1 Tapu Koko ◇ TEU 51
 * 1 Regieleki V SIT 57
 * 1 Regieleki VMAX SIT 58
 * 1 Vikavolt V DAA 60
@@ -23,12 +23,12 @@ Date: 12th June 2023
 * 1 Field Blower GRI 125
 * 4 Scoop Up Net RCL 165
 * 2 Escape Board UPR 122
-* 4 Escape Rope PLS 120
+* 4 Escape Rope BST 125
 * 2 Iono PAL 185
-* 1 Ultra Ball SLG 68
+* 1 Ultra Ball SVI 196
 * 4 Quick Ball SSH 179
 * 4 Electropower LOT 172
 * 2 Marnie SSH 169
-* 1 Thunder Mountain {*} LOT 191
+* 1 Thunder Mountain ◇ LOT 191
 * 1 Forest Seal Stone SIT 156
 * 12 Basic {L} Energy SVE 4

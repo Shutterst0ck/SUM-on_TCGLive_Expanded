@@ -10,33 +10,28 @@ Date: 13th June 2023
 
 ## List
 
-* 2 Zorua EVS 102
+* 4 Zorua EVS 102
 * 2 Galarian Moltres V CRE 97
-* 3 Eternatus VMAX SHF 195
-* 4 Eternatus V SHF 194
-* 3 Zoroark-GX SMP 84
-* 2 Crobat V DAA 182
-* 2 Crobat V DAA 104
-* 2 Zorua EVS 102
+* 3 Eternatus VMAX DAA 117
+* 4 Eternatus V DAA 116
+* 3 Zoroark-GX SLG 53
+* 4 Crobat V DAA 104
 * 1 Piers DAA 165
-* 4 Pokémon Communication BLW 99
-* 1 Black Market {*} TEU 134
+* 4 Pokémon Communication TEU 152
+* 1 Black Market ◇ TEU 134
 * 1 Chaotic Swell CEC 187
-* 1 Boss's Orders RCL 200
-* 1 Guzma BUS 143
-* 1 Iono PAL 269
-* 1 Iono PAL 185
+* 2 Boss's Orders PAL 172
+* 1 Guzma BUS 115
+* 2 Iono PAL 185
 * 1 Rescue Stretcher GRI 130
-* 1 Quick Ball SSH 216
-* 2 Energy Switch SIT 212
+* 4 Quick Ball SSH 179
+* 2 Energy Switch SVI 173
 * 1 Vitality Band SSH 185
 * 1 Forest Seal Stone SIT 156
-* 2 Switch EVO 88
-* 3 Great Ball CPA 52
+* 2 Switch SVI 194
+* 3 Great Ball PAL 183
 * 1 Devoured Field CIN 93
-* 1 Boss's Orders RCL 189
-* 3 Professor's Research PR-SW 152
-* 3 Quick Ball SSH 179
+* 3 Professor's Research SVI 190
 * 1 Weakness Guard Energy UNM 213
 * 7 Basic {D} Energy SVE 7
 * 2 Hiding {D} Energy DAA 175

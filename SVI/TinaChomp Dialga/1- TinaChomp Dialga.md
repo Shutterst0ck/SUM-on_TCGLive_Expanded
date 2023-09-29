@@ -33,8 +33,8 @@ Description: It can wipe out an opponents entire board. Yes, it is a bit high ro
 * 2 Hisuian Heavy Ball ASR 146
 * 4 Trekking Shoes ASR 156
 * 2 Rose Tower DAA 169
-* 4 Quick Ball FST 237
-* 4 Ultra Ball BRS 150
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
 * 4 Rainbow Energy SUM 137
-* 1 Unit Energy LightningPsychicMetal UPR 138
+* 1 Unit Energy {L}{P}{M} UPR 138
 * 4 Aurora Energy SSH 186

@@ -13,16 +13,16 @@ Date: 16th September 2023
 * 4 Murkrow PAL 131
 * 4 Wattrel PAL 80
 * 4 Flamigo PAL 170
-* 1 Squawkabilly ex PAL 264
-* 1 Honchkrow-GX UNB 202
+* 1 Squawkabilly ex PAL 169
+* 1 Honchkrow-GX UNB 109
 * 1 Dedenne-GX UNB 57
 * 4 Ditto PGO 53
-* 4 Ultra Ball BRS 150
+* 4 Ultra Ball SVI 196
 * 4 Quick Ball SSH 179
 * 2 Iono PAL 185
-* 4 Professor's Research CEL 23
+* 4 Professor's Research SVI 190
 * 1 Hisuian Heavy Ball ASR 146
-* 4 Trekking Shoes CRZ 145
+* 4 Trekking Shoes ASR 156
 * 1 Field Blower GRI 125
 * 1 Super Rod PAL 188
 * 2 Guzma BUS 115
@@ -30,5 +30,5 @@ Date: 16th September 2023
 * 4 Acro Bike CES 123
 * 1 Familiar Bell DAA 161
 * 2 Scoop Up Net RCL 165
-* 4 Double Colorless Energy SLG 69
-* 4 Basic {D} Energy Energy 51
+* 4 Double Colorless Energy GEN 74
+* 4 Basic {D} Energy SVE 7

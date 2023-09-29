@@ -23,13 +23,12 @@ Date: 27th September 2023
 * 1 Raihan EVS 152
 * 2 Super Rod PAL 188
 * 1 Memory Capsule VIV 155
-* 1 Scoop Up Net RCL 165
 * 3 Nest Ball SVI 181
 * 1 Pal Pad SVI 182
 * 1 Bird Keeper DAA 159
 * 3 Rare Candy SVI 191
 * 1 Erika's Hospitality TEU 140
-* 3 Scoop Up Net RCL 165
+* 4 Scoop Up Net RCL 165
 * 2 Artazon PAL 171
 * 3 Evolution Incense SSH 163
 * 1 Guzma BUS 115

@@ -14,7 +14,7 @@ Description: The main attacker is Calyrex, Suicune is useful against pokemon who
 
 * 3 Snom SSH 63
 * 3 Frosmoth SSH 64
-* 1 Starmie V ASR 166
+* 1 Starmie V ASR 30
 * 1 Radiant Greninja ASR 46
 * 2 Crobat V DAA 104
 * 4 Ice Rider Calyrex V CRE 45
@@ -30,8 +30,8 @@ Description: The main attacker is Calyrex, Suicune is useful against pokemon who
 * 4 Quick Ball SSH 179
 * 4 Capacious Bucket RCL 156
 * 1 Nessa VIV 157
-* 2 Professor's Research SHF 60
+* 2 Professor's Research SVI 190
 * 3 Melony CRE 146
 * 2 Choice Belt BRS 135
-* 2 Max Potion BKP 103
-* 10 Water Energy 3
+* 2 Max Potion GRI 128
+* 10 Basic {W} Energy SVE 3

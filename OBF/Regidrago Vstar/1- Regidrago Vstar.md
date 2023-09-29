@@ -14,8 +14,8 @@ Date: 30th August 2023
 * 1 Garchomp & Giratina-GX UNM 146
 * 1 Reshiram & Zekrom-GX CEC 157
 * 1 Noivern-GX BUS 99
-* 1 Dialga-GX UPR 100
-* 1 Palkia-GX UPR 101
+* 1 Dialga-GX FLI 82
+* 1 Palkia-GX FLI 20
 * 2 Ralts SVI 84
 * 1 Noivern ex PAL 153
 * 1 Giratina VSTAR LOR 131
@@ -24,18 +24,18 @@ Date: 30th August 2023
 * 3 Regidrago VSTAR SIT 136
 * 2 Kirlia SIT 68
 * 1 Leafeon V EVS 7
-* 3 Regidrago V PR-SW 281
+* 3 Regidrago V SIT 135
 * 3 N's Resolve CEC 200
 * 3 Mysterious Treasure FLI 113
-* 3 Professor's Research SVI 189
+* 3 Professor's Research SVI 190
 * 1 Switch SVI 194
 * 4 Ultra Ball SVI 196
-* 2 Boss’s Orders PAL 172
+* 2 Boss's Orders PAL 172
 * 1 Choice Belt PAL 176
 * 1 Pokémon League Headquarters OBF 192
 * 3 Marnie SSH 169
 * 1 Escape Rope BST 125
 * 2 Path to the Peak CRE 148
 * 4 Battle VIP Pass FST 225
-* 8 Grass Energy 1
-* 3 Fire Energy 2
+* 8 Basic {G} Energy SVE 1
+* 3 Basic {R} Energy SVE 2

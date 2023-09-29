@@ -10,26 +10,26 @@ Date: 25th July 2023
 
 ## List
 
-* 1 Squawkabilly ex PAL 264
-* 2 Origin Forme Dialga VSTAR ASR 210
-* 1 Zacian V PR-SW 76
+* 1 Squawkabilly ex PAL 169
+* 2 Origin Forme Dialga VSTAR ASR 114
+* 1 Zacian V SSH 138
 * 3 Origin Forme Dialga V ASR 113
 * 1 Radiant Greninja ASR 46
-* 1 Tapu Lele-GX HIF 163
-* 1 Crobat V PR-SW 98
-* 3 Jirachi SMP 161
-* 2 Switch SUM 160
-* 3 Ultra Ball SUM 161
-* 2 Escape Board UPR 167
-* 4 Scoop Up Net RCL 207
+* 1 Tapu Lele-GX GRI 60
+* 1 Crobat V DAA 104
+* 3 Jirachi TEU 99
+* 2 Switch SVI 194
+* 3 Ultra Ball SVI 196
+* 2 Escape Board UPR 122
+* 4 Scoop Up Net RCL 165
 * 1 Hisuian Heavy Ball ASR 146
-* 3 Guzma BUS 143
+* 3 Guzma BUS 115
 * 4 Battle VIP Pass FST 225
-* 2 Quick Ball SSH 216
-* 3 Viridian Forest UNM 256
-* 4 Metal Saucer SSH 214
-* 1 Raihan EVS 202
-* 2 Escape Rope BUS 163
-* 2 Iono PAL 254
-* 2 Marnie SSH 200
-* 12 Basic {M} Energy EVS 237
+* 2 Quick Ball SSH 179
+* 3 Viridian Forest TEU 156
+* 4 Metal Saucer SSH 170
+* 1 Raihan EVS 152
+* 2 Escape Rope BST 125
+* 2 Iono PAL 185
+* 2 Marnie SSH 169
+* 12 Basic {M} Energy SVE 8

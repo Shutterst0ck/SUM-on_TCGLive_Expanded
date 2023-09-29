@@ -18,7 +18,7 @@ Date: 21th September 2023
 * 2 Zacian V SSH 138
 * 2 Arceus & Dialga & Palkia-GX CEC 156
 * 1 Squawkabilly ex PAL 169
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 4 Ultra Ball SVI 196
 * 4 Metal Saucer SSH 170
 * 3 Energy Switch SVI 173

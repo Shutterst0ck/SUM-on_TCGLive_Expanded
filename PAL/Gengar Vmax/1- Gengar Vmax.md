@@ -14,20 +14,20 @@ Date: 22th July 2023
 * 1 Manaphy BRS 41
 * 1 Dedenne-GX UNB 57
 * 1 Lumineon V BRS 40
-* 1 Crobat V SHF 44
+* 1 Crobat V DAA 104
 * 4 Houndour BST 95
 * 3 Houndoom BST 96
 * 4 Gengar V FST 156
 * 3 Gengar VMAX FST 157
-* 2 Professor's Research SHF 60
+* 2 Professor's Research SVI 190
 * 1 Forest Seal Stone SIT 156
 * 2 Big Charm SSH 158
 * 1 Field Blower GRI 125
 * 4 Iono PAL 185
 * 2 Guzma BUS 115
-* 1 Escape Rope PLS 120
+* 1 Escape Rope BST 125
 * 4 Urn of Vitality BST 139
-* 2 Ultra Ball ROS 93
+* 2 Ultra Ball SVI 196
 * 3 Evolution Incense SSH 163
 * 4 Quick Ball SSH 179
 * 3 Path to the Peak CRE 148

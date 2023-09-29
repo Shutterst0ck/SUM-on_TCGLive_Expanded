@@ -17,20 +17,20 @@ Description: This has to be, in my opinion, one of the most underrated single-pr
 * 4 Salandit GRI 15
 * 3 Butterfree FST 3
 * 3 Caterpie RCL 1
-* 3 Jirachi SMP 161
-* 2 Cynthia HIF 151
-* 2 Escape Board UPR 167
-* 4 Scoop Up Net RCL 207
-* 2 Guzma BUS 143
-* 4 Acro Bike CES 178
-* 4 Level Ball BST 181
+* 3 Jirachi TEU 99
+* 2 Cynthia UPR 119
+* 2 Escape Board UPR 122
+* 4 Scoop Up Net RCL 165
+* 2 Guzma BUS 115
+* 4 Acro Bike CES 123
+* 4 Level Ball BST 129
 * 3 Evolution Incense SSH 163
-* 1 Escape Rope BUS 163
+* 1 Escape Rope BST 125
 * 2 Turffield Stadium RCL 170
-* 2 Energy Loto GRI 122
-* 4 Professor's Research SVI 189
+* 2 Energy Loto ASR 140
+* 4 Professor's Research SVI 190
 * 2 Choice Belt BRS 135
 * 1 Rescue Carrier EVS 154
-* 1 Boss's Orders BRS 132
-* 2 Twin Energy RCL 209
-* 4 Double Colorless Energy GRI 166
+* 1 Boss's Orders PAL 172
+* 2 Twin Energy RCL 174
+* 4 Double Colorless Energy GEN 74

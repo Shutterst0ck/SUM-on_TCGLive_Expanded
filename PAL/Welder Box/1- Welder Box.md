@@ -21,7 +21,7 @@ Date: 18th June 2023
 * 1 Squawkabilly ex PAL 169
 * 4 Scoop Up Net RCL 165
 * 4 Battle VIP Pass FST 225
-* 1 Heat Factory {*} LOT 178
+* 1 Heat Factory ◇ LOT 178
 * 2 Super Rod PAL 188
 * 4 Fiery Flint DRM 60
 * 2 Hisuian Heavy Ball ASR 146

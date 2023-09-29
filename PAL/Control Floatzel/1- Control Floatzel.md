@@ -16,7 +16,7 @@ Date: 12th June 2023
 * 4 Pidgey TEU 122
 * 2 Counter Catcher CIN 91
 * 1 Enhanced Hammer GRI 124
-* 4 Crushing Hammer GEN 60
+* 4 Crushing Hammer SVI 168
 * 4 Evolution Incense SSH 163
 * 1 Field Blower GRI 125
 * 1 Hisuian Heavy Ball ASR 146
@@ -35,4 +35,4 @@ Date: 12th June 2023
 * 1 Plumeria BUS 120
 * 1 Team Skull Grunt SUM 133
 * 1 U-Turn Board UNM 211
-* 4 Basic {W} Energy Energy 11
+* 4 Basic {W} Energy SVE 3

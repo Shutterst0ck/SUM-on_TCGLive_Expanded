@@ -10,45 +10,40 @@ Date: 11th June 2023
 
 ## List
 
-* 1 Crobat V DAA 182
-* 1 Galarian Zapdos V CRE 173
-* 1 Dedenne-GX UNB 195
-* 1 Crobat V PR-SW 98
+* 2 Crobat V DAA 104
+* 1 Galarian Zapdos V CRE 80
+* 1 Dedenne-GX UNB 57
 * 1 Flying Pikachu VMAX CEL 7
 * 1 Flying Pikachu V CEL 6
-* 1 Arceus V BRS 166
-* 1 Umbreon V BRS-TG 22
+* 1 Arceus V BRS 122
+* 1 Umbreon V EVS 94
 * 1 Umbreon VMAX EVS 95
-* 1 Tapu Lele-GX HIF 163
+* 1 Tapu Lele-GX GRI 60
 * 1 Ninetales V RCL 26
-* 1 Lumineon V BRS 156
+* 1 Lumineon V BRS 40
 * 1 Phione CEC 57
-* 1 Arceus VSTAR BRS 184
-* 1 Drapion V LOR 182
-* 1 Galarian Moltres V BRS 183
-* 1 Crobat VMAX PR-SW 99
-* 1 Eldegoss V RCL 176
+* 1 Arceus VSTAR BRS 123
+* 1 Drapion V LOR 118
+* 1 Galarian Moltres V CRE 97
+* 1 Crobat VMAX SHF 45
+* 1 Eldegoss V RCL 19
 * 1 Radiant Charizard PGO 11
-* 1 Rescue Stretcher BUS 165
-* 1 Air Balloon SSH 156
-* 2 Pal Pad SSH 172
-* 1 Adventurer's Discovery LOR-TG 23
-* 1 Serena SIT 193
-* 1 Professor's Research SSH 201
-* 1 Thorton LOR 167
+* 1 Rescue Stretcher GRI 130
+* 2 Air Balloon SSH 156
+* 2 Pal Pad SVI 182
+* 1 Adventurer's Discovery FST 224
+* 1 Serena SIT 164
+* 1 Professor's Research SVI 190
+* 2 Thorton LOR 167
 * 2 Choice Belt BRS 135
-* 1 Guzma HIF 153
-* 1 Big Parasol DAA 199
-* 1 Thorton LOR 195
-* 2 Dark Patch LOR 216
-* 4 Pokémon Communication TEU 196
-* 4 Quick Ball SSH 216
-* 1 Air Balloon SSH 213
-* 2 Ultra Ball SUM 161
+* 1 Guzma BUS 115
+* 1 Big Parasol DAA 157
+* 2 Dark Patch ASR 139
+* 4 Pokémon Communication TEU 152
+* 4 Quick Ball SSH 179
+* 2 Ultra Ball SVI 196
 * 2 Chaotic Swell CEC 187
-* 1 Rainbow Energy CES 183
-* 4 Double Colorless Energy GRI 166
-* 2 Basic {D} Energy EVS 236
-* 1 Basic {D} Energy Energy 15
-* 2 Basic {D} Energy EVO 97
+* 1 Rainbow Energy SUM 137
+* 4 Double Colorless Energy GEN 74
+* 5 Basic {D} Energy SVE 7
 * 3 Aurora Energy SSH 186

@@ -23,15 +23,15 @@ Date: 24th June 2023
 * 1 Aether Foundation Employee LOT 168
 * 1 Black Market ◇ TEU 134
 * 2 Nest Ball SVI 181
-* 4 Professor's Research SVI 189
+* 4 Professor's Research SVI 190
 * 2 Switch SVI 194
-* 3 Boss’s Orders PAL 172
+* 3 Boss's Orders PAL 172
 * 2 Evolution Incense SSH 163
 * 4 Marnie SSH 169
 * 2 Capturing Aroma SIT 153
 * 2 Escape Rope BST 125
 * 1 Dyna Tree Hill CRE 135
-* 4 Double Colorless Energy NXD 92
+* 4 Double Colorless Energy GEN 74
 * 4 Triple Acceleration Energy UNB 190
 * 4 Twin Energy RCL 174
-* 3 Hiding Darkness Energy DAA 175
+* 3 Hiding {D} Energy DAA 175

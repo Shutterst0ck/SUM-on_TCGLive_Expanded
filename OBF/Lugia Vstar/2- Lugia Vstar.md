@@ -12,27 +12,27 @@ Date: 30th August 2023
 
 * 2 Wyrdeer V ASR 134
 * 3 Lugia VSTAR SIT 139
-* 1 Squawkabilly ex PAL 264
+* 1 Squawkabilly ex PAL 169
 * 4 Archeops SIT 147
 * 1 Ditto V SHF 50
 * 1 Dedenne-GX UNB 57
 * 2 Slaking V PGO 58
 * 4 Lugia V SIT 138
 * 1 Ditto VMAX SHF 51
-* 1 Tapu Lele-GX GRI 137
-* 1 Marnie SSH 208
-* 2 Professor's Research SSH 209
-* 4 Path to the Peak ASR 213
-* 1 Acerola BUS 142
+* 1 Tapu Lele-GX GRI 60
+* 1 Marnie SSH 169
+* 2 Professor's Research SVI 190
+* 4 Path to the Peak CRE 148
+* 1 Acerola BUS 112
 * 1 Field Blower GRI 125
 * 1 Rescue Stretcher GRI 130
-* 4 Quick Ball SSH 216
-* 4 Ultra Ball BRS 186
-* 2 Guzma HIF 153
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
+* 2 Guzma BUS 115
 * 4 Evolution Incense SSH 163
-* 2 Iono PAL 254
+* 2 Iono PAL 185
 * 2 Bravery Charm PAL 173
 * 2 V Guard Energy SIT 169
-* 4 Double Colorless Energy SLG 69
+* 4 Double Colorless Energy GEN 74
 * 4 Powerful {C} Energy DAA 176
 * 2 Lucky Energy CRE 158

@@ -12,7 +12,7 @@ Description: If able. Wailmer always starts on your bench. Search bax/evolutions
 
 ## List
 
-* 1 Magikarp & Wailord-GX TEU 160
+* 1 Magikarp & Wailord-GX PR-SM 166
 * 3 Frigibax PAL 58
 * 1 Arctibax PAL 59
 * 3 Baxcalibur PAL 60
@@ -20,17 +20,17 @@ Description: If able. Wailmer always starts on your bench. Search bax/evolutions
 * 4 Wailord SIT 38
 * 4 Wailmer CRZ 31
 * 1 Manaphy BRS 41
-* 2 Professor's Research SSH 209
-* 1 Switch BLW 104
-* 2 Energy Retrieval BLW 92
+* 2 Professor's Research SVI 190
+* 1 Switch SVI 194
+* 2 Energy Retrieval SVI 171
 * 2 Nest Ball SVI 181
 * 4 Rare Candy SVI 191
 * 4 Irida ASR 147
 * 2 Candice SIT 152
-* 2 Boss's Orders SHF 58
+* 2 Boss's Orders PAL 172
 * 1 Escape Rope BST 125
 * 1 Level Ball BST 129
 * 3 Skaters' Park FST 242
-* 2 Ultra Ball FLF 99
-* 12 Water Energy 3
+* 2 Ultra Ball SVI 196
+* 12 Basic {W} Energy SVE 3
 * 4 Jet Energy PAL 190

@@ -21,12 +21,12 @@ Description: could be better but expanded isnt supported :( A go big or go home 
 * 2 Guzma BUS 115
 * 4 Beast Ring FLI 102
 * 2 Ultra Space FLI 115
-* 3 Arven SVI 166
+* 3 Arven OBF 186
 * 3 Nest Ball SVI 181
 * 3 Ultra Ball SVI 196
 * 2 Bravery Charm PAL 173
 * 2 Iono PAL 185
 * 3 Battle VIP Pass FST 225
 * 1 Beast Energy ◇ FLI 117
-* 16 Grass Energy 1
-* 2 Aromatic Grass Energy VIV 162
+* 16 Basic {G} Energy SVE 1
+* 2 Aromatic {G} Energy VIV 162

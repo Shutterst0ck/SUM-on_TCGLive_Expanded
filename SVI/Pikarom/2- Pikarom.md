@@ -19,7 +19,7 @@ Date: 6th April 2023
 * 1 Marshadow-GX BUS 80
 * 1 Dedenne-GX UNB 57
 * 1 Zeraora-GX LOT 86
-* 1 Tapu Koko {*} TEU 51
+* 1 Tapu Koko ◇ TEU 51
 * 1 Radiant Greninja ASR 46
 * 1 Tapu Lele-GX GRI 60
 * 1 Crobat V DAA 104
@@ -30,17 +30,17 @@ Date: 6th April 2023
 * 3 Electric Generator SVI 170
 * 2 Guzma BUS 115
 * 1 Hisuian Heavy Ball ASR 146
-* 3 Professor's Research SHF 60
+* 3 Professor's Research SVI 190
 * 1 Tag Switch UNM 209
 * 1 Air Balloon SSH 156
 * 4 Quick Ball SSH 179
-* 1 Ultra Ball BRS 150
+* 1 Ultra Ball SVI 196
 * 1 Forest Seal Stone SIT 156
 * 1 Marnie SSH 169
 * 1 Choice Belt BRS 135
 * 4 Electropower LOT 172
 * 1 Cynthia UPR 119
-* 1 Thunder Mountain {*} LOT 191
+* 1 Thunder Mountain ◇ LOT 191
 * 1 Wishful Baton BUS 128
 * 1 Field Blower GRI 125
 * 14 Basic {L} Energy SVE 4

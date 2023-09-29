@@ -21,7 +21,7 @@ Date: 14th September 2023
 * 2 Arceus & Dialga & Palkia-GX CEC 156
 * 1 Squawkabilly ex PAL 169
 * 4 Energy Switch SVI 173
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 4 Battle VIP Pass FST 225
 * 4 Metal Saucer SSH 170
 * 2 Rescue Stretcher GRI 130
@@ -36,5 +36,5 @@ Date: 14th September 2023
 * 3 Marnie SSH 169
 * 1 Roxanne ASR 150
 * 1 Chaotic Swell CEC 187
-* 8 Metal Energy SUM M
-* 4 Water Energy SUM W
+* 8 Basic {M} Energy SVE 8
+* 4 Basic {W} Energy SVE 3

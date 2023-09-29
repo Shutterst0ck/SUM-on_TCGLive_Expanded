@@ -32,8 +32,7 @@ Date: July 2023
 * 1 Forest Seal Stone SIT 156
 * 1 Escape Rope BST 125
 * 1 Echoing Horn CRE 136
-* 1 Boss's Orders BRS 132
-* 2 Ultra Ball BRS 150
-* 1 Lightning Energy 4
-* 13 Lightning Energy 4
-* 1 Speed Lightning Energy RCL 173
+* 1 Boss's Orders PAL 172
+* 2 Ultra Ball SVI 196
+* 14 Basic {L} Energy SVE 4
+* 1 Speed {L} Energy RCL 173

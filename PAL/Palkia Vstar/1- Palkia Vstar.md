@@ -11,7 +11,7 @@ Date: 13th June 2023
 ## List
 
 * 2 Dedenne-GX UNB 57
-* 1 Crobat V SHF 44
+* 1 Crobat V DAA 104
 * 1 Radiant Greninja ASR 46
 * 2 Arceus & Dialga & Palkia-GX CEC 156
 * 3 Origin Forme Palkia V ASR 39
@@ -29,15 +29,15 @@ Date: 13th June 2023
 * 1 Bellelba & Brycen-Man CEC 186
 * 2 Air Balloon SSH 156
 * 1 Mallow & Lana CEC 198
-* 1 Quick Ball FST 237
+* 1 Quick Ball SSH 179
 * 1 Bravery Charm PAL 173
 * 1 Forest Seal Stone SIT 156
 * 1 Rescue Stretcher GRI 130
 * 1 Field Blower GRI 125
 * 2 Switch Cart ASR 154
-* 3 Energy Switch CES 129
-* 1 Ultra Ball BRS 150
+* 3 Energy Switch SVI 173
+* 1 Ultra Ball SVI 196
 * 4 Aqua Patch GRI 119
-* 7 Basic {W} Energy Energy 11
+* 7 Basic {W} Energy SVE 3
 * 4 Luminous Energy PAL 191
-* 1 Basic {M} Energy Energy 16
+* 1 Basic {M} Energy SVE 8

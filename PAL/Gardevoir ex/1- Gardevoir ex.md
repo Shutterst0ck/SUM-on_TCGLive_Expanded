@@ -23,7 +23,7 @@ Date: 13th June 2023
 * 4 Mysterious Treasure FLI 113
 * 3 Battle VIP Pass FST 225
 * 3 Quick Ball SSH 179
-* 2 Ultra Ball BRS 150
+* 2 Ultra Ball SVI 196
 * 3 Rare Candy SVI 191
 * 1 Field Blower GRI 125
 * 2 Rescue Stretcher GRI 130
@@ -31,7 +31,7 @@ Date: 13th June 2023
 * 4 Iono PAL 185
 * 1 Guzma BUS 115
 * 1 Rosa CEC 204
-* 2 Marnie CPA 56
+* 2 Marnie SSH 169
 * 2 Viridian Forest TEU 156
-* 10 Basic {P} Energy Energy 13
+* 10 Basic {P} Energy SVE 5
 * 2 Reversal Energy PAL 192

@@ -22,13 +22,13 @@ Date: 13th June 2023
 * 4 Dark Patch ASR 139
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Nest Ball SVI 181
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 1 Rescue Stretcher GRI 130
-* 4 Ultra Ball FCO 113
+* 4 Ultra Ball SVI 196
 * 2 Yell Horn DAA 173
 * 3 Viridian Forest TEU 156
 * 3 Guzma BUS 115
 * 2 Iono PAL 185
-* 4 Professor's Research SHF 60
+* 4 Professor's Research SVI 190
 * 3 Air Balloon SSH 156
 * 13 Basic {D} Energy SVE 7

@@ -31,11 +31,11 @@ Date: 18th July 2023
 * 4 Scoop Up Net RCL 165
 * 2 Single Strike Style Mustard BST 134
 * 1 Boss's Orders PAL 172
-* 4 Ultra Ball BRS 150
+* 4 Ultra Ball SVI 196
 * 1 Iono PAL 185
-* 1 Professor's Research SHF 60
+* 1 Professor's Research SVI 190
 * 3 Super Rod PAL 188
-* 1 Marnie CPA 56
+* 1 Marnie SSH 169
 * 1 Roxanne ASR 150
 * 1 Choice Belt BRS 135
 * 1 Guzma BUS 115

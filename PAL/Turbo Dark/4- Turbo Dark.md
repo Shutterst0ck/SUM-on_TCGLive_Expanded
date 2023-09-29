@@ -10,25 +10,25 @@ Date: 9th July 2023
 
 ## List
 
-* 1 Crobat V DAA 182
-* 2 Darkrai-GX HIF 139
-* 1 Dedenne-GX UNB 195
+* 1 Crobat V DAA 104
+* 2 Darkrai-GX BUS 88
+* 1 Dedenne-GX UNB 57
 * 2 Darkrai VSTAR ASR 99
 * 3 Darkrai V ASR 98
-* 1 Greninja & Zoroark-GX UNB 201
-* 2 Galarian Moltres V BRS 183
+* 1 Greninja & Zoroark-GX UNB 107
+* 2 Galarian Moltres V CRE 97
 * 1 Radiant Greninja ASR 46
 * 1 Squawkabilly ex PAL 169
 * 1 Hisuian Heavy Ball ASR 146
-* 1 Rescue Stretcher BUS 165
-* 4 Professor's Research PR-SW 152
-* 2 Iono PAL 254
-* 3 Guzma BUS 143
-* 2 Nest Ball SUM 158
-* 4 Dark Patch LOR 216
-* 3 Viridian Forest UNM 256
-* 4 Quick Ball SSH 216
-* 3 Air Balloon SSH 213
-* 4 Ultra Ball SUM 161
+* 1 Rescue Stretcher GRI 130
+* 4 Professor's Research SVI 190
+* 2 Iono PAL 185
+* 3 Guzma BUS 115
+* 2 Nest Ball SVI 181
+* 4 Dark Patch ASR 139
+* 3 Viridian Forest TEU 156
+* 4 Quick Ball SSH 179
+* 3 Air Balloon SSH 156
+* 4 Ultra Ball SVI 196
 * 2 Yell Horn DAA 173
-* 13 Basic {D} Energy EVS 236
+* 13 Basic {D} Energy SVE 7

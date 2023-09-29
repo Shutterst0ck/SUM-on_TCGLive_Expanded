@@ -24,17 +24,17 @@ Description: Altered Creation Wailord I guess idk 🤷
 * 1 Field Blower GRI 125
 * 1 Guzma BUS 115
 * 1 Viridian Forest TEU 156
-* 2 Arven SVI 166
+* 2 Arven OBF 186
 * 2 Marnie SSH 169
-* 2 Professor's Research SSH 178
+* 2 Professor's Research SVI 190
 * 2 Quick Ball SSH 179
-* 2 Switch SSH 183
-* 2 Boss's Orders RCL 154
+* 2 Switch SVI 194
+* 2 Boss's Orders PAL 172
 * 3 Capacious Bucket RCL 156
 * 2 Cape of Toughness DAA 160
 * 2 Path to the Peak CRE 148
-* 4 Ultra Ball BRS 150
+* 4 Ultra Ball SVI 196
 * 2 Aurora Energy SSH 186
 * 2 V Guard Energy SIT 169
-* 6 Water Energy 3
-* 4 Wash Water Energy VIV 165
+* 6 Basic {W} Energy SVE 3
+* 4 Wash {W} Energy VIV 165

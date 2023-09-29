@@ -11,25 +11,25 @@ Date: 7th July 2023
 ## List
 
 * 1 Mr. Mime DET 11
-* 1 Jirachi {*} CES 97
+* 1 Jirachi ◇ CES 97
 * 1 Squawkabilly ex PAL 169
-* 3 Zacian V PR-SW 76
+* 3 Zacian V SSH 138
 * 1 Zacian CRZ 94
-* 3 Jirachi SMP 161
-* 2 Oranguru VIV 199
+* 3 Jirachi TEU 99
+* 2 Oranguru SSH 148
 * 1 Kartana-GX CIN 70
 * 1 Radiant Greninja ASR 46
 * 1 Hisuian Heavy Ball ASR 146
 * 3 Switch Cart ASR 154
-* 4 Professor's Research PR-SW 152
-* 1 Escape Board UPR 167
-* 4 Guzma BUS 143
+* 4 Professor's Research SVI 190
+* 1 Escape Board UPR 122
+* 4 Guzma BUS 115
 * 1 Forest Seal Stone SIT 156
-* 1 Wishful Baton CIN 121
-* 3 Nest Ball SUM 158
-* 1 Adventure Bag LOT 228
-* 4 Scoop Up Net RCL 207
-* 3 Viridian Forest UNM 256
-* 4 Quick Ball SSH 216
-* 4 Metal Saucer SSH 214
-* 12 Basic {M} Energy EVS 237
+* 1 Wishful Baton BUS 128
+* 3 Nest Ball SVI 181
+* 1 Adventure Bag LOT 167
+* 4 Scoop Up Net RCL 165
+* 3 Viridian Forest TEU 156
+* 4 Quick Ball SSH 179
+* 4 Metal Saucer SSH 170
+* 12 Basic {M} Energy SVE 8

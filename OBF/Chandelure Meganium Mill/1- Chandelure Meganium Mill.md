@@ -22,16 +22,16 @@ Insane to discard so fast, so Peony and Counter Catcher and to make it as turbo 
 * 4 Litwick LOR 24
 * 4 Chandelure LOR 26
 * 1 Manaphy BRS 41
-* 4 Ultra Ball PLF 122
-* 3 Nest Ball SUM 158
-* 2 Guzma BUS 143
-* 3 Rescue Stretcher BUS 165
-* 4 Acro Bike CES 178
-* 4 Custom Catcher LOT 231
-* 3 Cynthia null SV82
-* 3 Rare Candy SVI 256
-* 3 Path to the Peak ASR 213
-* 4 Scoop Up Net RCL 207
-* 2 Peony CRE 197
+* 4 Ultra Ball SVI 196
+* 3 Nest Ball SVI 181
+* 2 Guzma BUS 115
+* 3 Rescue Stretcher GRI 130
+* 4 Acro Bike CES 123
+* 4 Custom Catcher LOT 171
+* 3 Cynthia UPR 119
+* 3 Rare Candy SVI 191
+* 3 Path to the Peak CRE 148
+* 4 Scoop Up Net RCL 165
+* 2 Peony CRE 150
 * 4 Battle VIP Pass FST 225
-* 4 Professor's Research SVI 189
+* 4 Professor's Research SVI 190

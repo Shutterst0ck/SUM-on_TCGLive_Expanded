@@ -20,8 +20,8 @@ Date: 12th June 2023
 * 1 Starmie V ASR 30
 * 1 Superior Energy Retrieval PAL 189
 * 1 Hisuian Heavy Ball ASR 146
-* 3 Nest Ball SUM 123
-* 4 Level Ball NXD 89
+* 3 Nest Ball SVI 181
+* 4 Level Ball BST 129
 * 3 Evolution Incense SSH 163
 * 2 Brooklet Hill GRI 120
 * 4 Scoop Up Net RCL 165

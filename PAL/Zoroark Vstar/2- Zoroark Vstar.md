@@ -10,23 +10,22 @@ Date: 17th July 2023
 
 ## List
 
-* 1 Hisuian Zoroark VSTAR LOR 203
-* 3 Hisuian Zoroark VSTAR LOR 147
+* 4 Hisuian Zoroark VSTAR LOR 147
 * 2 Dedenne-GX UNB 57
 * 4 Hisuian Zoroark V LOR 146
 * 4 Gengar LOR 66
-* 1 Crobat V LOR-TG 20
+* 1 Crobat V DAA 104
 * 3 Guzma BUS 115
 * 4 Iono PAL 185
-* 4 Professor's Research CEL 24
+* 4 Professor's Research SVI 190
 * 4 Air Balloon SSH 156
 * 4 Quick Ball SSH 179
-* 2 Choice Belt ASR 211
-* 4 Ultra Ball BRS 150
+* 2 Choice Belt BRS 135
+* 4 Ultra Ball SVI 196
 * 4 Evolution Incense SSH 163
 * 4 Damage Pump LOR 156
 * 4 Gapejaw Bog ASR 142
 * 1 Rescue Stretcher GRI 130
 * 1 Field Blower GRI 125
-* 4 Double Colorless Energy PHF 111
+* 4 Double Colorless Energy GEN 74
 * 2 Triple Acceleration Energy UNB 190

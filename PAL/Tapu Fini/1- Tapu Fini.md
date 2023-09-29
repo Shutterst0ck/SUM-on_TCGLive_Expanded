@@ -15,7 +15,7 @@ Date: 9th July 2023
 * 4 Tapu Fini LOT 151
 * 1 Sonia RCL 167
 * 1 Miriam SVI 179
-* 3 Marnie CPA 56
+* 3 Marnie SSH 169
 * 1 Klara CRE 145
 * 2 Iono PAL 185
 * 1 Guzma BUS 115
@@ -24,8 +24,8 @@ Date: 9th July 2023
 * 2 Boss's Orders PAL 172
 * 2 Bird Keeper DAA 159
 * 2 Avery CRE 130
-* 1 Arven SVI 166
-* 1 Wondrous Labyrinth {*} TEU 158
+* 1 Arven OBF 186
+* 1 Wondrous Labyrinth ◇ TEU 158
 * 1 Battle VIP Pass FST 225
 * 2 Glimwood Tangle DAA 162
 * 2 Circhester Bath VIV 150
@@ -33,6 +33,6 @@ Date: 9th July 2023
 * 3 Scoop Up Net RCL 165
 * 4 Nest Ball SVI 181
 * 2 Energy Spinner UNB 170
-* 1 Energy Recycler GRI 123
+* 1 Energy Recycler BST 124
 * 4 Bravery Charm PAL 173
-* 12 Fairy Energy
+* 12 Fairy Energy 9

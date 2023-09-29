@@ -14,24 +14,24 @@ Date: 24th July 2023
 * 2 Dedenne-GX UNB 57
 * 4 Hisuian Zoroark VSTAR LOR 147
 * 2 Alolan Grimer SUM 57
-* 1 Tapu Lele-GX GRI 137
+* 1 Tapu Lele-GX GRI 60
 * 2 Alolan Muk SUM 58
-* 4 Gengar LOR-TG 6
+* 4 Gengar LOR 66
 * 4 Damage Pump LOR 156
 * 2 Air Balloon SSH 156
 * 1 Rescue Stretcher GRI 130
-* 1 Guzma & Hala CEC 229
+* 1 Guzma & Hala CEC 193
 * 1 Field Blower GRI 125
-* 1 Cynthia HIF 151
-* 1 Professor's Research SSH 209
-* 2 Guzma HIF 153
+* 1 Cynthia UPR 119
+* 1 Professor's Research SVI 190
+* 2 Guzma BUS 115
 * 3 Acro Bike CES 123
-* 3 Iono PAL 269
+* 3 Iono PAL 185
 * 2 Evolution Incense SSH 163
-* 4 Ultra Ball BRS 186
-* 1 Escape Rope PLS 120
+* 4 Ultra Ball SVI 196
+* 1 Escape Rope BST 125
 * 4 Gapejaw Bog ASR 142
-* 4 Quick Ball SSH 216
-* 1 Basic {P} Energy BWALT 18
-* 4 Double Colorless Energy SLG 69
+* 4 Quick Ball SSH 179
+* 1 Basic {P} Energy SVE 5
+* 4 Double Colorless Energy GEN 74
 * 2 Double Turbo Energy BRS 151

@@ -15,7 +15,7 @@ Description: A deck to play when you have a lot of time on your hands.
 * 2 Lucario & Melmetal-GX UNB 120
 * 4 Zacian V SSH 138
 * 2 Zacian VSTAR CRZ 96
-* 2 Ultra Ball SUM 135
+* 2 Ultra Ball SVI 196
 * 2 Cynthia & Caitlin CEC 189
 * 2 Guzma & Hala CEC 193
 * 2 Lillie's Poké Doll CEC 197
@@ -25,7 +25,7 @@ Description: A deck to play when you have a lot of time on your hands.
 * 4 Metal Goggles TEU 148
 * 4 Marnie SSH 169
 * 4 Metal Saucer SSH 170
-* 4 Switch SSH 183
+* 4 Switch SVI 194
 * 4 Crystal Cave EVS 144
-* 11 Metal Energy 8
-* 3 Coating Metal Energy VIV 163
+* 11 Basic {M} Energy SVE 8
+* 3 Coating {M} Energy VIV 163

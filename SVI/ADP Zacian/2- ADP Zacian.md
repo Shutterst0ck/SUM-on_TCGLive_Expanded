@@ -15,10 +15,10 @@ Description: ADP but it's ADDP
 * 2 Origin Forme Dialga VSTAR ASR 114
 * 1 Zacian V SSH 138
 * 1 Eldegoss V RCL 19
-* 1 Tapu Lele-GX CEL-CC 25
+* 1 Tapu Lele-GX GRI 60
 * 2 Bronzor TEU 100
 * 1 Keldeo-GX UNM 47
-* 1 Crobat V PR-SW 110
+* 1 Crobat V DAA 104
 * 2 Dedenne-GX UNB 57
 * 1 Marshadow UNB 81
 * 2 Bronzong BST 102
@@ -30,7 +30,7 @@ Description: ADP but it's ADDP
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Viridian Forest TEU 156
 * 1 Echoing Horn CRE 136
-* 4 Professor's Research SHF 60
+* 4 Professor's Research SVI 190
 * 4 Metal Saucer SSH 170
 * 2 Air Balloon SSH 156
 * 4 Quick Ball SSH 179

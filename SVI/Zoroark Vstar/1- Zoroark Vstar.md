@@ -11,31 +11,31 @@ Date: 7th June 2023
 ## List
 
 * 3 Hisuian Zoroark V LOR 146
-* 2 Lumineon V CRZ-GG 39
+* 2 Lumineon V BRS 40
 * 1 Dedenne-GX UNB 57
-* 1 Crobat V LOR-TG 20
+* 1 Crobat V DAA 104
 * 3 Hisuian Zoroark VSTAR LOR 147
 * 1 Jynx UNM 76
-* 2 Gengar PR-SW 241
-* 1 Oranguru VIV 199
-* 2 Boss's Orders RCL 189
+* 2 Gengar LOR 66
+* 1 Oranguru SSH 148
+* 2 Boss's Orders PAL 172
 * 3 Damage Pump LOR 156
 * 4 Quick Ball SSH 179
-* 1 Acerola BUS 142
-* 1 Guzma BUS 143
-* 1 Cynthia HIF 151
+* 1 Acerola BUS 112
+* 1 Guzma BUS 115
+* 1 Cynthia UPR 119
 * 2 Pal Pad SVI 182
-* 2 Melony CRZ-GG 64
-* 2 Marnie SSH 200
-* 3 Professor's Research SSH 201
-* 1 Rosa CEC 236
+* 2 Melony CRE 146
+* 2 Marnie SSH 169
+* 3 Professor's Research SVI 190
+* 1 Rosa CEC 204
 * 2 Tool Jammer BST 136
-* 3 Ultra Ball BRS 150
+* 3 Ultra Ball SVI 196
 * 1 Stadium Nav UNM 208
 * 4 Gapejaw Bog ASR 142
 * 2 Pokémon Communication TEU 152
-* 1 Ordinary Rod SSH 215
+* 1 Ordinary Rod SSH 171
 * 2 Switch SVI 194
 * 1 Peeking Red Card CIN 97
-* 4 Basic {W} Energy CRE 231
-* 4 Double Colorless Energy SUM 136
+* 4 Basic {W} Energy SVE 3
+* 4 Double Colorless Energy GEN 74

@@ -21,11 +21,11 @@ Date: 13th May 2023
 * 4 Spirit Mask EVS 160
 * 4 Defiance Band SVI 169
 * 4 Escape Board UPR 122
-* 4 Nest Ball SUM 123
-* 4 Switch BCR 135
-* 4 Marnie CPA 56
-* 4 Level Ball NXD 89
+* 4 Nest Ball SVI 181
+* 4 Switch SVI 194
+* 4 Marnie SSH 169
+* 4 Level Ball BST 129
 * 1 Rescue Stretcher GRI 130
 * 4 Big Parasol DAA 157
-* 4 Double Colorless Energy NXD 92
+* 4 Double Colorless Energy GEN 74
 * 2 Twin Energy RCL 174

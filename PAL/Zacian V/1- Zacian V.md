@@ -11,23 +11,20 @@ Date: 26th July 2023
 ## List
 
 * 2 Dedenne-GX UNB 57
-* 3 Zacian V SSH 138
-* 2 Crobat V LOR-TG 20
+* 4 Zacian V SSH 138
+* 2 Crobat V DAA 104
 * 1 Dawn Wings Necrozma-GX UPR 63
-* 1 Zacian V ASR-TG 21
 * 2 Field Blower GRI 125
-* 4 Professor's Research CEL 24
+* 4 Professor's Research SVI 190
 * 2 Iono PAL 185
 * 1 Escape Rope BST 125
 * 1 Echoing Horn CRE 136
 * 4 Metal Saucer SSH 170
 * 4 Turbo Patch DAA 172
-* 3 Quick Ball FST 237
-* 1 Ultra Ball BRS 186
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
 * 2 Forest Seal Stone SIT 156
 * 3 Bravery Charm PAL 173
 * 3 Air Balloon SSH 156
-* 1 Quick Ball SSH 216
-* 3 Ultra Ball BRS 150
 * 4 Guzma BUS 115
-* 13 Basic {M} Energy Energy 34
+* 13 Basic {M} Energy SVE 8

@@ -25,21 +25,21 @@ Date: June 2023
 * 1 Lumineon V BRS 40
 * 1 Raikou V BRS 48
 * 1 Choice Band GRI 121
-* 1 Arven SVI 166
+* 1 Arven OBF 186
 * 3 Evolution Incense SSH 163
 * 3 Marnie SSH 169
-* 3 Professor's Research SSH 178
+* 3 Professor's Research SVI 190
 * 3 Quick Ball SSH 179
 * 1 Lost Vacuum LOR 162
-* 3 Boss's Orders BRS 132
+* 3 Boss's Orders PAL 172
 * 1 Choice Belt BRS 135
-* 3 Ultra Ball BRS 150
-* 1 Professor Burnet PR-SW SWSH167
-* 3 Switch ROS 91
-* 3 Double Colorless Energy SLG 69
+* 3 Ultra Ball SVI 196
+* 1 Professor Burnet PR-SW 167
+* 3 Switch SVI 194
+* 3 Double Colorless Energy GEN 74
 * 4 Aurora Energy SSH 186
-* 1 Horror Psychic Energy RCL 172
-* 1 Speed Lightning Energy RCL 173
-* 1 Hiding Darkness Energy DAA 175
-* 4 Powerful Colorless Energy DAA 176
-* 1 Stone Fighting Energy VIV 164
+* 1 Horror {P} Energy RCL 172
+* 1 Speed {L} Energy RCL 173
+* 1 Hiding {D} Energy DAA 175
+* 4 Powerful {C} Energy DAA 176
+* 1 Stone {F} Energy VIV 164

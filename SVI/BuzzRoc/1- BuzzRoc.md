@@ -24,18 +24,18 @@ Description: Main point is to get one big buzz one little and diancie are the on
 * 1 Hisuian Arcanine V SIT 90
 * 2 Bidoof CRZ 111
 * 2 Bibarel BRS 121
-* 2 Nest Ball SUM 123
+* 2 Nest Ball SVI 181
 * 1 Acerola BUS 112
 * 2 Guzma BUS 115
 * 2 Beast Ring FLI 102
-* 4 Professor's Research SVI 189
+* 4 Professor's Research SVI 190
 * 2 Rock Chestplate SVI 192
 * 2 Air Balloon SSH 156
 * 3 Marnie SSH 169
 * 3 Gutsy Pickaxe ASR 145
-* 2 Boss's Orders RCL 154
+* 2 Boss's Orders PAL 172
 * 1 Klara CRE 145
-* 4 Ultra Ball BRS 150
-* 10 Fighting Energy 6
-* 2 Double Colorless Energy SLG 69
-* 2 Stone Fighting Energy VIV 164
+* 4 Ultra Ball SVI 196
+* 10 Basic {F} Energy SVE 6
+* 2 Double Colorless Energy GEN 74
+* 2 Stone {F} Energy VIV 164

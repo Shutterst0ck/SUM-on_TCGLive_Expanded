@@ -18,14 +18,14 @@ Date: 12th June 2023
 * 2 Inteleon SSH 58
 * 1 Inteleon CRE 43
 * 2 Scoop Up Net RCL 165
-* 4 Level Ball NXD 89
+* 4 Level Ball BST 129
 * 4 Rare Candy SVI 191
 * 2 Pokémon Communication TEU 152
 * 4 Evolution Incense SSH 163
 * 4 Rescue Carrier EVS 154
 * 1 Super Rod PAL 188
 * 3 Nest Ball SVI 181
-* 2 Marnie CPA 56
+* 2 Marnie SSH 169
 * 2 Cynthia's Ambition BRS 138
 * 4 Cynthia UPR 119
 * 2 Irida ASR 147

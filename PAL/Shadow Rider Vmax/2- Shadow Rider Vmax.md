@@ -26,9 +26,9 @@ Date: 27th June 2023
 * 2 Switch SVI 194
 * 2 Super Rod PAL 188
 * 2 Evolution Incense SSH 163
-* 3 Ultra Ball CRZ 146
+* 3 Ultra Ball SVI 196
 * 4 Fog Crystal CRE 140
 * 4 Battle VIP Pass FST 225
-* 4 Quick Ball FST 237
-* 2 Boss's Orders BRS 132
-* 11 Psychic Energy 5
+* 4 Quick Ball SSH 179
+* 2 Boss's Orders PAL 172
+* 11 Basic {P} Energy SVE 5

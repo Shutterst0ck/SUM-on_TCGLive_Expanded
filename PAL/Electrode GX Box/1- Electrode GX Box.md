@@ -18,19 +18,19 @@ Date: 12th June 2023
 * 1 Magneton CEC 69
 * 1 Squawkabilly ex PAL 169
 * 1 Klefki SVI 96
-* 1 Trevenant & Dusknoir-GX SMP 217
+* 1 Trevenant & Dusknoir-GX PR-SM 217
 * 1 Umbreon & Darkrai-GX UNM 125
 * 1 Radiant Greninja ASR 46
 * 1 Mewtwo & Mew-GX UNM 71
 * 1 Whismur CES 116
 * 2 Thorton LOR 167
-* 2 Professor's Research SVI 189
+* 2 Professor's Research SVI 190
 * 1 Roxanne ASR 150
-* 1 Boss's Orders SHF 58
-* 4 Ultra Ball BRS 150
+* 1 Boss's Orders PAL 172
+* 4 Ultra Ball SVI 196
 * 4 Scoop Up Net RCL 165
 * 4 Acro Bike CES 123
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 3 Trekking Shoes ASR 156
 * 3 Rescue Stretcher GRI 130
 * 2 Pal Pad SVI 182
@@ -38,5 +38,5 @@ Date: 12th June 2023
 * 1 Forest Seal Stone SIT 156
 * 1 Chaotic Swell CEC 187
 * 4 Aurora Energy SSH 186
-* 4 Rainbow Energy CES 151
+* 4 Rainbow Energy SUM 137
 * 2 Jet Energy PAL 190

@@ -17,13 +17,13 @@ Date: July 2023
 * 3 Ting-Lu ex PAL 127
 * 1 Oranguru SSH 148
 * 1 Lumineon V BRS 40
-* 4 Crushing Hammer SUM 115
-* 2 Ultra Ball SUM 135
+* 4 Crushing Hammer SVI 168
+* 2 Ultra Ball SVI 196
 * 1 Reset Stamp UNM 206
 * 3 Roxie CEC 205
 * 1 Field Blower GRI 125
 * 2 Ordinary Rod SSH 171
-* 1 Pal Pad SSH 172
+* 1 Pal Pad SVI 182
 * 3 Quick Ball SSH 179
 * 4 Gutsy Pickaxe ASR 145
 * 2 Lake Acuity LOR 160
@@ -33,6 +33,6 @@ Date: July 2023
 * 3 Level Ball BST 129
 * 1 Raihan EVS 152
 * 3 Zinnia's Resolve EVS 164
-* 1 Boss's Orders BRS 132
-* 6 Fighting Energy 6
-* 4 Stone Fighting Energy VIV 164
+* 1 Boss's Orders PAL 172
+* 6 Basic {F} Energy SVE 6
+* 4 Stone {F} Energy VIV 164

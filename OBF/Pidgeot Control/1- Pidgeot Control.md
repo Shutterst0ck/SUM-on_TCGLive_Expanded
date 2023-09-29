@@ -10,7 +10,7 @@ Date: 19th August 2023
 
 ## List
 
-* 2 Swablu CPA 48
+* 2 Swablu CIN 79
 * 1 Mew UNB 76
 * 1 Munchlax UNM 173
 * 1 Radiant Gardevoir LOR 69
@@ -36,11 +36,11 @@ Date: 19th August 2023
 * 2 Boss's Orders PAL 172
 * 1 Marnie SSH 169
 * 1 Iono PAL 185
-* 2 Professor's Research SHF 60
+* 2 Professor's Research SVI 190
 * 2 Choice Belt BRS 135
 * 1 Rescue Stretcher GRI 130
 * 1 Acerola BUS 112
 * 1 Big Parasol DAA 157
 * 4 Ultra Ball SVI 196
-* 4 Double Colorless Energy XY 130
+* 4 Double Colorless Energy GEN 74
 * 4 Twin Energy RCL 174

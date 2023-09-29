@@ -16,10 +16,9 @@ Date: 22th June 2023
 * 4 Kirlia SIT 68
 * 1 Gardevoir ex SVI 86
 * 1 Gardevoir CRE 61
-* 1 Mimikyu GRI 58
+* 2 Mimikyu GRI 58
 * 1 Radiant Greninja ASR 46
 * 4 Ralts ASR 60
-* 1 Mimikyu TEU 112
 * 1 Kyogre SHF 21
 * 1 Reshiram SHF 17
 * 4 Mt. Coronet UPR 130

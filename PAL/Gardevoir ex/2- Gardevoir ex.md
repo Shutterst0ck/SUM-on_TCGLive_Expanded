@@ -10,27 +10,27 @@ Date: 15th June 2023
 
 ## List
 
-* 1 Mew SMP 215
-* 1 Giratina SMP 151
+* 1 Mew UNB 76
+* 1 Giratina LOT 97
 * 1 Marshadow UNB 81
-* 4 Kirlia PR-SW 271
+* 4 Kirlia SIT 68
 * 1 Necrozma-GX BUS 63
-* 1 Mew CEL 25
-* 1 Tapu Lele-GX HIF 163
+* 1 Mew CEL 11
+* 1 Tapu Lele-GX GRI 60
 * 4 Ralts ASR 60
-* 2 Gardevoir ex SVI 245
-* 1 Gardevoir ASR-TG 5
-* 1 Trevenant & Dusknoir-GX SMP 217
+* 2 Gardevoir ex SVI 86
+* 1 Gardevoir CRE 61
+* 1 Trevenant & Dusknoir-GX PR-SM 217
 * 1 Hisuian Heavy Ball ASR 146
-* 2 Rescue Stretcher BUS 165
-* 3 Professor's Research PR-SW 152
-* 2 Iono PAL 254
-* 3 Rare Candy GRI 165
-* 4 Fog Crystal CRE 227
-* 2 Guzma BUS 143
-* 3 Level Ball BST 181
-* 2 Marnie SSH 200
-* 4 Mysterious Treasure FLI 145
+* 2 Rescue Stretcher GRI 130
+* 3 Professor's Research SVI 190
+* 2 Iono PAL 185
+* 3 Rare Candy SVI 191
+* 4 Fog Crystal CRE 140
+* 2 Guzma BUS 115
+* 3 Level Ball BST 129
+* 2 Marnie SSH 169
+* 4 Mysterious Treasure FLI 113
 * 4 Battle VIP Pass FST 225
-* 3 Viridian Forest UNM 256
-* 9 Basic {P} Energy CRE 232
+* 3 Viridian Forest TEU 156
+* 9 Basic {P} Energy SVE 5

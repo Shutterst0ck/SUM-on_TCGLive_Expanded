@@ -17,8 +17,8 @@ Date: 4th August 2023
 * 1 Tapu Koko ◇ TEU 51
 * 2 Miraidon ex SVI 81
 * 1 Vikavolt V DAA 60
-* 1 Crobat V SHF 44
-* 1 Escape Rope BUS 114
+* 1 Crobat V DAA 104
+* 1 Escape Rope BST 125
 * 3 Guzma BUS 115
 * 2 Cynthia UPR 119
 * 3 Electropower LOT 172
@@ -30,8 +30,8 @@ Date: 4th August 2023
 * 4 Quick Ball SSH 179
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Forest Seal Stone SIT 156
-* 4 Professor's Research SHF 60
+* 4 Professor's Research SVI 190
 * 1 Stormy Mountains EVS 161
 * 1 Choice Belt BRS 135
-* 2 Energy Switch FFI 89
-* 14 Lightning Energy 4
+* 2 Energy Switch SVI 173
+* 14 Basic {L} Energy SVE 4

@@ -11,32 +11,29 @@ Date: 17th June 2023
 ## List
 
 * 2 Weavile-GX UNM 132
-* 1 Squawkabilly ex PAL 264
-* 1 Greninja & Zoroark-GX UNB 200
+* 1 Squawkabilly ex PAL 169
+* 1 Greninja & Zoroark-GX UNB 107
 * 1 Umbreon & Darkrai-GX UNM 125
 * 1 Dedenne-GX UNB 57
-* 1 Mega Sableye & Tyranitar-GX UNM 226
+* 1 Mega Sableye & Tyranitar-GX UNM 126
 * 2 Galarian Moltres V CRE 97
 * 2 Sneasel UPR 73
-* 1 Mewtwo & Mew-GX UNM 71
-* 1 Mewtwo & Mew-GX SMP 191
+* 2 Mewtwo & Mew-GX UNM 71
 * 1 Noivern-GX BUS 99
-* 4 Trekking Shoes ASR 215
-* 2 Pokémon Communication BLW 99
-* 1 Black Market {*} TEU 134
+* 4 Trekking Shoes ASR 156
+* 2 Pokémon Communication TEU 152
+* 1 Black Market ◇ TEU 134
 * 1 Chaotic Swell CEC 187
 * 1 Field Blower GRI 125
-* 4 Guzma BUS 143
-* 1 Iono PAL 269
+* 4 Guzma BUS 115
+* 1 Iono PAL 185
 * 1 Rescue Stretcher GRI 130
-* 1 Quick Ball SSH 216
-* 2 Ultra Ball BRS 186
+* 4 Quick Ball SSH 179
+* 2 Ultra Ball SVI 196
 * 1 Forest Seal Stone SIT 156
-* 4 Dark Patch LOR 216
-* 2 Acro Bike CES 123
-* 1 Acro Bike CES 123
-* 4 Professor's Research PR-SW 152
+* 4 Dark Patch ASR 139
+* 3 Acro Bike CES 123
+* 4 Professor's Research SVI 190
 * 1 Bravery Charm PAL 173
-* 3 Quick Ball SSH 179
 * 2 Aurora Energy SSH 186
 * 10 Basic {D} Energy SVE 7

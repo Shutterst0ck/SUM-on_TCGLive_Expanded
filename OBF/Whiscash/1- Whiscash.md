@@ -15,12 +15,12 @@ Date: 8th September 2023
 * 2 Whiscash OBF 109
 * 2 Barboach OBF 108
 * 1 Dedenne-GX UNB 57
-* 1 Ditto {*} LOT 154
-* 1 Squawkabilly ex PAL 264
-* 2 Professor's Research CEL 23
+* 1 Ditto ◇ LOT 154
+* 1 Squawkabilly ex PAL 169
+* 2 Professor's Research SVI 190
 * 3 Clay CEC 188
 * 1 Iono PAL 185
-* 4 Ultra Ball BRS 150
+* 4 Ultra Ball SVI 196
 * 4 Quick Ball SSH 179
 * 4 Trekking Shoes ASR 156
 * 4 Acro Bike CES 123

@@ -22,15 +22,15 @@ Date: 6th July 2023
 * 1 Guzzlord CEC 136
 * 1 Professor Burnet PR-SW 167
 * 2 Chaotic Swell CEC 187
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 4 Guzma BUS 115
 * 3 Iono PAL 185
-* 4 Professor's Research CEL 24
-* 4 Ultra Ball BRS 150
+* 4 Professor's Research SVI 190
+* 4 Ultra Ball SVI 196
 * 4 Evolution Incense SSH 163
 * 1 Hiding {D} Energy DAA 175
 * 4 Aurora Energy SSH 186
-* 4 Double Colorless Energy PHF 111
+* 4 Double Colorless Energy GEN 74
 * 2 Capture Energy RCL 171
 * 1 V Guard Energy SIT 169
-* 4 Rainbow Energy XY 131
+* 4 Rainbow Energy SUM 137

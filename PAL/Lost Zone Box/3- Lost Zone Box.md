@@ -10,11 +10,10 @@ Date: 17th July 2023
 
 ## List
 
-* 4 Comfey CRZ-GG 14
-* 1 Raikou V CRZ-GG 41
-* 1 Sableye LOR 70
-* 1 Mew SMP 215
-* 1 Sableye LOR 70
+* 4 Comfey LOR 79
+* 1 Raikou V BRS 48
+* 2 Sableye LOR 70
+* 1 Mew UNB 76
 * 1 Moltres & Zapdos & Articuno-GX HIF 44
 * 1 Radiant Greninja ASR 46
 * 1 Cramorant LOR 50
@@ -30,13 +29,12 @@ Date: 17th July 2023
 * 4 Mirage Gate LOR 163
 * 2 Forest Seal Stone SIT 156
 * 4 Nest Ball SVI 181
-* 2 Colress's Experiment LOR 155
+* 4 Colress's Experiment LOR 155
 * 4 Scoop Up Net RCL 165
-* 1 Lost Vacuum CRZ 135
+* 1 Lost Vacuum LOR 162
 * 2 Super Rod PAL 188
-* 1 Raihan SIT-TG 27
-* 2 Colress's Experiment CRZ-GG 59
-* 2 Basic {P} Energy Energy 13
-* 3 Basic {L} Energy Energy 12
-* 3 Basic {W} Energy Energy 11
-* 2 Basic {R} Energy Energy 10
+* 1 Raihan EVS 152
+* 2 Basic {P} Energy SVE 5
+* 3 Basic {L} Energy SVE 4
+* 3 Basic {W} Energy SVE 3
+* 2 Basic {R} Energy SVE 2

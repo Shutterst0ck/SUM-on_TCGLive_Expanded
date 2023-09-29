@@ -27,13 +27,13 @@ Date: 14th August 2023
 * 3 Pokémon Communication TEU 152
 * 1 Air Balloon SSH 156
 * 2 Evolution Incense SSH 163
-* 4 Great Ball SSH 164
+* 4 Great Ball PAL 183
 * 1 Marnie SSH 169
 * 2 Ordinary Rod SSH 171
 * 3 Quick Ball SSH 179
 * 1 Capturing Aroma SIT 153
 * 1 Tool Scrapper RCL 168
 * 4 Bird Keeper DAA 159
-* 2 Boss's Orders BRS 132
+* 2 Boss's Orders PAL 172
 * 1 Recycle Energy UNM 212
-* 2 Horror Psychic Energy RCL 172
+* 2 Horror {P} Energy RCL 172

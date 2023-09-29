@@ -10,26 +10,26 @@ Date: 17th July 2023
 
 ## List
 
-* 2 Galarian Moltres V CRE 177
-* 2 Dedenne-GX UNB 195
-* 2 Darkrai VSTAR CRZ-GG 50
-* 1 Galarian Moltres PR-SW 125
-* 1 Squawkabilly ex PAL 264
+* 2 Galarian Moltres V CRE 97
+* 2 Dedenne-GX UNB 57
+* 2 Darkrai VSTAR ASR 99
+* 1 Galarian Moltres EVS 93
+* 1 Squawkabilly ex PAL 169
 * 2 Darkrai V ASR 98
-* 1 Greninja & Zoroark-GX UNB 201
-* 1 Tapu Lele-GX GRI 137
+* 1 Greninja & Zoroark-GX UNB 107
+* 1 Tapu Lele-GX GRI 60
 * 1 Radiant Greninja ASR 46
 * 2 Air Balloon SSH 156
-* 4 Professor's Research PR-SW 152
+* 4 Professor's Research SVI 190
 * 1 Escape Rope BST 125
 * 2 Pokémon Communication TEU 152
 * 1 Rescue Stretcher GRI 130
 * 4 Scoop Up Net RCL 165
-* 4 Guzma HIF 153
+* 4 Guzma BUS 115
 * 1 Energy Spinner UNB 170
 * 3 Acro Bike CES 123
 * 4 Dark Patch ASR 139
-* 2 Viridian Forest UNM 256
-* 4 Quick Ball FST 237
+* 2 Viridian Forest TEU 156
+* 4 Quick Ball SSH 179
 * 3 Ultra Ball SVI 196
-* 12 Basic {D} Energy EVS 236
+* 12 Basic {D} Energy SVE 7

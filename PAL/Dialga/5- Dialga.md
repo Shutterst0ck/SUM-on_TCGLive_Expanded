@@ -27,12 +27,12 @@ Date: 6th August 2023
 * 2 Acro Bike CES 123
 * 2 PokéStop PGO 68
 * 4 Turbo Patch DAA 172
-* 2 Switch BCR 135
+* 2 Switch SVI 194
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Scoop Up Net RCL 165
 * 4 Battle VIP Pass FST 225
-* 2 Quick Ball FST 237
-* 3 Ultra Ball BRS 150
+* 2 Quick Ball SSH 179
+* 3 Ultra Ball SVI 196
 * 1 Rescue Stretcher GRI 130
 * 4 Metal Saucer SSH 170
-* 11 Metal Energy
+* 11 Basic {M} Energy SVE 8

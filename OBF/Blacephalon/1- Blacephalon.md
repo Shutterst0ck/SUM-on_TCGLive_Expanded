@@ -14,18 +14,18 @@ Description: Blacephalon now has an OP recovery option to keep spamming Fireball
 
 * 4 Blacephalon UNB 32
 * 4 Drizzile SHF 99
-* 1 Inteleon SHF 100
+* 1 Inteleon SSH 58
 * 4 Sobble CRE 41
-* 1 Inteleon EVS 227
-* 4 Welder UNB 214
-* 4 Fire Crystal UNB 231
-* 3 Giant Hearth CEC 263
-* 2 Escape Rope BUS 163
-* 4 Fiery Flint DRM 76
+* 1 Inteleon CRE 43
+* 4 Welder UNB 189
+* 4 Fire Crystal UNB 173
+* 3 Giant Hearth UNM 197
+* 2 Escape Rope BST 125
+* 4 Fiery Flint DRM 60
 * 1 Heat Factory ◇ LOT 178
 * 3 Letter of Encouragement OBF 189
 * 4 Evolution Incense SSH 163
-* 1 Ordinary Rod SSH 215
-* 4 Quick Ball SSH 216
-* 4 Scoop Up Net RCL 207
-* 12 Fire Energy 2
+* 1 Ordinary Rod SSH 171
+* 4 Quick Ball SSH 179
+* 4 Scoop Up Net RCL 165
+* 12 Basic {R} Energy SVE 2

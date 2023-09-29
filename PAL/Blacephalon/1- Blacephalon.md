@@ -23,12 +23,12 @@ Date: 11th June 2023
 * 4 Fire Crystal UNB 173
 * 4 Fiery Flint DRM 60
 * 4 Welder UNB 189
-* 1 Heat Factory {*} LOT 178
+* 1 Heat Factory ◇ LOT 178
 * 2 Giant Hearth UNM 197
 * 1 Hisuian Heavy Ball ASR 146
 * 4 Scoop Up Net RCL 165
 * 2 Escape Board UPR 122
-* 2 Superior Energy Retrieval PLF 103
+* 2 Superior Energy Retrieval PAL 189
 * 4 Quick Ball SSH 179
 * 2 Escape Rope BST 125
 * 14 Basic {R} Energy SVE 2

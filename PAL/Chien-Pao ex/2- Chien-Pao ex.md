@@ -12,30 +12,30 @@ Date: 2d July 2023
 
 * 2 Kyurem VMAX LOR 49
 * 2 Kyurem V LOR 48
-* 1 Oranguru BRS-TG 12
+* 1 Oranguru SSH 148
 * 2 Baxcalibur PAL 60
 * 1 Frigibax PAL 58
-* 1 Lumineon V BRS 156
+* 1 Lumineon V BRS 40
 * 2 Chien-Pao ex PAL 61
 * 1 Radiant Greninja ASR 46
-* 1 Crobat V PR-SW 98
+* 1 Crobat V DAA 104
 * 1 Frigibax PAL 57
-* 2 Max Potion EPO 94
-* 1 Cynthia HIF 151
+* 2 Max Potion GRI 128
+* 1 Cynthia UPR 119
 * 1 Brooklet Hill GRI 120
-* 1 Marnie SSH 208
-* 1 Acerola BUS 142
-* 1 Escape Rope PLS 120
-* 2 Iono PAL 269
-* 4 Quick Ball SSH 216
-* 4 Ultra Ball BRS 186
-* 3 Superior Energy Retrieval PLF 103
-* 1 Melony ASR-TG 26
+* 1 Marnie SSH 169
+* 1 Acerola BUS 112
+* 1 Escape Rope BST 125
+* 2 Iono PAL 185
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
+* 3 Superior Energy Retrieval PAL 189
+* 1 Melony CRE 146
 * 2 Aqua Patch GRI 119
-* 2 Guzma HIF 153
-* 4 Irida ASR 204
+* 2 Guzma BUS 115
+* 4 Irida ASR 147
 * 1 Forest Seal Stone SIT 156
-* 2 Rare Candy CRZ 141
+* 2 Rare Candy SVI 191
 * 1 Capacious Bucket RCL 156
 * 1 Rescue Stretcher GRI 130
 * 12 Basic {W} Energy SVE 3

@@ -10,30 +10,29 @@ Date: 14th July 2023
 
 ## List
 
-* 3 Dragapult VMAX PR-SW 97
+* 3 Dragapult VMAX RCL 93
 * 1 Girafarig LOT 94
-* 1 Sudowoodo HIF 89
-* 4 Dragapult V PR-SW 96
+* 1 Sudowoodo GRI 66
+* 4 Dragapult V RCL 92
 * 2 Alolan Grimer SUM 57
-* 2 Tapu Lele-GX GRI 137
+* 2 Tapu Lele-GX GRI 60
 * 2 Alolan Muk SUM 58
 * 1 Radiant Alakazam SIT 59
 * 2 Air Balloon SSH 156
-* 2 Iono PAL 254
-* 1 Acerola BUS 142
+* 4 Iono PAL 185
+* 1 Acerola BUS 112
 * 2 Forest Seal Stone SIT 156
-* 1 Roxanne ASR 206
+* 1 Roxanne ASR 150
 * 1 Rescue Stretcher GRI 130
 * 1 Field Blower GRI 125
-* 1 Cynthia HIF 151
-* 1 Marnie SSH 208
-* 2 Professor's Research SSH 209
+* 1 Cynthia UPR 119
+* 1 Marnie SSH 169
+* 2 Professor's Research SVI 190
 * 4 Fog Crystal CRE 140
-* 3 Guzma HIF 153
+* 3 Guzma BUS 115
 * 4 Old Cemetery CRE 147
 * 4 Mysterious Treasure FLI 113
-* 2 Iono PAL 269
-* 1 Raihan EVS 224
-* 2 Escape Rope BUS 114
-* 2 Quick Ball SSH 216
-* 8 Basic {P} Energy BWALT 18
+* 1 Raihan EVS 152
+* 2 Escape Rope BST 125
+* 2 Quick Ball SSH 179
+* 8 Basic {P} Energy SVE 5

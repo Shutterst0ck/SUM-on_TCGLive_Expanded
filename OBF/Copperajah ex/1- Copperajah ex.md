@@ -21,17 +21,17 @@ Date: 10th September 2023
 * 2 Acerola BUS 112
 * 1 Field Blower GRI 125
 * 2 Iono PAL 185
-* 2 Professor's Research CEL 23
+* 2 Professor's Research SVI 190
 * 2 Metal Frying Pan FLI 112
 * 1 Rescue Stretcher GRI 130
 * 4 Metal Saucer SSH 170
 * 4 Quick Ball SSH 179
 * 4 Crystal Cave EVS 144
 * 2 Metal Goggles TEU 148
-* 2 Energy Search CRZ 128
-* 4 Ultra Ball BRS 150
-* 2 Energy Switch SSH 162
+* 2 Energy Search SVI 172
+* 4 Ultra Ball SVI 196
+* 2 Energy Switch SVI 173
 * 1 Forest Seal Stone SIT 156
 * 1 Mallow & Lana CEC 198
-* 1 Arven SVI 166
-* 10 Basic {M} Energy BWALT 22
+* 1 Arven OBF 186
+* 10 Basic {M} Energy SVE 8

@@ -19,7 +19,7 @@ Description: A deck to play when you have a lot of time on your hands.
 * 1 Radiant Greninja ASR 46
 * 1 Crobat V DAA 104
 * 1 Aegislash V VIV 126
-* 4 Professor’s Research CEL 23
+* 4 Professor's Research SVI 190
 * 2 Cherish Ball UNM 191
 * 3 Guzma BUS 115
 * 4 Acro Bike CES 123
@@ -29,10 +29,10 @@ Description: A deck to play when you have a lot of time on your hands.
 * 2 Marnie SSH 169
 * 4 Metal Saucer SSH 170
 * 4 Quick Ball SSH 179
-* 4 Switch SSH 183
+* 4 Switch SVI 194
 * 1 Forest Seal Stone SIT 156
 * 1 Rusted Sword SHF 62
 * 1 Echoing Horn CRE 136
-* 3 Energy Switch FFI 89
-* 3 Water Energy 3
-* 8 Metal Energy 8
+* 3 Energy Switch SVI 173
+* 3 Basic {W} Energy SVE 3
+* 8 Basic {M} Energy SVE 8

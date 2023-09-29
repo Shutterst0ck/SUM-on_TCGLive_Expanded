@@ -18,17 +18,17 @@ Date: 14th June 2023
 * 3 Cinderace SSH 34
 * 1 Cinderace CRE 28
 * 1 Manaphy BRS 41
-* 4 Rare Candy PGO 69
+* 4 Rare Candy SVI 191
 * 3 Welder UNB 189
 * 1 Giant Hearth UNM 197
 * 2 U-Turn Board UNM 211
 * 3 Rosa CEC 204
 * 4 Nest Ball SVI 181
-* 2 Boss’s Orders PAL 172
+* 2 Boss's Orders PAL 172
 * 3 Iono PAL 185
 * 4 Evolution Incense SSH 163
 * 4 Level Ball BST 129
 * 2 Path to the Peak CRE 148
 * 2 Recycle Energy UNM 212
-* 5 Fire Energy 2
+* 5 Basic {R} Energy SVE 2
 * 4 Capture Energy RCL 171

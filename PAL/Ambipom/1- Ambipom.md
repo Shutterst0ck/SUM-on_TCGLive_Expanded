@@ -17,17 +17,16 @@ Date: 26th July 2023
 * 1 Victini GRI 10
 * 3 Jirachi TEU 99
 * 4 Level Ball BST 129
-* 1 Wondrous Labyrinth {*} TEU 158
+* 1 Wondrous Labyrinth ◇ TEU 158
 * 4 Battle VIP Pass FST 225
-* 2 Iono PAL 269
+* 4 Iono PAL 185
 * 1 Field Blower GRI 125
-* 1 Rosa CEC 236
-* 2 Marnie PR-SW 120
+* 1 Rosa CEC 204
+* 2 Marnie SSH 169
 * 1 Rescue Stretcher GRI 130
-* 2 Ultra Ball BRS 186
+* 2 Ultra Ball SVI 196
 * 2 Escape Board UPR 122
-* 2 Guzma HIF 153
+* 2 Guzma BUS 115
 * 2 Evolution Incense SSH 163
-* 2 Iono PAL 254
-* 4 Double Colorless Energy SLG 69
+* 4 Double Colorless Energy GEN 74
 * 12 Basic {G} Energy SVE 1

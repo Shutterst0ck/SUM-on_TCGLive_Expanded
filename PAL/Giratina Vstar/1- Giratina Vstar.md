@@ -17,7 +17,7 @@ Date: 13th June 2023
 * 4 Lost Blender LOT 181
 * 4 Mirage Gate LOR 163
 * 4 Mysterious Treasure FLI 113
-* 4 Pokégear 3.0 SSH 174
+* 4 Pokégear 3.0 SVI 186
 * 4 Path to the Peak CRE 148
 * 4 Colress's Experiment LOR 155
 * 3 Guzma BUS 115

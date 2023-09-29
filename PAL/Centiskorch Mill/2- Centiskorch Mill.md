@@ -11,27 +11,27 @@ Date: 29th June 2023
 
 ## List
 
-* 4 Archeops PR-SW 272
-* 3 Lugia V SIT 186
-* 1 Dedenne-GX UNB 195
-* 1 Ditto {*} LOT 154
-* 2 Lugia VSTAR SIT 211
+* 4 Archeops SIT 147
+* 3 Lugia V SIT 138
+* 1 Dedenne-GX UNB 57
+* 1 Ditto ◇ LOT 154
+* 2 Lugia VSTAR SIT 139
 * 3 Centiskorch SSH 39
 * 4 Sizzlipede FST 47
-* 2 Tapu Lele-GX GRI 137
-* 1 Magcargo-GX LOT 198
-* 1 Collapsed Stadium LOR 215
-* 1 Rescue Stretcher BUS 165
-* 3 Professor's Research PR-SW 152
-* 2 Guzma BUS 143
+* 2 Tapu Lele-GX GRI 60
+* 1 Magcargo-GX LOT 44
+* 1 Collapsed Stadium BRS 137
+* 1 Rescue Stretcher GRI 130
+* 3 Professor's Research SVI 190
+* 2 Guzma BUS 115
 * 1 Bellelba & Brycen-Man CEC 186
-* 4 Ultra Ball PLF 122
-* 2 Iono PAL 269
-* 1 Roseanne's Backup BRS 172
+* 4 Ultra Ball SVI 196
+* 2 Iono PAL 185
+* 1 Roseanne's Backup BRS 148
 * 4 Evolution Incense SSH 163
 * 3 Cursed Shovel RCL 157
-* 4 Quick Ball SSH 216
-* 1 Miss Fortune Sisters LOR 194
+* 4 Quick Ball SSH 179
+* 1 Miss Fortune Sisters LOR 164
 * 4 Reversal Energy PAL 192
-* 4 Counter Energy CIN 122
+* 4 Counter Energy CIN 100
 * 4 Heat {R} Energy DAA 174

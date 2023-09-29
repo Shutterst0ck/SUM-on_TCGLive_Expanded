@@ -20,9 +20,9 @@ Date: 28th July 2023
 * 1 Rescue Stretcher GRI 130
 * 3 Fire Crystal UNB 173
 * 1 Pal Pad SVI 182
-* 2 Escape Rope PLS 120
+* 2 Escape Rope BST 125
 * 2 Nest Ball SVI 181
-* 2 Ultra Ball ROS 93
+* 2 Ultra Ball SVI 196
 * 4 Battle VIP Pass FST 225
 * 3 Rare Candy SVI 191
 * 2 Escape Board UPR 122
@@ -30,6 +30,6 @@ Date: 28th July 2023
 * 4 Welder UNB 189
 * 1 Peonia CRE 149
 * 4 Iono PAL 185
-* 1 Wondrous Labyrinth {*} TEU 158
+* 1 Wondrous Labyrinth ◇ TEU 158
 * 3 Magma Basin BRS 144
 * 10 Basic {R} Energy SVE 2

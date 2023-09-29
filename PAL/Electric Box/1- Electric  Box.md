@@ -17,8 +17,8 @@ Date: 9th August 2023
 * 3 Zapdos TEU 40
 * 1 Vikavolt V DAA 60
 * 2 Raichu V BRS 45
-* 4 Nest Ball SUM 123
-* 2 Ultra Ball SUM 135
+* 4 Nest Ball SVI 181
+* 2 Ultra Ball SVI 196
 * 3 Guzma BUS 115
 * 2 Volkner UPR 135
 * 1 Thunder Mountain ◇ LOT 191
@@ -29,7 +29,7 @@ Date: 9th August 2023
 * 2 Marnie SSH 169
 * 1 Hisuian Heavy Ball ASR 146
 * 3 Switch Cart ASR 154
-* 2 Professor's Research SHF 60
+* 2 Professor's Research SVI 190
 * 1 Stormy Mountains EVS 161
-* 11 Lightning Energy 4
-* 3 Speed Lightning Energy RCL 173
+* 11 Basic {L} Energy SVE 4
+* 3 Speed {L} Energy RCL 173

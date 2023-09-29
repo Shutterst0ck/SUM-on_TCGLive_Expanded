@@ -24,15 +24,15 @@ Date: th July 2023
 * 1 Crobat V DAA 104
 * 2 Brooklet Hill GRI 120
 * 1 Echoing Horn CRE 136
-* 3 Guzma BUS 143
+* 3 Guzma BUS 115
 * 3 Iono PAL 185
-* 1 Melony CRE 195
-* 4 Quick Ball SSH 216
-* 4 Ultra Ball BRS 186
-* 1 Ordinary Rod SSH 215
-* 3 Professor's Research CEL 24
+* 1 Melony CRE 146
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
+* 1 Ordinary Rod SSH 171
+* 3 Professor's Research SVI 190
 * 4 Air Balloon SSH 156
 * 4 Aqua Patch GRI 119
-* 2 Choice Belt ASR 211
-* 1 Field Blower GRI 163
-* 10 Basic {W} Energy Energy 11
+* 2 Choice Belt BRS 135
+* 1 Field Blower GRI 125
+* 10 Basic {W} Energy SVE 3

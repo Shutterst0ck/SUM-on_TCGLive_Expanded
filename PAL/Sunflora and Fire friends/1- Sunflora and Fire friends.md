@@ -10,27 +10,27 @@ Date: 12th June 2023
 
 ## List
 
-* 3 Charizard VMAX SHF 180
+* 3 Charizard VMAX DAA 20
 * 4 Sunkern CEC 7
 * 4 Sunflora CEC 8
-* 1 Charizard V BRS 154
-* 1 Delphox V LOR 173
-* 2 Charizard V CPA 79
-* 1 Charizard & Braixen-GX SMP 230
-* 2 Guzma BUS 143
-* 2 Marnie PR-SW 121
-* 4 Level Ball BST 181
-* 4 Green's Exploration UNB 209
-* 2 Air Balloon SSH 213
-* 1 Choice Belt ASR 211
-* 2 Switch PRC 163
+* 1 Charizard V BRS 17
+* 1 Delphox V LOR 27
+* 2 Charizard V DAA 19
+* 1 Charizard & Braixen-GX CEC 22
+* 2 Guzma BUS 115
+* 2 Marnie SSH 169
+* 4 Level Ball BST 129
+* 4 Green's Exploration UNB 175
+* 2 Air Balloon SSH 156
+* 1 Choice Belt BRS 135
+* 2 Switch SVI 194
 * 2 Evolution Incense SSH 163
 * 1 Forest Seal Stone SIT 156
-* 4 Max Potion GRI 164
-* 4 Professor's Research PR-SW 152
+* 4 Max Potion GRI 128
+* 4 Professor's Research SVI 190
 * 2 Rescue Carrier EVS 154
-* 1 Adventure Bag LOT 228
+* 1 Adventure Bag LOT 167
 * 1 Energy Loto ASR 140
-* 4 Nest Ball SVI 255
-* 4 Double Turbo Energy ASR 216
-* 4 Double Colorless Energy GRI 166
+* 4 Nest Ball SVI 181
+* 4 Double Turbo Energy BRS 151
+* 4 Double Colorless Energy GEN 74

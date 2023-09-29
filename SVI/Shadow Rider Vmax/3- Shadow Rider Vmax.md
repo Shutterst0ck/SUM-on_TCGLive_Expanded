@@ -22,14 +22,14 @@ Date: 11th June 2023
 * 3 Marnie SSH 169
 * 2 Field Blower GRI 125
 * 4 Fog Crystal CRE 140
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 4 Mysterious Treasure FLI 113
 * 1 Ordinary Rod SSH 171
 * 2 Temple of Sinnoh ASR 155
 * 3 Air Balloon SSH 156
 * 3 Cynthia UPR 119
 * 1 Forest Seal Stone SIT 156
-* 1 Pal Pad FLF 92
-* 1 Roxanne ASR 188
+* 1 Pal Pad SVI 182
+* 1 Roxanne ASR 150
 * 1 Adventurer's Discovery FST 224
-* 12 Basic {P} Energy Energy 49
+* 12 Basic {P} Energy SVE 5

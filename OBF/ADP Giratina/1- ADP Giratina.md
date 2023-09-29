@@ -24,7 +24,7 @@ Date: 14th September 2023
 * 3 Mirage Gate LOR 163
 * 2 Super Rod PAL 188
 * 1 Escape Rope BST 125
-* 1 Boss's Orders BRS 132
+* 1 Boss's Orders PAL 172
 * 4 Colress's Experiment LOR 155
 * 2 Roxanne ASR 150
 * 1 Cyrus ◇ UPR 120

@@ -22,9 +22,9 @@ Date: 25th September 2023
 * 4 Fog Crystal CRE 140
 * 1 Field Blower GRI 125
 * 2 Iono PAL 185
-* 4 Mysterious Treasure GRI 130
-* 3 Professor's Research CEL 23
-* 1 Marnie PR-SW 120
+* 4 Rescue Stretcher GRI 130
+* 3 Professor's Research SVI 190
+* 1 Marnie SSH 169
 * 4 Path to the Peak CRE 148
 * 2 Air Balloon SSH 156
 * 2 Max Potion GRI 128

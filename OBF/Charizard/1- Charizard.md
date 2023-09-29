@@ -30,8 +30,8 @@ Date: 12th August 2023
 * 1 Super Rod PAL 188
 * 3 Evolution Incense SSH 163
 * 2 Nest Ball SVI 181
-* 1 Heat Factory {*} LOT 178
-* 2 Professor's Research SVI 189
+* 1 Heat Factory ◇ LOT 178
+* 2 Professor's Research SVI 190
 * 2 Cynthia's Ambition BRS 138
 * 4 Scoop Up Net RCL 165
 * 1 Magma Basin BRS 144

@@ -15,7 +15,7 @@ Description: Use poke stop to hit all items, go second to turbo through deck and
 * 1 Dedenne-GX UNB 57
 * 1 Radiant Greninja ASR 46
 * 4 Blissey V CRE 119
-* 1 Crobat V PR-SW 110
+* 1 Crobat V DAA 104
 * 4 PokéStop PGO 68
 * 2 Rescue Stretcher GRI 130
 * 4 Acro Bike CES 123
@@ -29,10 +29,10 @@ Description: Use poke stop to hit all items, go second to turbo through deck and
 * 1 Hisuian Heavy Ball ASR 146
 * 1 Switch Cart ASR 154
 * 4 Trekking Shoes ASR 156
-* 4 Super Scoop Up FFI 100
+* 4 Super Scoop Up BUS 124
 * 4 Double Colorless Energy GEN 74
 * 1 Weakness Guard Energy UNM 213
 * 1 Gift Energy LOR 171
 * 1 V Guard Energy SIT 169
 * 1 Capture Energy RCL 171
-* 4 Powerful Colorless Energy DAA 176
+* 4 Powerful {C} Energy DAA 176

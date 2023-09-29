@@ -28,7 +28,7 @@ Date: 26th June 2023
 * 1 Rescue Stretcher GRI 130
 * 1 Scoop Up Net RCL 165
 * 2 Lost City LOR 161
-* 1 Boss's Orders BRS 132
+* 1 Boss's Orders PAL 172
 * 4 Colress's Experiment LOR 155
 * 1 Gladion CIN 95
 * 1 Iono PAL 185

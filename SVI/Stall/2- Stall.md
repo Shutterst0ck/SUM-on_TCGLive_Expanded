@@ -10,12 +10,11 @@ Date: 4th June 2023
 
 ## List
 
-* 1 Mimikyu CEC 245
-* 3 Mimikyu CEC 96
-* 1 Xurkitree-GX SMP 68
+* 4 Mimikyu CEC 96
+* 1 Xurkitree-GX PR-SM 68
 * 1 Girafarig LOT 94
 * 1 Snorlax PGO 55
-* 1 Tapu Lele-GX CEL-CC 25
+* 1 Tapu Lele-GX GRI 60
 * 1 Eldegoss V RCL 19
 * 1 Hisuian Heavy Ball ASR 146
 * 1 Cynthia UPR 119
@@ -23,7 +22,7 @@ Date: 4th June 2023
 * 2 Steven's Resolve CES 145
 * 1 Team Yell's Cheer BRS 149
 * 1 Faba LOT 173
-* 1 Professor's Research SVI 189
+* 1 Professor's Research SVI 190
 * 1 Team Yell Grunt SSH 184
 * 2 Quick Ball SSH 179
 * 1 Gladion CIN 95
@@ -44,7 +43,7 @@ Date: 4th June 2023
 * 1 Team Skull Grunt SUM 133
 * 1 Path to the Peak CRE 148
 * 1 Peonia CRE 149
-* 1 Arven SVI 166
+* 1 Arven OBF 186
 * 1 Bird Keeper DAA 159
 * 1 Marnie SSH 169
 * 1 Rescue Stretcher GRI 130

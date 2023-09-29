@@ -11,26 +11,26 @@ Date: 14th September 2023
 ## List
 
 * 2 Weavile-GX UNM 132
-* 1 Galarian Zigzagoon SHF 151
-* 2 Darkrai-GX HIF 139
+* 1 Galarian Zigzagoon SSH 117
+* 2 Darkrai-GX BUS 88
 * 2 Sneasel UPR 73
 * 2 Kecleon CRE 122
-* 1 Mega Sableye & Tyranitar-GX UNM 226
-* 1 Umbreon & Darkrai-GX SMP 241
-* 3 Eternatus VMAX SHF 195
-* 3 Eternatus V SHF 194
-* 3 Crobat V PR-SW 98
+* 1 Mega Sableye & Tyranitar-GX UNM 126
+* 1 Umbreon & Darkrai-GX UNM 125
+* 3 Eternatus VMAX DAA 117
+* 3 Eternatus V DAA 116
+* 3 Crobat V DAA 104
 * 1 Guzzlord CEC 136
-* 4 Ultra Ball SUM 161
+* 4 Ultra Ball SVI 196
 * 1 Hisuian Heavy Ball ASR 146
-* 3 Guzma BUS 143
-* 4 Quick Ball SSH 216
-* 3 Viridian Forest UNM 256
-* 1 Rescue Stretcher BUS 165
-* 2 Pokémon Communication TEU 196
-* 2 Iono PAL 254
+* 3 Guzma BUS 115
+* 4 Quick Ball SSH 179
+* 3 Viridian Forest TEU 156
+* 1 Rescue Stretcher GRI 130
+* 2 Pokémon Communication TEU 152
+* 2 Iono PAL 185
 * 1 Forest Seal Stone SIT 156
-* 1 Field Blower GRI 163
-* 4 Professor's Research PR-SW 152
-* 2 Nest Ball SVI 255
-* 11 Basic {D} Energy EVS 236
+* 1 Field Blower GRI 125
+* 4 Professor's Research SVI 190
+* 2 Nest Ball SVI 181
+* 11 Basic {D} Energy SVE 7

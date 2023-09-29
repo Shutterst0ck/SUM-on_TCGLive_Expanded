@@ -30,7 +30,7 @@ Description: Rayquaza GX in a new way!
 * 4 Mirage Gate LOR 163
 * 2 Forest Seal Stone SIT 156
 * 3 Scoop Up Net RCL 165
-* 2 Boss's Orders SHF 58
+* 2 Boss's Orders PAL 172
 * 2 Escape Rope BST 125
-* 5 Grass Energy 1
-* 5 Lightning Energy 4
+* 5 Basic {G} Energy SVE 1
+* 5 Basic {L} Energy SVE 4

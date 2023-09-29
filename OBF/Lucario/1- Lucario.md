@@ -19,16 +19,16 @@ Date: 16th August 2023
 * 2 Blitzle CRE 50
 * 4 Riolu BRS 78
 * 4 Lucario BRS 79
-* 4 Nest Ball SUM 123
+* 4 Nest Ball SVI 181
 * 2 Timer Ball SUM 134
 * 2 Martial Arts Dojo UNB 179
 * 1 Field Blower GRI 125
 * 1 Max Potion GRI 128
-* 2 Escape Rope BUS 114
-* 2 Switch SLG 67
+* 2 Escape Rope BST 125
+* 2 Switch SVI 194
 * 3 Pokémon Communication TEU 152
 * 2 Viridian Forest TEU 156
 * 2 Ordinary Rod SSH 171
 * 4 Gutsy Pickaxe ASR 145
 * 4 Level Ball BST 129
-* 10 Fighting Energy 6
+* 10 Basic {F} Energy SVE 6

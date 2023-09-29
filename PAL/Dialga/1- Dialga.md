@@ -14,10 +14,10 @@ Date: 15th June 2023
 * 2 Origin Forme Dialga VSTAR ASR 114
 * 1 Zacian V SSH 138
 * 1 Radiant Greninja ASR 46
-* 2 Crobat V SHF 44
+* 2 Crobat V DAA 104
 * 4 Jirachi TEU 99
 * 4 Quick Ball SSH 179
-* 2 Ultra Ball DEX 102
+* 2 Ultra Ball SVI 196
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Battle VIP Pass FST 225
 * 4 Trekking Shoes ASR 156
@@ -35,4 +35,4 @@ Date: 15th June 2023
 * 1 Metal Frying Pan FLI 112
 * 1 Viridian Forest TEU 156
 * 1 Mt. Coronet UPR 130
-* 11 Basic {M} Energy Energy 16
+* 11 Basic {M} Energy SVE 8

@@ -11,7 +11,7 @@ Date: 10th June 2023
 ## List
 
 * 2 Weavile-GX UNM 132
-* 2 Galarian Weezing SHF 42
+* 2 Galarian Weezing RCL 113
 * 2 Sneasel UPR 73
 * 1 Darkrai-GX BUS 88
 * 1 Umbreon & Darkrai-GX UNM 125
@@ -22,12 +22,12 @@ Date: 10th June 2023
 * 2 Koffing SHF 41
 * 1 Guzzlord CEC 136
 * 3 Crobat V DAA 104
-* 4 Ultra Ball SUM 135
+* 4 Ultra Ball SVI 196
 * 2 Guzma BUS 115
 * 1 Hisuian Heavy Ball ASR 146
 * 1 Battle VIP Pass FST 225
 * 2 Dark City UNM 193
-* 4 Professor's Research SHF 60
+* 4 Professor's Research SVI 190
 * 4 Quick Ball SSH 179
 * 2 Forest Seal Stone SIT 156
 * 2 Marnie SSH 169

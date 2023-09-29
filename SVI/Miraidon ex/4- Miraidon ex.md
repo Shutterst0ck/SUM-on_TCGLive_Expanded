@@ -20,12 +20,12 @@ Date: 15th May 2023
 * 4 Electric Generator SVI 170
 * 4 Electropower LOT 172
 * 1 Hisuian Heavy Ball ASR 146
-* 2 Nest Ball SUM 123
+* 2 Nest Ball SVI 181
 * 3 Rare Candy SVI 191
 * 2 Stormy Mountains EVS 161
-* 1 Thunder Mountain {*} LOT 191
+* 1 Thunder Mountain ◇ LOT 191
 * 2 Boss's Orders PAL 172
-* 2 Professor's Research SHF 60
+* 2 Professor's Research SVI 190
 * 3 Volkner UPR 135
 * 2 Zinnia's Resolve EVS 164
 * 2 Forest Seal Stone SIT 156

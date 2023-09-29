@@ -27,11 +27,11 @@ Date: 18th May 2023
 * 1 Pal Pad SVI 182
 * 4 Fog Crystal CRE 140
 * 4 Battle VIP Pass FST 225
-* 1 Ultra Ball BRS 150
-* 2 Professor's Research SHF 60
+* 1 Ultra Ball SVI 196
+* 2 Professor's Research SVI 190
 * 4 Marnie SSH 169
 * 1 Rescue Stretcher GRI 130
 * 1 Collapsed Stadium BRS 137
 * 2 Guzma BUS 115
 * 4 Rare Candy SVI 191
-* 10 Basic {P} Energy Energy 13
+* 10 Basic {P} Energy SVE 5

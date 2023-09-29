@@ -13,34 +13,33 @@ This Deck Combines the Energy acceleration of Calyrex VMAX and the Discard pile 
 
 ## List
 
-* 2 Gardevoir ex SVI 245
-* 1 Slowking ex PAL 238
+* 2 Gardevoir ex SVI 86
+* 1 Slowking ex PAL 86
 * 1 Slowpoke PAL 85
 * 1 Mimikyu PAL 97
 * 2 Shadow Rider Calyrex V CRE 74
 * 1 Crobat V DAA 104
 * 1 Ralts SIT 67
 * 1 Radiant Eternatus CRZ 105
-* 1 Galarian Rapidash V CRE 168
-* 3 Shadow Rider Calyrex VMAX CRE 205
-* 1 Cresselia EVS 228
+* 1 Galarian Rapidash V PR-SW 111
+* 3 Shadow Rider Calyrex VMAX CRE 75
+* 1 Cresselia CRE 64
 * 1 Manaphy BRS 41
-* 2 Kirlia PR-SW 271
-* 1 Professor's Research SVI 240
-* 1 Professor's Research SVI 241
-* 1 Arven SVI 249
-* 1 Rare Candy SVI 256
-* 2 Boss’s Orders PAL 265
-* 3 Iono PAL 269
+* 2 Kirlia SIT 68
+* 2 Professor's Research SVI 190
+* 1 Arven OBF 186
+* 1 Rare Candy SVI 191
+* 2 Boss's Orders PAL 172
+* 3 Iono PAL 185
 * 3 Evolution Incense SSH 163
-* 2 Switch SSH 183
-* 2 Air Balloon SSH 213
-* 2 Quick Ball SSH 216
+* 2 Switch SVI 194
+* 2 Air Balloon SSH 156
+* 2 Quick Ball SSH 179
 * 1 Hisuian Heavy Ball ASR 146
-* 2 Great Ball CPA 52
-* 1 Exp. Share BST 180
-* 4 Fog Crystal CRE 227
-* 2 Training Court FST 282
-* 12 Psychic Energy 5
-* 1 Darkness Energy 7
-* 1 Fire Energy 2
+* 2 Great Ball PAL 183
+* 1 Exp. Share SVI 174
+* 4 Fog Crystal CRE 140
+* 2 Training Court RCL 169
+* 12 Basic {P} Energy SVE 5
+* 1 Basic {D} Energy SVE 7
+* 1 Basic {R} Energy SVE 2

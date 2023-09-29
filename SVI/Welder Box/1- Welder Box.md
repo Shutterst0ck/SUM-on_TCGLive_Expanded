@@ -30,8 +30,8 @@ Description: Another enjoyable deck to play in the Live Expanded beta
 * 2 Nest Ball SVI 181
 * 2 Big Charm SSH 158
 * 1 Marnie SSH 169
-* 4 Pokégear 3.0 SSH 174
-* 1 Professor's Research SSH 178
+* 4 Pokégear 3.0 SVI 186
+* 1 Professor's Research SVI 190
 * 4 Quick Ball SSH 179
-* 4 Switch SSH 183
-* 14 Fire Energy 2
+* 4 Switch SVI 194
+* 14 Basic {R} Energy SVE 2

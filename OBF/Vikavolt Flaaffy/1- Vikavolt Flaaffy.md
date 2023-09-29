@@ -33,6 +33,6 @@ Date: 15th September 2023
 * 4 Avery CRE 130
 * 2 Path to the Peak CRE 148
 * 2 Shauna FST 240
-* 2 Boss's Orders BRS 132
-* 6 Grass Energy 1
-* 7 Lightning Energy 4
+* 2 Boss's Orders PAL 172
+* 6 Basic {G} Energy SVE 1
+* 7 Basic {L} Energy SVE 4

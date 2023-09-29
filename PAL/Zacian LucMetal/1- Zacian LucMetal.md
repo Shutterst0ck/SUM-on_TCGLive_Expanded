@@ -18,7 +18,7 @@ Date: 12th June 2023
 * 2 Cynthia & Caitlin CEC 189
 * 2 Guzma & Hala CEC 193
 * 2 Mallow & Lana CEC 198
-* 1 Erika's Hospitality HIF 56
+* 1 Erika's Hospitality TEU 140
 * 1 Penny SVI 183
 * 4 Tag Call CEC 206
 * 3 Switch Cart ASR 154
@@ -31,8 +31,8 @@ Date: 12th June 2023
 * 1 Rusted Sword SHF 62
 * 1 Forest Seal Stone SIT 156
 * 2 Crystal Cave EVS 144
-* 1 Wondrous Labyrinth {*} TEU 158
+* 1 Wondrous Labyrinth ◇ TEU 158
 * 2 V Guard Energy SIT 169
 * 2 Capture Energy RCL 171
-* 1 Double Colorless Energy EVO 90
-* 9 Basic {M} Energy Energy 16
+* 1 Double Colorless Energy GEN 74
+* 9 Basic {M} Energy SVE 8

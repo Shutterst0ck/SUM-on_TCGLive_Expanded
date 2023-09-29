@@ -15,9 +15,9 @@ Date: 31th July 2023
 * 4 Zapdos TEU 40
 * 4 Jirachi TEU 99
 * 2 Regieleki ASR 51
-* 4 Nest Ball SUM 123
+* 4 Nest Ball SVI 181
 * 1 Rescue Stretcher GRI 130
-* 3 Escape Rope BUS 114
+* 3 Escape Rope BST 125
 * 3 Guzma BUS 115
 * 2 Cynthia UPR 119
 * 3 Escape Board UPR 122
@@ -27,7 +27,7 @@ Date: 31th July 2023
 * 2 Marnie SSH 169
 * 1 Hisuian Heavy Ball ASR 146
 * 3 Switch Cart ASR 154
-* 2 Professor's Research SHF 60
+* 2 Professor's Research SVI 190
 * 1 Stormy Mountains EVS 161
-* 12 Lightning Energy 4
-* 2 Speed Lightning Energy RCL 173
+* 12 Basic {L} Energy SVE 4
+* 2 Speed {L} Energy RCL 173

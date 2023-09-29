@@ -17,24 +17,22 @@ Description: The goal of the deck is to stall and mill your opponent. The early 
 * 1 Skwovet SVI 151
 * 1 Miltank ASR 126
 * 2 Bidoof CRZ 111
-* 2 Swablu CPA 48
+* 2 Swablu CIN 79
 * 1 Altaria CPA 49
 * 1 Altaria EVS 106
 * 2 Bibarel BRS 121
 * 1 Manaphy BRS 41
-* 4 Switch BCR 135
+* 4 Switch SVI 194
 * 2 Bellelba & Brycen-Man CEC 186
-* 3 Lillie's Poké Doll CEC 197
-* 1 Cynthia & Caitlin CEC 228
-* 1 Lillie's Poké Doll CEC 267
+* 4 Lillie's Poké Doll CEC 197
+* 1 Cynthia & Caitlin CEC 189
 * 1 Enhanced Hammer GRI 124
 * 1 Field Blower GRI 125
 * 2 Rescue Stretcher GRI 130
-* 1 Plumeria BUS 145
-* 1 Lusamine CIN 110
+* 1 Plumeria BUS 120
+* 2 Lusamine CIN 96
 * 1 Counter Catcher CIN 91
 * 1 Gladion CIN 95
-* 1 Lusamine CIN 96
 * 1 Steven's Resolve CES 145
 * 1 Tate & Liza CES 148
 * 1 Faba LOT 173
@@ -47,7 +45,7 @@ Description: The goal of the deck is to stall and mill your opponent. The early 
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Cursed Shovel RCL 157
 * 4 Scoop Up Net RCL 165
-* 1 Boss's Orders RCL 189
+* 1 Boss's Orders PAL 172
 * 2 Path to the Peak CRE 148
 * 1 Peonia CRE 149
 * 1 Steven ROS 90

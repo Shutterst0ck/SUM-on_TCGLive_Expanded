@@ -14,23 +14,23 @@ Date: 5th June 2023
 * 1 Alolan Muk SUM 58
 * 2 Gardevoir ex SVI 86
 * 4 Kirlia SIT 68
-* 1 Trevenant & Dusknoir-GX SMP 217
-* 1 Ditto {*} LOT 154
+* 1 Trevenant & Dusknoir-GX PR-SM 217
+* 1 Ditto ◇ LOT 154
 * 1 Alolan Grimer SUM 57
 * 1 Radiant Greninja ASR 46
 * 4 Ralts ASR 60
-* 1 Gardevoir ASR-TG 5
+* 1 Gardevoir CRE 61
 * 4 Battle VIP Pass FST 225
 * 2 Chaotic Swell CEC 187
-* 1 Wondrous Labyrinth {*} TEU 158
-* 2 Guzma BUS 143
-* 4 Marnie PR-SW 121
+* 1 Wondrous Labyrinth ◇ TEU 158
+* 2 Guzma BUS 115
+* 4 Marnie SSH 169
 * 1 Rescue Stretcher GRI 130
-* 3 Ultra Ball BRS 186
+* 3 Ultra Ball SVI 196
 * 4 Mysterious Treasure FLI 113
-* 1 Roxanne ASR 188
-* 2 Rare Candy PGO 69
-* 3 Judge SIT-TG 25
+* 1 Roxanne ASR 150
+* 2 Rare Candy SVI 191
+* 3 Judge SVI 176
 * 3 Evolution Incense SSH 163
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Cynthia UPR 119

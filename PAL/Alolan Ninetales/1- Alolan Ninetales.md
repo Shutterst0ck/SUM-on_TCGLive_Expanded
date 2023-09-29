@@ -39,4 +39,4 @@ Date: 7th August 2023
 * 1 Spongy Gloves FST 243
 * 1 Cleansing Gloves BRS 136
 * 1 Hunting Gloves BRS 142
-* 2 Professor's Research BRS 147
+* 2 Professor's Research SVI 190

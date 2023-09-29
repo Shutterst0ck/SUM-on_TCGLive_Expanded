@@ -15,9 +15,9 @@ Date: 10th June 2023
 * 1 Alolan Grimer SUM 57
 * 1 Gengar & Mimikyu-GX TEU 53
 * 1 Alolan Muk SUM 58
-* 1 Tapu Lele-GX CEL-CC 25
+* 1 Tapu Lele-GX GRI 60
 * 4 Shadow Rider Calyrex VMAX CRE 75
-* 1 Trevenant & Dusknoir-GX SMP 217
+* 1 Trevenant & Dusknoir-GX PR-SM 217
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Air Balloon SSH 156
 * 2 Ordinary Rod SSH 171
@@ -29,7 +29,7 @@ Date: 10th June 2023
 * 3 Fog Crystal CRE 140
 * 1 Battle VIP Pass FST 225
 * 3 Training Court RCL 169
-* 2 Professor's Research SHF 60
+* 2 Professor's Research SVI 190
 * 4 Marnie SSH 169
 * 1 Roxanne ASR 150
 * 2 Guzma BUS 115

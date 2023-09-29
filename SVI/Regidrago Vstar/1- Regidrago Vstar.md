@@ -14,10 +14,10 @@ Date: 25th May 2023
 * 1 Dedenne-GX UNB 57
 * 1 Dragonite SIT 131
 * 1 Giratina VSTAR LOR 131
-* 1 Dialga-GX UPR 100
+* 1 Dialga-GX FLI 82
 * 3 Regidrago V SIT 135
 * 1 Leafeon V EVS 7
-* 1 Tapu Lele-GX CEL-CC 25
+* 1 Tapu Lele-GX GRI 60
 * 4 Jirachi TEU 99
 * 1 Noivern-GX BUS 99
 * 1 Hisuian Goodra VSTAR LOR 136
@@ -30,9 +30,9 @@ Date: 25th May 2023
 * 1 Pal Pad SVI 182
 * 2 Escape Board UPR 122
 * 1 Energy Spinner UNB 170
-* 2 Professor's Research SHF 60
+* 2 Professor's Research SVI 190
 * 1 Rescue Stretcher GRI 130
 * 2 Guzma BUS 115
 * 4 Switch SVI 194
-* 4 Basic {R} Energy Energy 19
-* 8 Basic {G} Energy Energy 18
+* 4 Basic {R} Energy SVE 2
+* 8 Basic {G} Energy SVE 1

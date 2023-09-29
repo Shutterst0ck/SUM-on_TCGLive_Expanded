@@ -10,25 +10,25 @@ Date: 17th June 2023
 
 ## List
 
-* 1 Miraidon ex SVI 253
+* 1 Miraidon ex SVI 81
 * 3 Electrode-GX CES 48
-* 1 Ditto {*} LOT 154
+* 1 Ditto ◇ LOT 154
 * 3 Voltorb PAL 66
-* 1 Dedenne-GX UNB 195
+* 1 Dedenne-GX UNB 57
 * 2 Pikachu LOR 52
 * 1 Squawkabilly ex PAL 169
 * 2 Alolan Raichu UNM 57
-* 4 Trekking Shoes ASR 215
-* 4 Ultra Ball SUM 161
-* 4 Electromagnetic Radar UNB 230
+* 4 Trekking Shoes ASR 156
+* 4 Ultra Ball SVI 196
+* 4 Electromagnetic Radar UNB 169
 * 4 Battle VIP Pass FST 225
-* 4 Acro Bike CES 178
+* 4 Acro Bike CES 123
 * 4 PokéStop PGO 68
-* 1 Rotom Dex SUM 159
-* 3 Rescue Stretcher BUS 165
+* 1 Rotom Dex SUM 131
+* 3 Rescue Stretcher GRI 130
 * 1 Energy Loto ASR 140
-* 1 Telescopic Sight VIV 203
-* 4 Professor's Research SSH 201
-* 4 Counter Energy CIN 122
+* 1 Telescopic Sight VIV 160
+* 4 Professor's Research SVI 190
+* 4 Counter Energy CIN 100
 * 4 Speed {L} Energy RCL 173
 * 4 Reversal Energy PAL 192

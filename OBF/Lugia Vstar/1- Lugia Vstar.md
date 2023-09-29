@@ -17,20 +17,20 @@ Date: 18th August 2023
 * 1 Dedenne-GX UNB 57
 * 1 Moltres & Zapdos & Articuno-GX HIF 44
 * 4 Lugia V SIT 138
-* 2 Lumineon V BRS 156
+* 2 Lumineon V BRS 40
 * 1 Yveltal SHF 46
 * 1 Guzzlord CEC 136
 * 2 Chaotic Swell CEC 187
 * 3 Guzma BUS 115
 * 2 Iono PAL 185
-* 3 Marnie PR-SW 120
+* 3 Marnie SSH 169
 * 4 Quick Ball SSH 179
-* 3 Professor's Research SSH 178
+* 3 Professor's Research SVI 190
 * 4 Evolution Incense SSH 163
-* 4 Ultra Ball CRZ 146
+* 4 Ultra Ball SVI 196
 * 1 Professor Burnet PR-SW 167
-* 3 Double Colorless Energy EVO 90
+* 3 Double Colorless Energy GEN 74
 * 4 Aurora Energy SSH 186
 * 3 Stone {F} Energy VIV 164
 * 2 Capture Energy RCL 171
-* 2 Rainbow Energy CES 151
+* 2 Rainbow Energy SUM 137

@@ -13,27 +13,25 @@ Date: 12th July 2023
 ## List
 
 * 2 Blitzle LOT 81
-* 1 Tapu Lele SMP 45
+* 2 Tapu Lele PR-SM 45
 * 1 Oranguru SUM 113
 * 1 Mew UNB 76
-* 1 Tapu Lele UPR 94
 * 2 Hawlucha SVI 118
 * 2 Zebstrika LOT 82
 * 1 Miraidon ex SVI 81
 * 1 Blacephalon CEC 104
-* 4 Tapu Koko SMP 30
-* 4 Nest Ball SUM 123
+* 4 Tapu Koko PR-SM 30
+* 4 Nest Ball SVI 181
 * 4 Scoop Up Net RCL 165
 * 4 Path to the Peak CRE 148
-* 4 Ultra Ball BRS 150
+* 4 Ultra Ball SVI 196
 * 4 Iono PAL 185
-* 3 Professor's Research SHF 60
-* 1 Pal Pad UPR 132
+* 3 Professor's Research SVI 190
+* 1 Pal Pad SVI 182
 * 4 Telescopic Sight VIV 160
 * 2 Rescue Stretcher GRI 130
-* 2 Escape Rope BUS 114
+* 2 Escape Rope BST 125
 * 2 Guzma BUS 115
-* 1 Double Colorless Energy LTR 113
-* 3 Double Colorless Energy XY 130
+* 4 Double Colorless Energy GEN 74
 * 4 Counter Energy CIN 100
 * 2 Twin Energy RCL 174

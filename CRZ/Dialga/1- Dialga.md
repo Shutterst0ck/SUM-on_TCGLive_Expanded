@@ -20,15 +20,15 @@ Date: March 2023
 * 1 Radiant Greninja ASR 46
 * 1 Diancie ASR 68
 * 2 Bronzong BST 102
-* 3 Nest Ball SUM 123
-* 2 Guzma BUS 143
+* 3 Nest Ball SVI 181
+* 2 Guzma BUS 115
 * 1 Cyrus ◇ UPR 120
 * 2 Escape Board UPR 122
 * 4 Acro Bike CES 123
 * 4 Metal Saucer SSH 170
-* 2 Switch SSH 183
+* 2 Switch SVI 194
 * 4 Trekking Shoes ASR 156
-* 3 Colress's Experiment LOR 190
+* 3 Colress's Experiment LOR 155
 * 2 Scoop Up Net RCL 165
-* 3 Ultra Ball BRS 150
-* 12 Metal Energy 8
+* 3 Ultra Ball SVI 196
+* 12 Basic {M} Energy SVE 8

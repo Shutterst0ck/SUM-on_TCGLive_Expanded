@@ -12,9 +12,9 @@ Date: th September 2023
 
 * 4 Durant BST 10
 * 2 Jirachi TEU 99
-* 2 Crushing Hammer SSH 159
+* 2 Crushing Hammer SVI 168
 * 4 Nest Ball SVI 181
-* 4 Professor's Research CEL 23
+* 4 Professor's Research SVI 190
 * 2 Escape Board UPR 122
 * 1 Hisuian Heavy Ball ASR 146
 * 4 Battle VIP Pass FST 225
@@ -22,10 +22,10 @@ Date: th September 2023
 * 4 Rescue Carrier EVS 154
 * 2 Field Blower GRI 125
 * 4 Counter Catcher CIN 91
-* 3 Marnie PR-SW 120
+* 3 Marnie SSH 169
 * 2 Yell Horn DAA 173
 * 4 Level Ball BST 129
-* 2 Arven SVI 166
+* 2 Arven OBF 186
 * 4 Cursed Shovel RCL 157
-* 4 Double Colorless Energy SLG 69
+* 4 Double Colorless Energy GEN 74
 * 4 Twin Energy RCL 174

@@ -29,8 +29,8 @@ Description: Palkia Vstar with SVI Cards amd rotated cards in expanded is insane
 * 4 Irida ASR 147
 * 4 Capacious Bucket RCL 156
 * 4 Training Court RCL 169
-* 2 Boss's Orders RCL 189
+* 2 Boss's Orders PAL 172
 * 4 Melony CRE 146
 * 4 Battle VIP Pass FST 225
-* 3 Quick Ball FST 237
-* 8 Water Energy 3
+* 3 Quick Ball SSH 179
+* 8 Basic {W} Energy SVE 3

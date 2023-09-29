@@ -20,7 +20,7 @@ Description: Possibly the BDIF in the Live Expanded beta format.
 * 1 Trevenant & Dusknoir-GX PR-SM 217
 * 4 Shadow Rider Calyrex V CRE 74
 * 4 Shadow Rider Calyrex VMAX CRE 75
-* 1 Professor’s Research CEL 23
+* 1 Professor's Research SVI 190
 * 1 Field Blower GRI 125
 * 2 Acerola BUS 112
 * 2 Guzma BUS 115
@@ -36,4 +36,4 @@ Description: Possibly the BDIF in the Live Expanded beta format.
 * 2 Training Court RCL 169
 * 1 Escape Rope BST 125
 * 4 Fog Crystal CRE 140
-* 13 Psychic Energy 5
+* 13 Basic {P} Energy SVE 5

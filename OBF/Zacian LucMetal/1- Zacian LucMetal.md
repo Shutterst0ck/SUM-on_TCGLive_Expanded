@@ -10,29 +10,29 @@ Date: 26th August 2023
 
 ## List
 
-* 3 Zacian V PR-SW 76
-* 2 Lucario & Melmetal-GX SMP 192
-* 2 Zamazenta V PR-SW 77
+* 3 Zacian V SSH 138
+* 2 Lucario & Melmetal-GX UNB 120
+* 2 Zamazenta V SSH 139
 * 3 Switch Cart ASR 154
-* 3 Lillie's Poké Doll CEC 267
-* 3 Iono PAL 254
-* 1 Wondrous Labyrinth {*} TEU 158
-* 2 Crystal Cave EVS 230
-* 1 Field Blower GRI 163
-* 4 Tag Call CEC 270
-* 4 Guzma BUS 143
+* 3 Lillie's Poké Doll CEC 197
+* 3 Iono PAL 185
+* 1 Wondrous Labyrinth ◇ TEU 158
+* 2 Crystal Cave EVS 144
+* 1 Field Blower GRI 125
+* 4 Tag Call CEC 206
+* 4 Guzma BUS 115
 * 1 Forest Seal Stone SIT 156
-* 2 Guzma & Hala CEC 229
-* 2 Marnie SSH 200
-* 3 Metal Frying Pan FLI 144
-* 1 Counter Catcher CIN 120
+* 2 Guzma & Hala CEC 193
+* 2 Marnie SSH 169
+* 3 Metal Frying Pan FLI 112
+* 1 Counter Catcher CIN 91
 * 1 Rusted Sword SHF 62
-* 2 Cynthia & Caitlin CEC 228
-* 2 Mallow & Lana CEC 231
-* 1 Penny SVI 239
-* 3 Metal Saucer SSH 214
-* 1 Double Colorless Energy GRI 166
-* 9 Basic {M} Energy EVS 237
-* 2 Capture Energy DAA 201
-* 1 V Guard Energy SIT 215
+* 2 Cynthia & Caitlin CEC 189
+* 2 Mallow & Lana CEC 198
+* 1 Penny SVI 183
+* 3 Metal Saucer SSH 170
+* 1 Double Colorless Energy GEN 74
+* 9 Basic {M} Energy SVE 8
+* 2 Capture Energy RCL 171
+* 1 V Guard Energy SIT 169
 * 1 Coating {M} Energy VIV 163

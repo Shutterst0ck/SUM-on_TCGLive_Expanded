@@ -19,20 +19,19 @@ Date: 28th April 2023
 * 2 Origin Forme Palkia VSTAR ASR 40
 * 1 Radiant Greninja ASR 46
 * 1 Manaphy BRS 41
-* 1 Tapu Lele-GX CEL-CC 25
+* 1 Tapu Lele-GX GRI 60
 * 2 Air Balloon SSH 156
 * 2 Aqua Patch GRI 119
 * 3 Viridian Forest TEU 156
 * 4 Quick Ball SSH 179
 * 1 Escape Rope BST 125
-* 1 Energy Switch CRZ 129
+* 2 Energy Switch SVI 173
 * 2 Irida ASR 147
-* 3 Professor's Research SVI 189
+* 3 Professor's Research SVI 190
 * 1 Battle VIP Pass FST 225
 * 2 Melony CRE 146
 * 1 Energy Spinner UNB 170
-* 4 Ultra Ball BRS 150
-* 1 Energy Switch SVI 173
+* 4 Ultra Ball SVI 196
 * 2 Marnie SSH 169
 * 1 Roxanne ASR 150
 * 1 Rescue Stretcher GRI 130

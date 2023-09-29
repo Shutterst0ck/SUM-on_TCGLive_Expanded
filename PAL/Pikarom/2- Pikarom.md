@@ -21,7 +21,7 @@ Date: 17th July 2023
 * 2 Raikou V BRS 48
 * 4 Electropower LOT 172
 * 2 Electrocharger TEU 139
-* 2 Arven SVI 166
+* 2 Arven OBF 186
 * 3 Beach Court SVI 167
 * 4 Electric Generator SVI 170
 * 1 Exp. Share SVI 174
@@ -29,7 +29,7 @@ Date: 17th July 2023
 * 2 Choice Belt PAL 176
 * 2 Iono PAL 185
 * 2 Serena SIT 164
-* 1 Boss's Orders SHF 58
+* 1 Boss's Orders PAL 172
 * 2 Energy Recycler BST 124
 * 1 Escape Rope BST 125
-* 14 Lightning Energy 4
+* 14 Basic {L} Energy SVE 4

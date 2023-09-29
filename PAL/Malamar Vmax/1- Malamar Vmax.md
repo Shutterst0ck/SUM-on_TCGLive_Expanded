@@ -15,18 +15,18 @@ Date: 12th June 2023
 * 1 Tapu Lele-GX GRI 60
 * 2 Alolan Grimer UNM 127
 * 2 Alolan Muk SUM 58
-* 1 Crobat V SHF 44
+* 1 Crobat V DAA 104
 * 3 Malamar V RCL 121
 * 3 Malamar VMAX RCL 122
 * 1 Radiant Greninja ASR 46
 * 4 Dark Patch ASR 139
 * 4 Quick Ball SSH 179
-* 4 Switch BCR 135
+* 4 Switch SVI 194
 * 4 Trekking Shoes ASR 156
-* 4 Ultra Ball BRS 150
+* 4 Ultra Ball SVI 196
 * 1 Chaotic Swell CEC 187
 * 3 Guzma BUS 115
 * 3 Iono PAL 185
 * 4 Marnie SSH 169
 * 2 Air Balloon SSH 156
-* 11 Basic {D} Energy Energy 15
+* 11 Basic {D} Energy SVE 7

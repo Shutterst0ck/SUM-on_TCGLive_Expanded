@@ -20,16 +20,16 @@ Date: 7th July 2023
 * 1 Yveltal SHF 46
 * 1 Raikou VIV 50
 * 1 Naganadel & Guzzlord-GX CEC 158
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 3 Guzma BUS 115
 * 4 Iono PAL 185
-* 4 Professor's Research CEL 24
-* 4 Ultra Ball BRS 150
+* 4 Professor's Research SVI 190
+* 4 Ultra Ball SVI 196
 * 4 Evolution Incense SSH 163
 * 2 Choice Belt BRS 135
 * 1 Field Blower GRI 125
 * 4 Aurora Energy SSH 186
-* 2 Double Colorless Energy PHF 111
+* 2 Double Colorless Energy GEN 74
 * 4 Capture Energy RCL 171
 * 4 Powerful {C} Energy DAA 176
-* 2 Rainbow Energy XY 131
+* 2 Rainbow Energy SUM 137

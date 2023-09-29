@@ -14,18 +14,18 @@ Description: A good choice when you have some extra time on your hands and you w
 
 * 4 Togekiss V VIV 140
 * 4 Togekiss VMAX VIV 141
-* 4 Max Potion EPO 94
-* 4 Nest Ball SUM 123
+* 4 Max Potion GRI 128
+* 4 Nest Ball SVI 181
 * 4 Green's Exploration UNB 175
 * 2 Enhanced Hammer GRI 124
 * 1 Field Blower GRI 125
 * 1 Guzma BUS 115
 * 2 Lusamine CIN 96
 * 1 Faba LOT 173
-* 4 Crushing Hammer SSH 159
+* 4 Crushing Hammer SVI 168
 * 3 Evolution Incense SSH 163
 * 1 Marnie SSH 169
-* 3 Pal Pad SSH 172
+* 3 Pal Pad SVI 182
 * 1 Cyllene ASR 138
 * 3 Energy Loto ASR 140
 * 1 Roxanne ASR 150
@@ -35,4 +35,4 @@ Description: A good choice when you have some extra time on your hands and you w
 * 1 Cheren's Care BRS 134
 * 4 Triple Acceleration Energy UNB 190
 * 2 Double Turbo Energy BRS 151
-* 4 Double Colorless Energy EVO 90
+* 4 Double Colorless Energy GEN 74

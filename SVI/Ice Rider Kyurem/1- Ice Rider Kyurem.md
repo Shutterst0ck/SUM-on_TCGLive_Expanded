@@ -24,13 +24,13 @@ Date: 9th June 2023
 * 1 Lumineon V BRS 40
 * 3 Brooklet Hill GRI 120
 * 3 Marnie SSH 169
-* 3 Professor's Research SSH 178
+* 3 Professor's Research SVI 190
 * 3 Quick Ball SSH 179
 * 3 Irida ASR 147
-* 3 Ultra Ball CRZ 146
+* 3 Ultra Ball SVI 196
 * 4 Capacious Bucket RCL 156
 * 2 Escape Rope BST 125
 * 3 Melony CRE 146
-* 3 Boss's Orders BRS 132
-* 2 Switch ROS 91
-* 12 Water Energy 3
+* 3 Boss's Orders PAL 172
+* 2 Switch SVI 194
+* 12 Basic {W} Energy SVE 3

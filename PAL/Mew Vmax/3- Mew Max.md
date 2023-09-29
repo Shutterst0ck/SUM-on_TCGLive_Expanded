@@ -15,7 +15,7 @@ Date: 24th July 2023
 * 2 Meloetta FST 124
 * 4 Genesect V FST 185
 * 1 Oricorio FST 42
-* 4 Quick Ball MD 86
+* 4 Quick Ball SSH 179
 * 2 Guzma & Hala CEC 193
 * 1 Choice Band GRI 121
 * 4 Guzma BUS 115
@@ -30,7 +30,7 @@ Date: 24th July 2023
 * 2 Elesa's Sparkle FST 233
 * 4 Power Tablet FST 236
 * 1 Choice Belt BRS 135
-* 1 Pal Pad FLF 92
-* 4 Ultra Ball FLF 99
-* 3 Double Colorless Energy SUM 136
+* 1 Pal Pad SVI 182
+* 4 Ultra Ball SVI 196
+* 3 Double Colorless Energy GEN 74
 * 4 Fusion Strike Energy FST 244

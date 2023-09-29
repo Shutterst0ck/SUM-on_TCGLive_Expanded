@@ -20,8 +20,8 @@ Date: 13th June 2023
 * 2 Inteleon CRE 43
 * 1 Galarian Zigzagoon SSH 117
 * 3 Evolution Incense SSH 163
-* 4 Level Ball NXD 89
-* 3 Nest Ball SUM 123
+* 4 Level Ball BST 129
+* 3 Nest Ball SVI 181
 * 1 Pal Pad SVI 182
 * 4 Rare Candy SVI 191
 * 1 Rescue Stretcher GRI 130
@@ -32,6 +32,6 @@ Date: 13th June 2023
 * 1 Iono PAL 185
 * 3 Irida ASR 147
 * 1 Piers DAA 165
-* 1 Professor's Research SVI 189
-* 4 Double Colorless Energy LTR 113
+* 1 Professor's Research SVI 190
+* 4 Double Colorless Energy GEN 74
 * 3 Double Turbo Energy BRS 151

@@ -15,20 +15,20 @@ Date: 2nd August 2023
 * 2 Frosmoth SSH 64
 * 2 Snom FST 84
 * 2 Lumineon V BRS 40
-* 2 Escape Rope PLS 120
+* 2 Escape Rope BST 125
 * 2 Aqua Patch GRI 119
 * 2 Brooklet Hill GRI 120
 * 1 Cyrus ◇ UPR 120
 * 2 Crasher Wake FLI 104
 * 2 Fisherman CES 130
 * 3 Nest Ball SVI 181
-* 2 Iono PAL 269
+* 2 Iono PAL 185
 * 2 Air Balloon SSH 156
-* 2 Irida ASR 186
+* 2 Irida ASR 147
 * 3 Capacious Bucket RCL 156
-* 2 Boss's Orders RCL 189
+* 2 Boss's Orders PAL 172
 * 2 Battle VIP Pass FST 225
-* 3 Energy Retrieval EVO 77
-* 2 Max Potion BKP 103
-* 12 Water Energy 3
-* 4 Metal Energy 8
+* 3 Energy Retrieval SVI 171
+* 2 Max Potion GRI 128
+* 12 Basic {W} Energy SVE 3
+* 4 Basic {M} Energy SVE 8

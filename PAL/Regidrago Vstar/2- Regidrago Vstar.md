@@ -13,29 +13,29 @@ Description: The goal is to lock the opponent under Path to the Peak and Alolan 
 ## List
 
 * 2 Forretress ex PAL 5
-* 1 Duraludon VMAX EVS 220
-* 1 Noivern-GX BUS 141
+* 1 Duraludon VMAX EVS 123
+* 1 Noivern-GX BUS 99
 * 1 Noivern ex PAL 153
-* 1 Ditto {*} LOT 154
+* 1 Ditto ◇ LOT 154
 * 1 Marshadow UNB 81
 * 1 Pineco SVI 1
 * 3 Regidrago VSTAR SIT 136
-* 3 Regidrago V SIT 183
+* 3 Regidrago V SIT 135
 * 1 Hisuian Goodra VSTAR LOR 136
-* 1 Crobat V PR-SW 98
-* 1 Dialga-GX UPR 146
-* 1 Dedenne-GX UNB 195
+* 1 Crobat V DAA 104
+* 1 Dialga-GX FLI 82
+* 1 Dedenne-GX UNB 57
 * 1 Alolan Muk SUM 58
 * 4 Battle VIP Pass FST 225
-* 4 Trekking Shoes ASR 215
-* 2 Path to the Peak ASR 213
-* 1 Vitality Band SVI 197
+* 4 Trekking Shoes ASR 156
+* 2 Path to the Peak CRE 148
+* 1 Vitality Band SSH 185
 * 1 Iono PAL 185
-* 4 Quick Ball SSH 216
-* 4 Ultra Ball BRS 186
-* 4 Mysterious Treasure FLI 145
-* 1 Air Balloon SSH 213
-* 3 Guzma HIF 153
-* 3 Professor's Research PGO 78
-* 4 Basic {R} Energy FST 284
-* 6 Basic {G} Energy FST 283
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
+* 4 Mysterious Treasure FLI 113
+* 1 Air Balloon SSH 156
+* 3 Guzma BUS 115
+* 3 Professor's Research SVI 190
+* 4 Basic {R} Energy SVE 2
+* 6 Basic {G} Energy SVE 1

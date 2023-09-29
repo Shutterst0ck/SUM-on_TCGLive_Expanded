@@ -18,19 +18,19 @@ Description: just get at least 2 jirachi out for search you'll typically hit a l
 * 3 Sizzlipede SSH 37
 * 3 Centiskorch SSH 39
 * 1 Pidgeot V LOR 137
-* 2 Ultra Ball PLF 122
-* 4 Nest Ball SUM 123
-* 3 Rare Candy SUM 129
+* 2 Ultra Ball SVI 196
+* 4 Nest Ball SVI 181
+* 3 Rare Candy SVI 191
 * 2 Fire Crystal UNB 173
 * 4 Welder UNB 189
 * 2 Giant Hearth UNM 197
 * 1 Rescue Stretcher GRI 130
 * 2 Guzma BUS 115
 * 4 Escape Board UPR 122
-* 1 Arven SVI 166
+* 1 Arven OBF 186
 * 3 Evolution Incense SSH 163
 * 3 Marnie SSH 169
 * 1 Forest Seal Stone SIT 156
 * 2 Escape Rope BST 125
 * 1 Klara CRE 145
-* 10 Fire Energy 2
+* 10 Basic {R} Energy SVE 2

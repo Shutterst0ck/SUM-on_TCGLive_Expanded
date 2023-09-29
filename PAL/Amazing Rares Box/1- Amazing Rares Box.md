@@ -26,16 +26,16 @@ Date: 14th June 2023
 * 3 Superior Energy Retrieval PAL 189
 * 2 Evolution Incense SSH 163
 * 1 Ordinary Rod SSH 171
-* 1 Professor's Research SSH 178
+* 1 Professor's Research SVI 190
 * 2 Quick Ball SSH 179
-* 4 Rare Candy SSH 180
+* 4 Rare Candy SVI 191
 * 1 Lady LOR 159
 * 1 Thorton LOR 167
 * 1 Skaters' Park FST 242
-* 2 Grass Energy 1
-* 3 Fire Energy 2
-* 2 Water Energy 3
-* 3 Lightning Energy 4
-* 3 Psychic Energy 5
-* 3 Darkness Energy 7
-* 3 Metal Energy 8
+* 2 Basic {G} Energy SVE 1
+* 3 Basic {R} Energy SVE 2
+* 2 Basic {W} Energy SVE 3
+* 3 Basic {L} Energy SVE 4
+* 3 Basic {P} Energy SVE 5
+* 3 Basic {D} Energy SVE 7
+* 3 Basic {M} Energy SVE 8

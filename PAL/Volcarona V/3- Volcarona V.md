@@ -15,17 +15,16 @@ Date: 14th June 2023
 * 2 Vulpix SIT 17
 * 2 Dedenne-GX UNB 57
 * 1 Radiant Greninja ASR 46
-* 1 Volcarona V EVS 21
-* 3 Volcarona V EVS 170
+* 4 Volcarona V EVS 21
 * 3 Zebstrika LOT 82
 * 4 Fiery Flint DRM 60
-* 2 Trekking Shoes ASR 215
-* 4 Quick Ball FST 237
-* 1 Pal Pad UPR 132
-* 4 Ultra Ball SUM 161
-* 4 Professor's Research CEL 24
+* 2 Trekking Shoes ASR 156
+* 4 Quick Ball SSH 179
+* 1 Pal Pad SVI 182
+* 4 Ultra Ball SVI 196
+* 4 Professor's Research SVI 190
 * 2 Air Balloon SSH 156
 * 2 Giant Hearth UNM 197
-* 1 Heat Factory {*} LOT 178
+* 1 Heat Factory ◇ LOT 178
 * 1 Rescue Stretcher GRI 130
-* 18 Basic {R} Energy Energy 19
+* 18 Basic {R} Energy SVE 2

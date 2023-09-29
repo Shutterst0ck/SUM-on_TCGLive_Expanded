@@ -10,13 +10,13 @@ Date: 27th July 2023
 
 ## List
 
-* 4 Comfey CRZ-GG 14
-* 1 Mew SMP 215
+* 4 Comfey LOR 79
+* 1 Mew UNB 76
 * 2 Hisuian Goodra VSTAR LOR 136
 * 2 Hisuian Goodra V LOR 135
 * 1 Radiant Greninja ASR 46
 * 1 Arceus & Dialga & Palkia-GX CEC 156
-* 1 Lumineon V CRZ-GG 39
+* 1 Lumineon V BRS 40
 * 2 Ultra Ball SVI 196
 * 4 Battle VIP Pass FST 225
 * 1 Switch SVI 194
@@ -29,9 +29,8 @@ Date: 27th July 2023
 * 4 Lost Blender LOT 181
 * 3 Quick Ball SSH 179
 * 4 Mirage Gate LOR 163
-* 2 Colress's Experiment LOR 155
+* 4 Colress's Experiment LOR 155
 * 4 Scoop Up Net RCL 165
 * 2 Super Rod PAL 188
-* 2 Colress's Experiment CRZ-GG 59
-* 5 Basic {M} Energy Energy 16
-* 5 Basic {W} Energy Energy 11
+* 5 Basic {M} Energy SVE 8
+* 5 Basic {W} Energy SVE 3

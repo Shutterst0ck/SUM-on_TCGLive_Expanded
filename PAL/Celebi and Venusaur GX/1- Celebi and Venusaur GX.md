@@ -17,16 +17,15 @@ Date: July 2023
 * 2 Celebi V SSH 1
 * 2 Celebi VMAX CRE 8
 * 2 Lumineon V BRS 40
-* 2 Switch BCR 135
-* 1 Ultra Ball SUM 135
+* 2 Switch SVI 194
+* 4 Ultra Ball SVI 196
 * 1 Life Forest ◇ LOT 180
 * 4 Nest Ball SVI 181
-* 4 Professor's Research SVI 189
+* 4 Professor's Research SVI 190
 * 2 Artazon PAL 171
-* 2 Boss’s Orders PAL 172
+* 2 Boss's Orders PAL 172
 * 4 Iono PAL 185
 * 1 Super Rod PAL 188
 * 1 Forest Seal Stone SIT 156
-* 3 Ultra Ball CRZ 146
 * 4 Battle VIP Pass FST 225
-* 13 Grass Energy 1
+* 13 Basic {G} Energy SVE 1

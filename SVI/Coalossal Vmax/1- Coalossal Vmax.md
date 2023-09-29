@@ -16,24 +16,23 @@ Description: Coalbox based around you guessed it: Coalossal Vmax
 * 3 Oranguru SSH 148
 * 1 Radiant Greninja ASR 46
 * 2 Diancie ASR 68
-* 1 Hisuian Arcanine V SIT 179
-* 1 Hisuian Arcanine V SIT 90
+* 2 Hisuian Arcanine V SIT 90
 * 3 Coalossal V VIV 98
 * 3 Coalossal VMAX VIV 99
 * 1 Galarian Zapdos EVS 82
 * 1 Manaphy BRS 41
-* 1 Energy Loto GRI 122
+* 1 Energy Loto ASR 140
 * 4 Cynthia UPR 119
 * 4 Pokémon Communication TEU 152
-* 1 Arven SVI 166
+* 1 Arven OBF 186
 * 4 Nest Ball SVI 181
 * 1 Pal Pad SVI 182
 * 3 Rock Chestplate SVI 192
 * 2 Switch SVI 194
 * 1 Ordinary Rod SSH 171
 * 4 Lake Acuity LOR 160
-* 2 Boss's Orders RCL 189
+* 2 Boss's Orders PAL 172
 * 4 Rotom Phone CPA 64
 * 1 Cheryl BST 123
-* 6 Fighting Energy 6
-* 4 Stone Fighting Energy VIV 164
+* 6 Basic {F} Energy SVE 6
+* 4 Stone {F} Energy VIV 164

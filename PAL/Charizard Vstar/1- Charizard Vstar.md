@@ -18,17 +18,17 @@ second: go reshizard's gx attack if you can kill opposite dps, or not do same th
 
 * 1 Wynaut UNM 77
 * 4 Jirachi TEU 99
-* 1 Reshiram & Charizard-GX PR-SM 201
+* 1 Reshiram & Charizard-GX UNB 20
 * 1 Spiritomb PAL 89
 * 1 Radiant Greninja ASR 46
-* 2 Charizard V BRS 154
-* 2 Charizard VSTAR PR-SW 262
-* 4 Nest Ball SUM 123
+* 2 Charizard V BRS 17
+* 2 Charizard VSTAR BRS 18
+* 4 Nest Ball SVI 181
 * 2 Fire Crystal UNB 173
-* 4 Welder UNB 214
+* 4 Welder UNB 189
 * 4 Giant Hearth UNM 197
-* 1 Field Blower GRI 125a
-* 1 Escape Board UPR 122a
+* 1 Field Blower GRI 125
+* 1 Escape Board UPR 122
 * 1 Hisuian Heavy Ball ASR 146
 * 1 Switch Cart ASR 154
 * 4 Trekking Shoes ASR 156
@@ -36,5 +36,5 @@ second: go reshizard's gx attack if you can kill opposite dps, or not do same th
 * 4 Battle VIP Pass FST 225
 * 4 Cross Switcher FST 230
 * 1 Choice Belt BRS 135
-* 1 Switch EVO 88
-* 12 Fire Energy 2
+* 1 Switch SVI 194
+* 12 Basic {R} Energy SVE 2

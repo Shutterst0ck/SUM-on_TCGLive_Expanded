@@ -21,29 +21,29 @@ Overall, just a fun buy surprisingly competitive Charizard deck for those who li
 
 * 1 Charizard PGO 10
 * 1 Radiant Charizard PGO 11
-* 1 Dedenne-GX UNB 195
+* 1 Dedenne-GX UNB 57
 * 1 Charizard-GX BUS 20
 * 2 Charmeleon DRM 2
-* 1 Charizard PR-SM 158
+* 1 Charizard TEU 14
 * 1 Charizard-GX PR-SM 195
-* 1 Reshiram & Charizard-GX PR-SM 201
-* 1 Mew PR-SM 215
-* 2 Charizard ex OBF 228
-* 1 Crobat V SSP 98
-* 4 Charmander PR-SW 232
-* 4 Rare Candy PLB 105
-* 4 Professor's Research PGO 78
-* 4 Welder UNB 214
-* 2 Fire Crystal UNB 231
-* 1 Giant Hearth CEC 263
-* 2 Guzma BUS 143
-* 2 Rescue Stretcher BUS 165
-* 2 Acro Bike CES 178
-* 1 Fiery Flint DRM 76
+* 1 Reshiram & Charizard-GX UNB 20
+* 1 Mew UNB 76
+* 2 Charizard ex OBF 125
+* 1 Crobat V DAA 104
+* 4 Charmander PGO 8
+* 4 Rare Candy SVI 191
+* 4 Professor's Research SVI 190
+* 4 Welder UNB 189
+* 2 Fire Crystal UNB 173
+* 1 Giant Hearth UNM 197
+* 2 Guzma BUS 115
+* 2 Rescue Stretcher GRI 130
+* 2 Acro Bike CES 123
+* 1 Fiery Flint DRM 60
 * 1 Heat Factory ◇ LOT 178
-* 1 Iono PAL 269
-* 4 Quick Ball SSH 216
-* 2 Magma Basin BRS 185
-* 4 Ultra Ball BRS 186
-* 1 Marnie PR-SW SWSH121
-* 8 Fire Energy
+* 1 Iono PAL 185
+* 4 Quick Ball SSH 179
+* 2 Magma Basin BRS 144
+* 4 Ultra Ball SVI 196
+* 1 Marnie SSH 169
+* 8 Basic {F} Energy SVE 6

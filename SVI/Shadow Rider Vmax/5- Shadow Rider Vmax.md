@@ -14,7 +14,7 @@ Date: 26th April 2023
 * 4 Shadow Rider Calyrex V CRE 74
 * 1 Gengar & Mimikyu-GX TEU 53
 * 1 Radiant Eternatus CRZ 105
-* 1 Tapu Lele-GX CEL-CC 25
+* 1 Tapu Lele-GX GRI 60
 * 1 Klefki SVI 96
 * 4 Shadow Rider Calyrex VMAX CRE 75
 * 3 Air Balloon SSH 156
@@ -30,6 +30,6 @@ Date: 26th April 2023
 * 1 Roxanne ASR 150
 * 3 Guzma BUS 115
 * 2 Temple of Sinnoh ASR 155
-* 2 Quick Ball FST 237
+* 2 Quick Ball SSH 179
 * 2 Acerola BUS 112
 * 13 Basic {P} Energy SVE 5

@@ -12,7 +12,7 @@ Description: alright so this deck is a test for now feedback is welcome i feel l
 
 ## List
 
-* 1 Dedenne-GX UNB 195
+* 1 Dedenne-GX UNB 57
 * 1 Arcanine UNB 22
 * 3 Arcanine ex SVI 32
 * 2 Charcadet SVI 39
@@ -34,4 +34,4 @@ Description: alright so this deck is a test for now feedback is welcome i feel l
 * 2 Serena SIT 164
 * 2 Cheryl BST 123
 * 4 Magma Basin BRS 144
-* 11 Fire Energy 2
+* 11 Basic {R} Energy SVE 2

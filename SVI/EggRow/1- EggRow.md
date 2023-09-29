@@ -37,5 +37,5 @@ Date: 18th May 2023
 * 3 Misty's Favor UNM 202
 * 2 Big Parasol DAA 157
 * 2 Aromatic {G} Energy VIV 162
-* 3 Basic {G} Energy Energy 18
+* 3 Basic {G} Energy SVE 1
 * 4 Capture Energy RCL 171

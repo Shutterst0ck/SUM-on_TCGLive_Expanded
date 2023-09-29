@@ -16,34 +16,34 @@ Description: The deck focuses on the power of Rowlet & Alolan Exeggutor-GX to ev
 * 2 Ivysaur PGO 2
 * 1 Radiant Venusaur PGO 4
 * 3 Alolan Exeggutor V PGO 5
-* 2 Rowlet & Alolan Exeggutor-GX UNM 215
+* 2 Rowlet & Alolan Exeggutor-GX UNM 1
 * 2 Venusaur SLG 3
 * 2 Grookey SSH 11
 * 2 Thwackey SHF 12
-* 2 Rillaboom PR-SW 6
-* 1 Lumineon V PR-SW 250
-* 1 Professor's Research PGO 78
-* 1 Switch SUM 160
-* 1 Guzma BUS 143
-* 1 Wishful Baton CIN 121
-* 1 Energy Recycler FLI 143
-* 1 Tate & Liza CES 166
+* 2 Rillaboom SSH 14
+* 1 Lumineon V BRS 40
+* 1 Professor's Research SVI 190
+* 1 Switch SVI 194
+* 1 Guzma BUS 115
+* 1 Wishful Baton BUS 128
+* 1 Energy Recycler BST 124
+* 1 Tate & Liza CES 148
 * 1 Life Forest ◇ LOT 180
-* 4 Net Ball LOT 234
-* 1 Aether Paradise Conservation Area null SV87
+* 4 Net Ball LOT 187
+* 1 Aether Paradise Conservation Area GRI 116
 * 1 Energy Switch SVI 173
 * 2 Ultra Ball SVI 196
-* 1 Arven SVI 235
+* 1 Arven OBF 186
 * 2 Bravery Charm PAL 173
-* 1 Boss’s Orders PAL 248
-* 1 Iono PAL 269
-* 1 Super Rod PAL 276
-* 1 Marnie SSH 200
+* 1 Boss's Orders PAL 172
+* 1 Iono PAL 185
+* 1 Super Rod PAL 188
+* 1 Marnie SSH 169
 * 2 Gardenia's Vigor ASR 143
 * 1 Forest Seal Stone SIT 156
-* 1 Raihan SIT TG27
-* 1 Sonia RCL 192
-* 1 Avery CRE 187
-* 1 Turffield Stadium EVS 234
-* 11 Grass Energy 278
-* 1 Aromatic Grass Energy VIV 162
+* 1 Raihan EVS 152
+* 1 Sonia RCL 167
+* 1 Avery CRE 130
+* 1 Turffield Stadium RCL 170
+* 11 Basic {G} Energy SVE 1
+* 1 Aromatic {G} Energy VIV 162

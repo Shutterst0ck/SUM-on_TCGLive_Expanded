@@ -10,7 +10,7 @@ Date: 15th September 2023
 
 ## List
 
-* 1 Ditto {*} LOT 154
+* 1 Ditto ◇ LOT 154
 * 2 Raichu BUS 41
 * 1 Girafarig LOT 94
 * 4 Kirlia SIT 68
@@ -32,11 +32,11 @@ Date: 15th September 2023
 * 1 Bellelba & Brycen-Man CEC 186
 * 2 Fog Crystal CRE 140
 * 1 Klara CRE 145
-* 4 Ultra Ball SUM 135
+* 4 Ultra Ball SVI 196
 * 2 Path to the Peak CRE 148
 * 3 Iono PAL 185
 * 1 Rescue Stretcher GRI 130
 * 1 Guzma BUS 115
 * 1 Devolution Spray Z UNB 166
-* 2 Basic {P} Energy Energy 5
+* 2 Basic {P} Energy SVE 5
 * 3 Capture Energy RCL 171

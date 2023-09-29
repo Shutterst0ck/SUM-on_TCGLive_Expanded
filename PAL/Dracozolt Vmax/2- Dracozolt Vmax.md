@@ -17,8 +17,8 @@ Date: 20th June 2023
 * 2 Nest Ball SVI 181
 * 2 Electropower LOT 172
 * 2 Energy Spinner UNB 170
-* 2 Pokégear 3.0 UNB 182
-* 1 Escape Rope BUS 114
+* 2 Pokégear 3.0 SVI 186
+* 1 Escape Rope BST 125
 * 1 Boost Shake EVS 142
 * 1 Field Blower GRI 125
 * 1 Rescue Stretcher GRI 130
@@ -28,9 +28,9 @@ Date: 20th June 2023
 * 1 Weakness Policy BUS 126
 * 4 Green's Exploration UNB 175
 * 2 Guzma & Hala CEC 193
-* 1 Boss’s Orders PAL 172
-* 1 Professor's Research SVI 189
-* 1 Kabu CPA 55
+* 1 Boss's Orders PAL 172
+* 1 Professor's Research SVI 190
+* 1 Kabu DAA 163
 * 1 Marnie SSH 169
 * 1 Iono PAL 185
 * 1 Cheryl BST 123
@@ -38,6 +38,6 @@ Date: 20th June 2023
 * 1 Phoebe BST 130
 * 3 Path to the Peak CRE 148
 * 1 Thunder Mountain ◇ LOT 191
-* 4 Speed Lightning Energy RCL 173
+* 4 Speed {L} Energy RCL 173
 * 2 Triple Acceleration Energy UNB 190
-* 5 Lightning Energy 4
+* 5 Basic {L} Energy SVE 4

@@ -18,12 +18,12 @@ Description: Vikavolt V is a very annoying and reasonably powerful Live Expanded
 * 3 Regieleki V SIT 57
 * 3 Regieleki VMAX SIT 58
 * 3 Vikavolt V DAA 60
-* 2 Escape Rope BUS 114
+* 2 Escape Rope BST 125
 * 1 Guzma BUS 115
 * 4 Electropower LOT 172
 * 1 Thunder Mountain ◇ LOT 191
 * 4 Electric Generator SVI 170
-* 4 Professor's Research SVI 189
+* 4 Professor's Research SVI 190
 * 4 Ultra Ball SVI 196
 * 2 Air Balloon SSH 156
 * 3 Marnie SSH 169
@@ -31,5 +31,5 @@ Description: Vikavolt V is a very annoying and reasonably powerful Live Expanded
 * 1 Forest Seal Stone SIT 156
 * 1 Raihan EVS 152
 * 1 Stormy Mountains EVS 161
-* 4 Quick Ball FST 237
-* 14 Lightning Energy 4
+* 4 Quick Ball SSH 179
+* 14 Basic {L} Energy SVE 4

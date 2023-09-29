@@ -30,5 +30,5 @@ Date: 27th September 2023
 * 4 Beach Court SVI 167
 * 2 Field Blower GRI 125
 * 6 Basic {W} Energy SVE 3
-* 1 Wash Water Energy VIV 165
+* 1 Wash {W} Energy VIV 165
 * 1 Double Colorless Energy GEN 74

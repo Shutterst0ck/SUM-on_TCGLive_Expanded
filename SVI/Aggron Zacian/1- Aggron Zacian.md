@@ -14,7 +14,7 @@ Description: This is just an expanded and tweaked version of my first competitiv
 
 * 1 Dedenne-GX UNB 57
 * 4 Magnemite UPR 81
-* 4 Magnezone UPR 83
+* 4 Magnezone FLI 36
 * 2 Zacian V SSH 138
 * 1 Radiant Greninja ASR 46
 * 1 Manaphy BRS 41
@@ -29,7 +29,7 @@ Description: This is just an expanded and tweaked version of my first competitiv
 * 4 Evolution Incense SSH 163
 * 2 Klara CRE 145
 * 1 Crystal Cave EVS 144
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 3 Choice Belt BRS 135
-* 4 Double Colorless Energy SUM 136
-* 7 Metal Energy 8
+* 4 Double Colorless Energy GEN 74
+* 7 Basic {M} Energy SVE 8

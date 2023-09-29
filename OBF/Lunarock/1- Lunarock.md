@@ -10,11 +10,11 @@ Date: 14th August 2023
 
 ## List
 
-* 4 Lunatone PGO 34
-* 4 Solrock PGO 39
+* 4 Lunatone CRZ 62
+* 4 Solrock CRZ 69
 * 1 Mew UNB 76
 * 1 Shuckle LOT 16
-* 4 Nest Ball SUM 123
+* 4 Nest Ball SVI 181
 * 1 Stealthy Hood UNB 186
 * 1 U-Turn Board UNM 211
 * 2 Field Blower GRI 125
@@ -28,5 +28,5 @@ Date: 14th August 2023
 * 3 Allister VIV 146
 * 4 Level Ball BST 129
 * 4 Fog Crystal CRE 140
-* 1 Judge FST 235
-* 15 Psychic Energy 5
+* 1 Judge SVI 176
+* 15 Basic {P} Energy SVE 5

@@ -10,12 +10,12 @@ Date: 23th September 2023
 
 ## List
 
-* 1 Crobat V DAA 182
+* 1 Crobat V DAA 104
 * 2 Alolan Raichu UNM 57
 * 1 Dedenne-GX UNB 57
-* 1 Ditto {*} LOT 154
+* 1 Ditto ◇ LOT 154
 * 3 Electrode-GX CES 48
-* 1 Squawkabilly ex PAL 264
+* 1 Squawkabilly ex PAL 169
 * 3 Voltorb PAL 66
 * 1 Gengar & Mimikyu-GX TEU 53
 * 1 Radiant Greninja ASR 46
@@ -26,13 +26,13 @@ Date: 23th September 2023
 * 1 Escape Rope BST 125
 * 2 PokéStop PGO 68
 * 2 Forest Seal Stone SIT 156
-* 2 Professor's Research CEL 23
+* 2 Professor's Research SVI 190
 * 3 Rescue Stretcher GRI 130
 * 1 Field Blower GRI 125
 * 1 Scoop Up Net RCL 165
 * 1 Hisuian Heavy Ball ASR 146
 * 4 Acro Bike CES 123
-* 4 Ultra Ball BRS 150
+* 4 Ultra Ball SVI 196
 * 1 Iono PAL 185
 * 4 Counter Energy CIN 100
 * 4 Reversal Energy PAL 192

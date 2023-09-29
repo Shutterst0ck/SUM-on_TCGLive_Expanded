@@ -27,9 +27,9 @@ Date: 10th June 2023
 * 4 Fire Crystal UNB 173
 * 2 Quick Ball SSH 179
 * 1 Forest Seal Stone SIT 156
-* 1 Energy Retrieval EVO 77
+* 1 Energy Retrieval SVI 171
 * 2 Giant Hearth UNM 197
-* 1 Heat Factory {*} LOT 178
+* 1 Heat Factory ◇ LOT 178
 * 1 Rescue Stretcher GRI 130
 * 4 Scoop Up Net RCL 165
-* 13 Basic {R} Energy Energy 28
+* 13 Basic {R} Energy SVE 2

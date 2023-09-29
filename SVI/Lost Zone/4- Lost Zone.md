@@ -34,6 +34,6 @@ Date: 3rd June 2023
 * 1 Rescue Carrier EVS 154
 * 4 Level Ball BST 129
 * 2 Path to the Peak CRE 148
-* 4 Double Colorless Energy LTR 113
-* 3 Rainbow Energy CES 151
-* 1 Basic {G} Energy Energy 1
+* 4 Double Colorless Energy GEN 74
+* 3 Rainbow Energy SUM 137
+* 1 Basic {G} Energy SVE 1

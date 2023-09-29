@@ -11,13 +11,13 @@ Date: 21th April 2023
 ## List
 
 * 1 Radiant Tsareena SIT 16
-* 1 Diancie {*} FLI 74
+* 1 Diancie ◇ FLI 74
 * 3 Stonjourner VMAX SSH 116
 * 4 Stonjourner V SSH 115
 * 1 Miltank CIN 78
 * 1 Enhanced Hammer GRI 124
-* 4 Crushing Hammer SUM 115
-* 1 Energy Retrieval CRZ 127
+* 4 Crushing Hammer SVI 168
+* 1 Energy Retrieval SVI 171
 * 4 Lucky Ice Pop EVS 150
 * 4 Mixed Herbs LOT 184
 * 2 Nest Ball SVI 181
@@ -27,7 +27,7 @@ Date: 21th April 2023
 * 2 Lake Acuity LOR 160
 * 1 Acerola BUS 112
 * 1 Guzma BUS 115
-* 4 Marnie CPA 56
+* 4 Marnie SSH 169
 * 2 Pokémon Center Lady SSH 176
 * 2 Tate & Liza CES 148
 * 2 Air Balloon SSH 156

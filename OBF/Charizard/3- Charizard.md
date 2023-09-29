@@ -11,28 +11,28 @@ Date: 15th September 2023
 ## List
 
 * 1 Charizard-GX HIF 9
-* 1 Dedenne-GX UNB 195
+* 1 Dedenne-GX UNB 57
 * 4 Charmander TEU 12
-* 3 Charizard ex OBF 228
-* 2 Jirachi SMP 161
-* 1 Charizard-GX HIF 118
-* 1 Tapu Lele-GX HIF 163
-* 1 Charizard VMAX PR-SW 261
-* 1 Charizard VSTAR PR-SW 262
-* 1 Radiant Charizard CRZ 20
-* 2 Charizard V CPA 79
-* 1 Reshiram & Charizard-GX UNB 194
-* 1 Professor's Research PR-SW 152
-* 1 Giant Hearth CEC 263
-* 2 Escape Board UPR 167
-* 4 Rare Candy PLB 105
-* 4 Welder UNB 214
-* 4 Ultra Ball PLF 122
-* 2 Guzma HIF 153
-* 2 Iono PAL 269
-* 1 Magma Basin BRS 185
-* 2 Fire Crystal UNB 231
-* 4 Quick Ball SSH 216
-* 1 Ordinary Rod SSH 215
-* 1 Switch SUM 160
-* 12 Basic {R} Energy BUS 167
+* 3 Charizard ex OBF 125
+* 2 Jirachi TEU 99
+* 1 Charizard-GX BUS 20
+* 1 Tapu Lele-GX GRI 60
+* 1 Charizard VMAX DAA 20
+* 1 Charizard VSTAR BRS 18
+* 1 Radiant Charizard PGO 11
+* 2 Charizard V DAA 19
+* 1 Reshiram & Charizard-GX UNB 20
+* 1 Professor's Research SVI 190
+* 1 Giant Hearth UNM 197
+* 2 Escape Board UPR 122
+* 4 Rare Candy SVI 191
+* 4 Welder UNB 189
+* 4 Ultra Ball SVI 196
+* 2 Guzma BUS 115
+* 2 Iono PAL 185
+* 1 Magma Basin BRS 144
+* 2 Fire Crystal UNB 173
+* 4 Quick Ball SSH 179
+* 1 Ordinary Rod SSH 171
+* 1 Switch SVI 194
+* 12 Basic {R} Energy SVE 2

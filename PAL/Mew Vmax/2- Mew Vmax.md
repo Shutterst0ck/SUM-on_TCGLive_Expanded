@@ -12,29 +12,29 @@ Date: 4th July 2023
 
 ## List
 
-* 1 Drapion V LOR 182
+* 1 Drapion V LOR 118
 * 2 Meloetta FST 124
-* 4 Mew V FST 251
-* 4 Genesect V FST 255
-* 3 Mew VMAX FST 269
-* 4 Ultra Ball SUM 161
-* 1 Guzma & Hala CEC 229
-* 1 Enhanced Hammer GRI 162
-* 2 Field Blower GRI 163
-* 3 Guzma BUS 143
-* 1 Escape Rope BUS 163
-* 1 Marnie SSH 200
-* 4 Quick Ball SSH 216
-* 2 Choice Belt ASR 211
-* 3 Path to the Peak ASR 213
+* 4 Mew V FST 113
+* 4 Genesect V FST 185
+* 3 Mew VMAX FST 114
+* 4 Ultra Ball SVI 196
+* 1 Guzma & Hala CEC 193
+* 1 Enhanced Hammer GRI 124
+* 2 Field Blower GRI 125
+* 3 Guzma BUS 115
+* 1 Escape Rope BST 125
+* 1 Marnie SSH 169
+* 4 Quick Ball SSH 179
+* 2 Choice Belt BRS 135
+* 3 Path to the Peak CRE 148
 * 1 Lost City LOR 161
 * 2 Forest Seal Stone SIT 156
-* 2 Elesa's Sparkle CRZ 147
-* 1 Big Parasol DAA 199
-* 1 Echoing Horn CRE 225
+* 2 Elesa's Sparkle FST 233
+* 1 Big Parasol DAA 157
+* 1 Echoing Horn CRE 136
 * 4 Battle VIP Pass FST 225
-* 4 Power Tablet FST 281
-* 1 Pal Pad FLF 92
-* 1 Weakness Guard Energy UNM 258
-* 3 Double Colorless Energy GRI 166
+* 4 Power Tablet FST 236
+* 1 Pal Pad SVI 182
+* 1 Weakness Guard Energy UNM 213
+* 3 Double Colorless Energy GEN 74
 * 4 Fusion Strike Energy FST 244

@@ -14,13 +14,13 @@ Date: 24th June 2023
 * 2 Shuckle LOT 16
 * 2 Dedenne-GX UNB 57
 * 1 Radiant Greninja ASR 46
-* 4 Volcarona V EVS 170
+* 4 Volcarona V EVS 21
 * 2 Zebstrika LOT 82
-* 3 Professor's Research SSH 209
-* 4 Quick Ball SSH 216
-* 4 Ultra Ball BRS 186
-* 2 Guzma HIF 153
-* 1 Heat Factory {*} LOT 178
+* 3 Professor's Research SVI 190
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
+* 2 Guzma BUS 115
+* 1 Heat Factory ◇ LOT 178
 * 4 Fiery Flint DRM 60
 * 4 Acro Bike CES 123
 * 4 Scoop Up Net RCL 165

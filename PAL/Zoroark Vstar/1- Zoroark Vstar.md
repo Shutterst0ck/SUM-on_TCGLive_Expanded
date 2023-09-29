@@ -22,12 +22,12 @@ Date: 13th June 2023
 * 4 Damage Pump LOR 156
 * 4 Quick Ball SSH 179
 * 4 Guzma BUS 115
-* 4 Professor's Research SHF 60
-* 4 Ultra Ball BRS 150
+* 4 Professor's Research SVI 190
+* 4 Ultra Ball SVI 196
 * 2 Chaotic Swell CEC 187
 * 4 Evolution Incense SSH 163
 * 2 Choice Belt BRS 135
 * 4 Air Balloon SSH 156
 * 4 Iono PAL 185
 * 2 Double Turbo Energy BRS 151
-* 4 Double Colorless Energy SUM 136
+* 4 Double Colorless Energy GEN 74

@@ -16,7 +16,7 @@ Date: 10th September 2023
 * 1 Diancie ASR 68
 * 2 Victini GRI 10
 * 1 Kartana-GX CIN 70
-* 1 Jirachi {*} CES 97
+* 1 Jirachi ◇ CES 97
 * 1 Clefairy VIV 63
 * 4 Rescue Carrier EVS 154
 * 3 Level Ball BST 129
@@ -33,7 +33,7 @@ Date: 10th September 2023
 * 3 Scoop Up Net RCL 165
 * 2 Cynthia UPR 119
 * 1 Beach Court SVI 167
-* 2 Boss's Orders BRS 132
+* 2 Boss's Orders PAL 172
 * 4 Double Turbo Energy BRS 151
 * 2 Basic {M} Energy SVE 8
-* 4 Double Colorless Energy NXD 92
+* 4 Double Colorless Energy GEN 74

@@ -22,7 +22,7 @@ Date: 10th July 2023
 * 1 Pokémon Communication TEU 152
 * 4 Iono PAL 185
 * 4 Tag Call CEC 206
-* 1 Pal Pad SSH 172
+* 1 Pal Pad SVI 182
 * 1 Super Rod PAL 188
 * 2 Air Balloon SSH 156
 * 1 Cynthia & Caitlin CEC 189
@@ -31,7 +31,7 @@ Date: 10th July 2023
 * 2 Big Charm SSH 158
 * 2 Turffield Stadium RCL 170
 * 2 Mallow & Lana CEC 198
-* 3 Boss's Orders RCL 154
+* 3 Boss's Orders PAL 172
 * 4 Net Ball LOT 187
 * 8 Basic {G} Energy SVE 1
 * 4 Capture Energy RCL 171

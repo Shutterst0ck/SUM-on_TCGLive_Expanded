@@ -11,26 +11,23 @@ Date: 12th June 2023
 ## List
 
 * 2 Weavile-GX UNM 132
-* 1 Greninja & Zoroark-GX UNB 200
+* 1 Greninja & Zoroark-GX UNB 107
 * 2 Darkrai-GX BUS 88
 * 1 Umbreon & Darkrai-GX UNM 125
 * 2 Kecleon CRE 122
-* 1 Mega Sableye & Tyranitar-GX UNM 226
+* 1 Mega Sableye & Tyranitar-GX UNM 126
 * 2 Sneasel UPR 73
-* 2 Eternatus VMAX SHF 195
-* 2 Eternatus V SHF 194
-* 2 Crobat V DAA 182
-* 2 Crobat V DAA 104
-* 4 Trekking Shoes ASR 215
-* 2 Pokémon Communication BLW 99
+* 2 Eternatus VMAX DAA 117
+* 2 Eternatus V DAA 116
+* 4 Crobat V DAA 104
+* 4 Trekking Shoes ASR 156
+* 2 Pokémon Communication TEU 152
 * 1 Rescue Stretcher GRI 130
-* 1 Quick Ball SSH 216
-* 4 Ultra Ball BRS 186
-* 2 Zinnia's Resolve EVS 203
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
+* 2 Zinnia's Resolve EVS 164
 * 1 Hisuian Heavy Ball ASR 146
-* 2 Acro Bike CES 123
-* 2 Acro Bike CES 123
-* 4 Professor's Research PR-SW 152
+* 4 Acro Bike CES 123
+* 4 Professor's Research SVI 190
 * 3 PokéStop PGO 68
-* 3 Quick Ball SSH 179
 * 12 Basic {D} Energy SVE 7

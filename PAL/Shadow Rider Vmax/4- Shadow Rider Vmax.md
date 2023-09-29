@@ -13,7 +13,7 @@ Date: 1st July 2023
 * 1 Gengar & Mimikyu-GX TEU 53
 * 1 Alolan Muk SUM 58
 * 4 Shadow Rider Calyrex V CRE 74
-* 1 Tapu Lele-GX CEL-CC 25
+* 1 Tapu Lele-GX GRI 60
 * 1 Radiant Eternatus CRZ 105
 * 1 Alolan Grimer SUM 57
 * 4 Shadow Rider Calyrex VMAX CRE 75
@@ -26,9 +26,9 @@ Date: 1st July 2023
 * 4 Mysterious Treasure FLI 113
 * 3 Air Balloon SSH 156
 * 4 Quick Ball SSH 179
-* 3 Professor's Research SSH 178
+* 3 Professor's Research SVI 190
 * 1 Forest Seal Stone SIT 156
 * 2 Marnie SSH 169
 * 1 Cynthia UPR 119
 * 1 Field Blower GRI 125
-* 13 Basic {P} Energy Energy 22
+* 13 Basic {P} Energy SVE 5

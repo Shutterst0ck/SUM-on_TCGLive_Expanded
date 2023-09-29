@@ -17,8 +17,8 @@ Date: 14th August 2023
 * 4 Hoppip EVS 2
 * 4 Skiploom EVS 3
 * 4 Jumpluff EVS 4
-* 2 Level Ball NXD 89
-* 1 Pokégear 3.0 UNB 182
+* 2 Level Ball BST 129
+* 1 Pokégear 3.0 SVI 186
 * 3 Rosa CEC 204
 * 2 Rescue Stretcher GRI 130
 * 4 Net Ball LOT 187
@@ -32,5 +32,5 @@ Date: 14th August 2023
 * 4 Turffield Stadium RCL 170
 * 2 Bird Keeper DAA 159
 * 1 Leon VIV 154
-* 4 Grass Energy 1
-* 2 Aromatic Grass Energy VIV 162
+* 4 Basic {G} Energy SVE 1
+* 2 Aromatic {G} Energy VIV 162

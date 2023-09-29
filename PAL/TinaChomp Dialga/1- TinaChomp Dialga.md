@@ -18,13 +18,13 @@ Date: 20th June 2023
 * 2 Origin Forme Dialga V ASR 113
 * 2 Origin Forme Dialga VSTAR ASR 114
 * 2 Bronzong BST 102
-* 1 Ditto {*} LOT 154
+* 1 Ditto ◇ LOT 154
 * 1 Radiant Greninja ASR 46
 * 1 Chaotic Swell CEC 187
 * 1 Beauty VIV 148
 * 1 Air Balloon SSH 156
 * 2 Counter Catcher CIN 91
-* 1 Cyrus {*} UPR 120
+* 1 Cyrus ◇ UPR 120
 * 4 Acro Bike CES 123
 * 1 Escape Rope BST 125
 * 3 Cram-o-matic FST 229
@@ -32,8 +32,8 @@ Date: 20th June 2023
 * 2 Hisuian Heavy Ball ASR 146
 * 4 Trekking Shoes ASR 156
 * 4 Battle VIP Pass FST 225
-* 4 Quick Ball FST 237
-* 2 Ultra Ball BRS 150
+* 4 Quick Ball SSH 179
+* 2 Ultra Ball SVI 196
 * 4 Rainbow Energy SUM 137
 * 2 Unit Energy {L}{P}{M} UPR 138
 * 4 Aurora Energy SSH 186

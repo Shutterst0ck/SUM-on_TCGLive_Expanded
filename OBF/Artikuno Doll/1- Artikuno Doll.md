@@ -16,7 +16,7 @@ Date: 8th September 2023
 * 2 Flabébé CEC 149
 * 1 Floette CEC 151
 * 1 Florges FLI 86
-* 1 Tapu Lele UPR 94
+* 1 Tapu Lele PR-SM 45
 * 4 Lillie's Poké Doll CEC 197
 * 1 Aqua Patch GRI 119
 * 1 Boost Shake EVS 142
@@ -25,12 +25,12 @@ Date: 8th September 2023
 * 1 Field Blower GRI 125
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Last Chance Potion CES 135
-* 1 Nest Ball SUM 123
+* 1 Nest Ball SVI 181
 * 1 Pal Pad SVI 182
 * 2 Rescue Stretcher GRI 130
 * 1 Ultra Ball SVI 196
 * 4 Artazon PAL 171
-* 4 Bill's Analysis HIF 51
+* 4 Bill's Analysis TEU 133
 * 4 Cynthia UPR 119
 * 2 Gladion CIN 95
 * 3 Iono PAL 185

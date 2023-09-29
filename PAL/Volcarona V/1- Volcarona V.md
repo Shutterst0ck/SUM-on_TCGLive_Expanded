@@ -17,16 +17,16 @@ Date: 13th June 2023
 * 3 Zebstrika LOT 82
 * 4 Fiery Flint DRM 60
 * 2 Guzma BUS 115
-* 4 Professor's Research SVI 189
+* 4 Professor's Research SVI 190
 * 1 Sky Seal Stone CRZ 143
 * 1 Bravery Charm PAL 173
 * 2 Air Balloon SSH 156
 * 2 Giant Hearth UNM 197
-* 1 Heat Factory {*} LOT 178
+* 1 Heat Factory ◇ LOT 178
 * 3 Serena SIT 164
 * 4 Quick Ball SSH 179
 * 1 Adventure Bag LOT 167
 * 1 Great Catcher CEC 192
-* 4 Ultra Ball SUM 135
+* 4 Ultra Ball SVI 196
 * 1 Forest Seal Stone SIT 156
-* 16 Basic {R} Energy Energy 28
+* 16 Basic {R} Energy SVE 2

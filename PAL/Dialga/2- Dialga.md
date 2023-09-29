@@ -14,11 +14,11 @@ Date: 13th June 2023
 * 2 Origin Forme Dialga VSTAR ASR 114
 * 1 Zacian V SSH 138
 * 1 Radiant Greninja ASR 46
-* 1 Crobat V SHF 44
+* 1 Crobat V DAA 104
 * 3 Jirachi TEU 99
 * 1 Tapu Lele-GX GRI 60
 * 2 Quick Ball SSH 179
-* 3 Ultra Ball DEX 102
+* 3 Ultra Ball SVI 196
 * 4 Battle VIP Pass FST 225
 * 4 Metal Saucer SSH 170
 * 4 Scoop Up Net RCL 165
@@ -30,5 +30,5 @@ Date: 13th June 2023
 * 3 Guzma BUS 115
 * 3 Viridian Forest TEU 156
 * 3 Switch SVI 194
-* 1 Escape Rope PLS 120
-* 12 Basic {M} Energy Energy 16
+* 1 Escape Rope BST 125
+* 12 Basic {M} Energy SVE 8

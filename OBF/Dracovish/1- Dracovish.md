@@ -37,5 +37,5 @@ You could consider running Cram-o-matic or Skyla for more consistent starts, but
 * 4 Rare Fossil DAA 167
 * 4 Boost Shake EVS 142
 * 4 Copycat EVS 143
-* 4 Wash Water Energy VIV 165
-* 4 Double Colorless Energy EVO 90
+* 4 Wash {W} Energy VIV 165
+* 4 Double Colorless Energy GEN 74

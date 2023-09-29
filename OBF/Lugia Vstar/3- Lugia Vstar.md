@@ -24,15 +24,15 @@ Date: 16th September 2023
 * 3 Evolution Incense SSH 163
 * 3 Ultra Ball SVI 196
 * 2 Switch SVI 194
-* 2 Boss's Orders BRS 132
+* 2 Boss's Orders PAL 172
 * 2 Guzma BUS 115
 * 2 Serena SIT 164
 * 4 Professor's Research SVI 190
 * 2 Iono PAL 185
 * 2 Marnie SSH 169
 * 3 Path to the Peak CRE 148
-* 4 Double Colorless Energy SUM 136
+* 4 Double Colorless Energy GEN 74
 * 2 Weakness Guard Energy UNM 213
-* 4 Powerful Colorless Energy DAA 176
+* 4 Powerful {C} Energy DAA 176
 * 2 Capture Energy RCL 171
 * 1 V Guard Energy SIT 169

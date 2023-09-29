@@ -18,17 +18,17 @@ Date: 12th June 2023
 * 1 Chaotic Swell CEC 187
 * 4 Guzma BUS 115
 * 1 Rusted Sword SHF 62
-* 4 Professor's Research SHF 60
+* 4 Professor's Research SVI 190
 * 2 Iono PAL 185
 * 4 Metal Saucer SSH 170
 * 4 Quick Ball SSH 179
 * 2 Air Balloon SSH 156
-* 3 Ultra Ball PLB 90
-* 4 Energy Switch SSH 162
+* 3 Ultra Ball SVI 196
+* 4 Energy Switch SVI 173
 * 2 Escape Rope BST 125
 * 1 Forest Seal Stone SIT 156
 * 2 Energy Spinner UNB 170
 * 1 Adventure Bag LOT 167
 * 4 Acro Bike CES 123
-* 8 Basic {M} Energy Energy 52
-* 3 Basic {W} Energy Energy 47
+* 8 Basic {M} Energy SVE 8
+* 3 Basic {W} Energy SVE 3

@@ -10,28 +10,28 @@ Date: 15th June 2023
 
 ## List
 
-* 1 Vikavolt V DAA 180
-* 1 Tapu Koko-GX HIF 162
-* 2 Dedenne-GX UNB 195
-* 1 Crobat V PR-SW 98
+* 1 Vikavolt V DAA 60
+* 1 Tapu Koko-GX GRI 47
+* 2 Dedenne-GX UNB 57
+* 1 Crobat V DAA 104
 * 1 Zeraora-GX LOT 86
-* 1 Tapu Lele-GX HIF 163
+* 1 Tapu Lele-GX GRI 60
 * 3 Miraidon ex SVI 81
 * 1 Raikou V BRS 48
-* 1 Tapu Koko {*} TEU 51
-* 1 Choice Band BUS 162
-* 4 Professor's Research PR-SW 152
-* 1 Escape Rope BUS 163
-* 3 Iono PAL 254
-* 4 Electropower LOT 232
-* 1 Echoing Horn CRE 225
-* 4 Guzma BUS 143
+* 1 Tapu Koko ◇ TEU 51
+* 1 Choice Band GRI 121
+* 4 Professor's Research SVI 190
+* 1 Escape Rope BST 125
+* 3 Iono PAL 185
+* 4 Electropower LOT 172
+* 1 Echoing Horn CRE 136
+* 4 Guzma BUS 115
 * 1 Forest Seal Stone SIT 156
 * 4 Electric Generator SVI 170
-* 1 Choice Belt ASR 211
-* 1 Adventure Bag LOT 228
-* 1 Thunder Mountain {*} LOT 191
-* 4 Quick Ball SSH 216
-* 2 Air Balloon SSH 213
-* 3 Ultra Ball SUM 161
-* 13 Basic {L} Energy EVS 235
+* 1 Choice Belt BRS 135
+* 1 Adventure Bag LOT 167
+* 1 Thunder Mountain ◇ LOT 191
+* 4 Quick Ball SSH 179
+* 2 Air Balloon SSH 156
+* 3 Ultra Ball SVI 196
+* 13 Basic {L} Energy SVE 4

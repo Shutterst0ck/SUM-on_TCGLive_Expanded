@@ -22,13 +22,12 @@ Date: 19th June 2023
 * 4 Level Ball BST 129
 * 4 Evolution Incense SSH 163
 * 4 Scoop Up Net RCL 165
-* 4 Rare Candy SSH 180
-* 3 Rescue Carrier EVS 154
-* 1 Rescue Carrier EVS 154
+* 4 Rare Candy SVI 191
+* 4 Rescue Carrier EVS 154
 * 1 Echoing Horn CRE 136
 * 1 Roxanne ASR 150
 * 3 Cynthia's Ambition BRS 138
-* 3 Marnie PR-SW 120
-* 1 Rosa CEC 236
+* 3 Marnie SSH 169
+* 1 Rosa CEC 204
 * 3 Capture Energy RCL 171
-* 1 Basic {W} Energy Energy 11
+* 1 Basic {W} Energy SVE 3

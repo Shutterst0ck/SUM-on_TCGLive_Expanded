@@ -17,8 +17,8 @@ Date: 12th June 2023
 * 2 Oranguru SSH 148
 * 3 Evolution Incense SSH 163
 * 1 Hisuian Heavy Ball ASR 146
-* 4 Nest Ball SUM 123
-* 2 Switch BLW 104
+* 4 Nest Ball SVI 181
+* 2 Switch SVI 194
 * 2 Ultra Ball SVI 196
 * 4 Path to the Peak CRE 148
 * 2 Acerola BUS 112
@@ -32,4 +32,4 @@ Date: 12th June 2023
 * 2 Capture Energy RCL 171
 * 1 V Guard Energy SIT 169
 * 1 Weakness Guard Energy UNM 213
-* 6 Basic {F} Energy Energy 14
+* 6 Basic {F} Energy SVE 6

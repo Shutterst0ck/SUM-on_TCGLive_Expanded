@@ -14,7 +14,7 @@ Date: 13th May 2023
 * 2 Oranguru SSH 148
 * 3 Jirachi TEU 99
 * 1 Manaphy BRS 41
-* 1 Jirachi {*} CES 97
+* 1 Jirachi ◇ CES 97
 * 1 Kartana-GX CIN 70
 * 1 Zacian VSTAR CRZ 96
 * 2 Mr. Mime DET 11
@@ -32,4 +32,4 @@ Date: 13th May 2023
 * 3 Acro Bike CES 123
 * 4 Scoop Up Net RCL 165
 * 1 Field Blower GRI 125
-* 9 Basic {M} Energy Energy 16
+* 9 Basic {M} Energy SVE 8

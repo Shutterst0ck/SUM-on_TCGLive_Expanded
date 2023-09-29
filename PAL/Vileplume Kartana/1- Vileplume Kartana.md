@@ -14,12 +14,12 @@ Date: 17th July 2023
 * 3 Vileplume-GX CEC 4
 * 4 Oddish BUS 4
 * 3 Vileplume BUS 6
-* 4 Lillie SUM 122
-* 2 Nest Ball SUM 123
-* 4 Rare Candy SUM 129
-* 2 Ultra Ball SUM 135
+* 4 Lillie UPR 125
+* 2 Nest Ball SVI 181
+* 4 Rare Candy SVI 191
+* 2 Ultra Ball SVI 196
 * 4 Green's Exploration UNB 175
-* 4 Pokégear 3.0 UNB 182
+* 4 Pokégear 3.0 SVI 186
 * 2 Stealthy Hood UNB 186
 * 2 Will CEC 208
 * 2 Choice Band GRI 121
@@ -28,6 +28,6 @@ Date: 17th July 2023
 * 1 Life Forest ◇ LOT 180
 * 4 Net Ball LOT 187
 * 2 Erika's Hospitality TEU 140
-* 6 Grass Energy 1
-* 1 Double Colorless Energy SUM 136
+* 6 Basic {G} Energy SVE 1
+* 1 Double Colorless Energy GEN 74
 * 3 Counter Energy CIN 100

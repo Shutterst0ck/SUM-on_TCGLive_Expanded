@@ -10,23 +10,22 @@ Date: 20th August 2023
 
 ## List
 
-* 1 Banette ex SVI 229
+* 3 Banette ex SVI 88
 * 1 Gengar & Mimikyu-GX TEU 53
-* 2 Banette ex SVI 88
 * 4 Shuppet VIV 67
 * 2 Air Balloon SSH 156
 * 4 Battle VIP Pass FST 225
-* 2 Iono PAL 254
-* 4 Crushing Hammer SSH 159
-* 4 Green's Exploration UNB 209
+* 2 Iono PAL 185
+* 4 Crushing Hammer SVI 168
+* 4 Green's Exploration UNB 175
 * 1 Energy Retrieval SVI 171
 * 2 Field Blower GRI 125
-* 1 Cynthia HIF 151
+* 1 Cynthia UPR 119
 * 4 Scoop Up Net RCL 165
-* 1 Marnie SSH 208
-* 2 Professor's Research SSH 209
+* 1 Marnie SSH 169
+* 2 Professor's Research SVI 190
 * 4 Fog Crystal CRE 140
-* 2 Guzma HIF 153
+* 2 Guzma BUS 115
 * 1 Training Court RCL 169
 * 3 Path to the Peak CRE 148
 * 4 Mysterious Treasure FLI 113

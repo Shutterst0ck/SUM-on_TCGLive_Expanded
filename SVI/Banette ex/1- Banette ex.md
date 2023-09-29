@@ -21,8 +21,8 @@ Date: 14th May 2023
 * 4 Switch SVI 194
 * 4 Old Cemetery CRE 147
 * 4 Boss's Orders PAL 172
-* 4 Professor's Research SHF 60
+* 4 Professor's Research SVI 190
 * 2 Air Balloon SSH 156
 * 3 Choice Belt BRS 135
-* 4 Double Colorless Energy EVO 90
-* 11 Basic {P} Energy Energy 13
+* 4 Double Colorless Energy GEN 74
+* 11 Basic {P} Energy SVE 5

@@ -11,7 +11,7 @@ Date: 28th April 2023
 ## List
 
 * 1 Tapu Lele-GX GRI 60
-* 1 Dialga-GX UPR 100
+* 1 Dialga-GX FLI 82
 * 1 Duraludon VMAX EVS 123
 * 1 Giratina VSTAR LOR 131
 * 1 Hisuian Goodra VSTAR LOR 136
@@ -22,15 +22,15 @@ Date: 28th April 2023
 * 4 Acro Bike CES 123
 * 4 Evolution Incense SSH 163
 * 4 Mysterious Treasure FLI 113
-* 3 Quick Ball FST 237
+* 3 Quick Ball SSH 179
 * 4 Ultra Ball SVI 196
-* 2 Switch BCR 135
+* 2 Switch SVI 194
 * 1 Path to the Peak CRE 148
 * 1 Boss's Orders PAL 172
 * 1 Guzma BUS 115
 * 2 Judge SVI 176
 * 1 Penny SVI 183
-* 2 Professor's Research SHF 60
-* 4 Double Colorless Energy NXD 92
-* 6 Basic {G} Energy Energy 1
-* 3 Basic {R} Energy Energy 10
+* 2 Professor's Research SVI 190
+* 4 Double Colorless Energy GEN 74
+* 6 Basic {G} Energy SVE 1
+* 3 Basic {R} Energy SVE 2

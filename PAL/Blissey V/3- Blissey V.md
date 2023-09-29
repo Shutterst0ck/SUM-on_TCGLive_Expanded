@@ -11,10 +11,10 @@ Date: 14th July 2023
 ## List
 
 * 4 Blissey V CRE 119
-* 4 Professor's Research CEL 24
-* 1 Field Blower GRI 163
+* 4 Professor's Research SVI 190
+* 1 Field Blower GRI 125
 * 4 Acro Bike CES 123
-* 1 Boss's Orders RCL 189
+* 1 Boss's Orders PAL 172
 * 4 Hapu UNM 200
 * 4 Trekking Shoes ASR 156
 * 4 Bravery Charm PAL 173
@@ -26,4 +26,4 @@ Date: 14th July 2023
 * 4 Powerful {C} Energy DAA 176
 * 4 Double Turbo Energy BRS 151
 * 4 Lucky Energy CRE 158
-* 4 Double Colorless Energy PHF 111
+* 4 Double Colorless Energy GEN 74

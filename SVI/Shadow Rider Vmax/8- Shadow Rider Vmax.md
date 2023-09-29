@@ -31,20 +31,20 @@ Description:
 * 1 Sudowoodo GRI 66
 * 4 Shadow Rider Calyrex VMAX CRE 75
 * 2 Air Balloon SSH 156
-* 1 Pal Pad SSH 172
-* 1 Wondrous Labyrinth {*} TEU 158
+* 1 Pal Pad SVI 182
+* 1 Wondrous Labyrinth ◇ TEU 158
 * 4 Quick Ball SSH 179
 * 4 Mysterious Treasure FLI 113
 * 1 Forest Seal Stone SIT 156
 * 1 Field Blower GRI 125
-* 1 Switch CES 147
+* 1 Switch SVI 194
 * 1 Temple of Sinnoh ASR 155
 * 4 Fog Crystal CRE 140
-* 1 Super Rod NVI 95
+* 1 Super Rod PAL 188
 * 1 Adventure Bag LOT 167
 * 2 Acerola BUS 112
 * 3 Marnie SSH 169
 * 1 Roxanne ASR 150
 * 1 Guzma BUS 115
 * 3 Professor's Research SVI 190
-* 14 Basic {P} Energy Energy 22
+* 14 Basic {P} Energy SVE 5

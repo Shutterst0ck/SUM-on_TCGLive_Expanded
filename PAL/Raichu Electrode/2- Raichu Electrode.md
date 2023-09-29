@@ -14,25 +14,25 @@ Description: OH SHIT OH FUCK
 
 ## List
 
-* 1 Squawkabilly ex PAL 264
+* 1 Squawkabilly ex PAL 169
 * 1 Whismur CES 116
 * 2 Oranguru SUM 113
 * 2 Dedenne-GX UNB 57
-* 1 Ditto {*} LOT 154
+* 1 Ditto ◇ LOT 154
 * 3 Voltorb PAL 66
-* 3 Electrode-GX HIF 126
+* 3 Electrode-GX CES 48
 * 2 Pikachu LOR 52
 * 2 Alolan Raichu UNM 57
 * 1 Chaotic Swell CEC 187
 * 4 Cram-o-matic FST 229
 * 1 Hisuian Heavy Ball ASR 146
 * 4 Trekking Shoes ASR 156
-* 4 Ultra Ball PLB 90
+* 4 Ultra Ball SVI 196
 * 1 Telescopic Sight VIV 160
-* 1 Escape Rope PRC 127
+* 1 Escape Rope BST 125
 * 1 Air Balloon SSH 156
-* 4 Professor's Research SVI 241
-* 4 Quick Ball FST 237
+* 4 Professor's Research SVI 190
+* 4 Quick Ball SSH 179
 * 4 Acro Bike CES 123
 * 2 Rescue Stretcher GRI 130
 * 4 Counter Energy CIN 100

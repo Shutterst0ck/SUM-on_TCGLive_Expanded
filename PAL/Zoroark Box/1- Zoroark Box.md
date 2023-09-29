@@ -22,14 +22,14 @@ Date: 16th June 2023
 * 2 Nincada LOT 29
 * 1 Flapple EVS 120
 * 2 Air Balloon SSH 156
-* 4 Ultra Ball BRS 186
+* 4 Ultra Ball SVI 196
 * 3 Pokémon Communication TEU 152
-* 4 Professor's Research PR-SW 152
+* 4 Professor's Research SVI 190
 * 1 Guzma BUS 115
-* 1 Pal Pad UPR 132
-* 2 Judge SIT-TG 25
-* 3 Quick Ball FST 237
+* 1 Pal Pad SVI 182
+* 2 Judge SVI 176
+* 3 Quick Ball SSH 179
 * 2 Rescue Stretcher GRI 130
-* 4 Double Colorless Energy FCO 114
+* 4 Double Colorless Energy GEN 74
 * 4 Twin Energy RCL 174
 * 2 Double Turbo Energy BRS 151

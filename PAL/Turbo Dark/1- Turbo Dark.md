@@ -14,7 +14,7 @@ Date: 12th June 2023
 * 1 Greninja & Zoroark-GX UNB 107
 * 1 Dedenne-GX UNB 57
 * 2 Mewtwo & Mew-GX UNM 71
-* 1 Crobat V SHF 44
+* 1 Crobat V DAA 104
 * 2 Galarian Moltres V CRE 97
 * 1 Mega Sableye & Tyranitar-GX UNM 126
 * 2 Weavile-GX UNM 132
@@ -29,7 +29,7 @@ Date: 12th June 2023
 * 3 Viridian Forest TEU 156
 * 3 Guzma BUS 115
 * 4 Iono PAL 185
-* 4 Professor's Research SHF 60
+* 4 Professor's Research SVI 190
 * 3 Air Balloon SSH 156
 * 1 Forest Seal Stone SIT 156
-* 12 Basic {D} Energy Energy 15
+* 12 Basic {D} Energy SVE 7

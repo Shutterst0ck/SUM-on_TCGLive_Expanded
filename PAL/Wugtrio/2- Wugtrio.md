@@ -33,7 +33,7 @@ As always, any input is appreciated!
 * 1 Manaphy BRS 41
 * 1 Guzma BUS 115
 * 4 Cynthia UPR 119
-* 4 Professor's Research SVI 189
+* 4 Professor's Research SVI 190
 * 4 Ultra Ball SVI 196
 * 2 Artazon PAL 171
 * 2 Air Balloon SSH 156

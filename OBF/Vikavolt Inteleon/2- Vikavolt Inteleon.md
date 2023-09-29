@@ -33,7 +33,7 @@ Date: 16th September 2023
 * 4 Rescue Carrier EVS 154
 * 1 Rescue Stretcher GRI 130
 * 1 Echoing Horn CRE 136
-* 1 Erika's Hospitality HIF 56
+* 1 Erika's Hospitality TEU 140
 * 1 Cynthia UPR 119
 * 1 Rosa CEC 204
 * 1 Irida ASR 147

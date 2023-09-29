@@ -13,7 +13,7 @@ Lost zone in PTCGL and Expanded format, pretty much guarantees Sableye turn one 
 
 ## List
 
-* 2 Dedenne-GX UNB 195
+* 2 Dedenne-GX UNB 57
 * 1 Giratina ◇ UPR 58
 * 1 Lunala ◇ UPR 62
 * 1 Volcanion ◇ FLI 31
@@ -24,24 +24,24 @@ Lost zone in PTCGL and Expanded format, pretty much guarantees Sableye turn one 
 * 1 Celebi ◇ LOT 19
 * 1 Hawlucha SVI 118
 * 4 Sableye LOR 70
-* 1 Crobat V SSP 98
-* 1 Lumineon V BRS 156
-* 1 Escape Rope BUS 163
-* 2 Rescue Stretcher BUS 165
+* 1 Crobat V DAA 104
+* 1 Lumineon V BRS 40
+* 1 Escape Rope BST 125
+* 2 Rescue Stretcher GRI 130
 * 1 Lysandre ◇ FLI 110
-* 4 Acro Bike CES 178
+* 4 Acro Bike CES 123
 * 1 Heat Factory ◇ LOT 178
 * 1 Life Forest ◇ LOT 180
 * 1 Thunder Mountain ◇ LOT 191
-* 4 Lost Blender LOT 233
+* 4 Lost Blender LOT 181
 * 1 Wondrous Labyrinth ◇ TEU 158
-* 2 Air Balloon SSH 213
-* 4 Quick Ball SSH 216
-* 3 Trekking Shoes ASR 215
+* 2 Air Balloon SSH 156
+* 4 Quick Ball SSH 179
+* 3 Trekking Shoes ASR 156
 * 2 Lost City LOR 161
-* 4 Colress's Experiment LOR 190
-* 1 Lost Vacuum LOR 217
-* 2 Fog Crystal CRE 227
-* 4 Ultra Ball BRS 186
-* 4 Psychic Energy 5
+* 4 Colress's Experiment LOR 155
+* 1 Lost Vacuum LOR 162
+* 2 Fog Crystal CRE 140
+* 4 Ultra Ball SVI 196
+* 4 Basic {P} Energy SVE 5
 * 1 Aurora Energy SSH 186

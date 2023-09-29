@@ -26,9 +26,9 @@ Date: 5th June 2023
 * 3 Air Balloon SSH 156
 * 4 Quick Ball SSH 179
 * 3 Energy Loto ASR 140
-* 2 Marnie SWSHALT 21
+* 2 Marnie SSH 169
 * 3 Primordial Altar SIT 161
-* 3 Professor's Research SVI 189
+* 3 Professor's Research SVI 190
 * 4 Acro Bike CES 123
 * 1 Rescue Stretcher GRI 130
 * 4 Unit Energy {L}{P}{M} UPR 138

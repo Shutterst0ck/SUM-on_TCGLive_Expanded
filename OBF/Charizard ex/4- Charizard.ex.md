@@ -11,31 +11,25 @@ Date: 13th September 2023
 ## List
 
 * 4 Sobble CRE 41
-* 1 Charizard ex OBF 228
+* 3 Charizard ex OBF 125
 * 1 Mew UNB 76
-* 2 Inteleon SHF 100
+* 2 Inteleon SSH 58
 * 1 Entei V BRS 22
-* 1 Inteleon EVS 227
+* 1 Inteleon CRE 43
 * 3 Charmander VIV 23
 * 4 Drizzile SHF 99
-* 2 Charizard ex OBF 125
-* 1 Boss's Orders RCL 189
+* 2 Boss's Orders PAL 172
 * 1 Battle VIP Pass FST 225
-* 2 Iono PAL 254
+* 4 Iono PAL 185
 * 1 Field Blower GRI 125
-* 1 Super Rod PAL 276
-* 1 Guzma BUS 143
+* 2 Super Rod PAL 188
+* 1 Guzma BUS 115
 * 4 Scoop Up Net RCL 165
-* 4 Level Ball BST 181
-* 1 Rare Candy SVI 256
-* 1 Super Rod PAL 188
-* 2 Iono PAL 269
-* 2 Rare Candy PGO 69
-* 1 Boss's Orders RCL 200
-* 2 Pokémon Communication BLW 99
-* 4 Irida ASR 186
+* 4 Level Ball BST 129
+* 3 Rare Candy SVI 191
+* 2 Pokémon Communication TEU 152
+* 4 Irida ASR 147
 * 4 Evolution Incense SSH 163
 * 1 Chaotic Swell CEC 187
-* 1 Basic {W} Energy CRE 231
-* 6 Basic {R} Energy SVE 2
-* 1 Basic {R} Energy OBF 230
+* 1 Basic {W} Energy SVE 3
+* 7 Basic {R} Energy SVE 2

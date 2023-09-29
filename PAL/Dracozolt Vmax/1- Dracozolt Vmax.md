@@ -17,13 +17,13 @@ Date: 27th June 2023
 * 4 Rocky Helmet SVI 193
 * 4 Crushing Hammer SVI 168
 * 4 Path to the Peak CRE 148
-* 4 Ultra Ball BRS 150
+* 4 Ultra Ball SVI 196
 * 2 Energy Loto ASR 140
 * 3 Marnie SSH 169
-* 1 Boss's Orders RCL 189
+* 1 Boss's Orders PAL 172
 * 2 Cynthia UPR 119
-* 1 Thunder Mountain {*} LOT 191
-* 4 Max Potion BKP 103
+* 1 Thunder Mountain ◇ LOT 191
+* 4 Max Potion GRI 128
 * 1 Field Blower GRI 125
 * 4 Green's Exploration UNB 175
 * 6 Basic {L} Energy SVE 4

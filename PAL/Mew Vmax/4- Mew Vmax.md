@@ -12,7 +12,7 @@ Date: 18th July 2023
 
 * 4 Genesect V FST 185
 * 2 Oricorio FST 42
-* 3 Mew VMAX LOR-TG 30
+* 3 Mew VMAX FST 114
 * 4 Mew V FST 113
 * 2 Switch Cart ASR 154
 * 4 Power Tablet FST 236
@@ -21,16 +21,15 @@ Date: 18th July 2023
 * 4 Cram-o-matic FST 229
 * 4 Battle VIP Pass FST 225
 * 2 Acerola BUS 112
-* 1 Iono PAL 269
+* 2 Iono PAL 185
 * 2 Path to the Peak CRE 148
 * 4 Quick Ball SSH 179
-* 1 Serena SIT 193
-* 4 Ultra Ball BRS 150
-* 1 Iono PAL 254
+* 1 Serena SIT 164
+* 4 Ultra Ball SVI 196
 * 2 Forest Seal Stone SIT 156
 * 2 Choice Belt BRS 135
-* 1 Marnie SSH 200
-* 1 Escape Rope PLS 120
+* 1 Marnie SSH 169
+* 1 Escape Rope BST 125
 * 2 Field Blower GRI 125
-* 4 Double Colorless Energy NXD 92
+* 4 Double Colorless Energy GEN 74
 * 2 Triple Acceleration Energy UNB 190

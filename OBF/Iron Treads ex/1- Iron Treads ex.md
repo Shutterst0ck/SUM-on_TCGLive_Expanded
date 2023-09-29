@@ -10,22 +10,22 @@ Date: 13th September 2023
 
 ## List
 
-* 1 Dedenne-GX UNB 195
-* 1 Crobat V PR-SW 98
+* 1 Dedenne-GX UNB 57
+* 1 Crobat V DAA 104
 * 4 Diancie ASR 68
 * 1 Radiant Greninja ASR 46
-* 2 Iron Treads ex SVI 248
-* 4 Lillie's Poké Doll CEC 267
-* 4 Iono PAL 254
-* 3 Temple of Sinnoh ASR 214
-* 3 Guzma BUS 143
-* 4 Marnie SSH 200
-* 4 Trekking Shoes ASR 215
-* 3 Nest Ball SUM 158
-* 1 Adventure Bag LOT 228
+* 2 Iron Treads ex SVI 143
+* 4 Lillie's Poké Doll CEC 197
+* 4 Iono PAL 185
+* 3 Temple of Sinnoh ASR 155
+* 3 Guzma BUS 115
+* 4 Marnie SSH 169
+* 4 Trekking Shoes ASR 156
+* 3 Nest Ball SVI 181
+* 1 Adventure Bag LOT 167
 * 1 Defiance Band SVI 169
-* 3 Acro Bike CES 178
-* 4 Quick Ball SSH 216
-* 4 Metal Saucer SSH 214
-* 3 Air Balloon SSH 213
-* 10 Basic {M} Energy EVS 237
+* 3 Acro Bike CES 123
+* 4 Quick Ball SSH 179
+* 4 Metal Saucer SSH 170
+* 3 Air Balloon SSH 156
+* 10 Basic {M} Energy SVE 8

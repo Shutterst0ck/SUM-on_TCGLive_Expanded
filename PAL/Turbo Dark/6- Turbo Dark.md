@@ -14,7 +14,7 @@ Date: 7th August 2023
 * 2 Darkrai V ASR 98
 * 2 Dedenne-GX UNB 57
 * 1 Mewtwo & Mew-GX UNM 71
-* 1 Crobat V SHF 44
+* 1 Crobat V DAA 104
 * 1 Galarian Moltres V CRE 97
 * 1 Tapu Lele-GX GRI 60
 * 2 Weavile-GX UNM 132
@@ -31,8 +31,8 @@ Date: 7th August 2023
 * 3 Temple of Sinnoh ASR 155
 * 4 Guzma BUS 115
 * 3 Marnie SSH 169
-* 4 Professor's Research SHF 60
+* 4 Professor's Research SVI 190
 * 1 Air Balloon SSH 156
 * 1 Field Blower GRI 125
 * 1 Penny SVI 183
-* 10 Dark Energy 15
+* 10 Basic {D} Energy SVE 7

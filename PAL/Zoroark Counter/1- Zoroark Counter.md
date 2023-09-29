@@ -16,20 +16,20 @@ Date: 12th June 2023
 * 1 Raikou V BRS 48
 * 1 Tapu Lele-GX GRI 60
 * 1 Galarian Zapdos V CRE 80
-* 1 Crobat V SHF 44
+* 1 Crobat V DAA 104
 * 4 Zorua EVS 102
-* 4 Zoroark-GX SMP 84
-* 1 Mimikyu TEU 112
+* 4 Zoroark-GX SLG 53
+* 1 Mimikyu GRI 58
 * 1 Manaphy BRS 41
 * 1 Adventure Bag LOT 167
 * 2 Evolution Incense SSH 163
 * 2 Field Blower GRI 125
 * 1 Hisuian Heavy Ball ASR 146
-* 3 Nest Ball SUM 123
+* 3 Nest Ball SVI 181
 * 1 Pal Pad SVI 182
-* 4 Quick Ball FST 237
+* 4 Quick Ball SSH 179
 * 2 Rescue Stretcher GRI 130
-* 2 Ultra Ball ROS 93
+* 2 Ultra Ball SVI 196
 * 3 Artazon PAL 171
 * 3 Cynthia UPR 119
 * 3 Guzma BUS 115
@@ -37,6 +37,6 @@ Date: 12th June 2023
 * 2 Air Balloon SSH 156
 * 1 Sky Seal Stone CRZ 143
 * 1 Forest Seal Stone SIT 156
-* 4 Double Colorless Energy SUM 136
+* 4 Double Colorless Energy GEN 74
 * 3 Counter Energy CIN 100
-* 1 Rainbow Energy CES 151
+* 1 Rainbow Energy SUM 137

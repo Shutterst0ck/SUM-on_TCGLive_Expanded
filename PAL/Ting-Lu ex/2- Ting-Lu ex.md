@@ -10,26 +10,26 @@ Date: 1st August 2023
 
 ## List
 
-* 3 Koraidon ex SVI 254
+* 3 Koraidon ex SVI 125
 * 2 Ting-Lu ex PAL 127
 * 1 Dedenne-GX UNB 57
-* 1 Lumineon V BRS 156
+* 1 Lumineon V BRS 40
 * 1 Radiant Greninja ASR 46
 * 1 Oricorio GRI 55
-* 1 Crobat V DAA 182
-* 1 Cynthia HIF 151
+* 1 Crobat V DAA 104
+* 1 Cynthia UPR 119
 * 1 Brooklet Hill GRI 120
-* 1 Marnie SSH 208
-* 2 Professor's Research SSH 209
-* 1 Raihan EVS 224
+* 1 Marnie SSH 169
+* 2 Professor's Research SVI 190
+* 1 Raihan EVS 152
 * 4 Trekking Shoes ASR 156
-* 2 Iono PAL 269
+* 2 Iono PAL 185
 * 1 Field Blower GRI 125
 * 1 Rescue Stretcher GRI 130
-* 4 Quick Ball SSH 216
-* 4 Ultra Ball BRS 186
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
 * 1 Martial Arts Dojo UNB 179
-* 2 Guzma HIF 153
+* 2 Guzma BUS 115
 * 1 Forest Seal Stone SIT 156
 * 4 Acro Bike CES 123
 * 4 Scoop Up Net RCL 165

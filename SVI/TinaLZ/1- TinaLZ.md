@@ -20,7 +20,7 @@ Description: Pretty simple! Go seconded and try to get cram going. Swing until c
 * 2 Cramorant LOR 50
 * 2 Sableye LOR 70
 * 4 Comfey LOR 79
-* 3 Nest Ball SUM 123
+* 3 Nest Ball SVI 181
 * 1 Field Blower GRI 125
 * 1 Guzma BUS 115
 * 1 Lost Blender LOT 181
@@ -31,10 +31,10 @@ Description: Pretty simple! Go seconded and try to get cram going. Swing until c
 * 2 Lost Vacuum LOR 162
 * 4 Mirage Gate LOR 163
 * 3 Scoop Up Net RCL 165
-* 1 Boss's Orders RCL 189
+* 1 Boss's Orders PAL 172
 * 2 Escape Rope BST 125
 * 2 Path to the Peak CRE 148
 * 3 Battle VIP Pass FST 225
 * 1 Choice Belt BRS 135
-* 5 Grass Energy 1
-* 6 Psychic Energy 5
+* 5 Basic {G} Energy SVE 1
+* 6 Basic {P} Energy SVE 5

@@ -11,28 +11,28 @@ Date: 26th August 2023
 ## List
 
 * 2 Pupitar LOT 116
-* 1 Crobat V PR-SW 98
-* 3 Tyranitar ex OBF 66
+* 1 Crobat V DAA 104
+* 3 Tyranitar ex OBF 211
 * 3 Larvitar LOT 114
 * 3 Arceus VSTAR BRS 123
 * 2 Pidgeot ex OBF 164
 * 2 Pidgey OBF 162
 * 2 Pidgeotto TEU 123
-* 3 Arceus V PR-SW 204
+* 3 Arceus V BRS 122
 * 2 Air Balloon SSH 156
-* 2 Iono PAL 254
+* 2 Iono PAL 185
 * 1 Escape Rope BST 125
 * 3 Buff Padding TEU 136
 * 1 Rescue Stretcher GRI 130
 * 1 Field Blower GRI 125
-* 1 Cynthia HIF 151
-* 1 Marnie SSH 208
-* 1 Professor's Research SSH 209
-* 2 Guzma HIF 153
+* 1 Cynthia UPR 119
+* 1 Marnie SSH 169
+* 1 Professor's Research SVI 190
+* 2 Guzma BUS 115
 * 2 Evolution Incense SSH 163
-* 4 Ultra Ball BRS 186
+* 4 Ultra Ball SVI 196
 * 2 Lake Acuity LOR 160
-* 4 Quick Ball SSH 216
-* 2 Rare Candy CRZ 141
-* 8 Basic {F} Energy ecalt 6
-* 2 Double Colorless Energy SLG 69
+* 4 Quick Ball SSH 179
+* 2 Rare Candy SVI 191
+* 8 Basic {F} Energy SVE 6
+* 2 Double Colorless Energy GEN 74

@@ -12,30 +12,30 @@ Description: Two copies of Roxanne are put in the deck in order to use Roxanne o
 
 ## List
 
-* 2 Dedenne-GX UNB 195
-* 1 Crobat V PR-SW 98
-* 1 Diancie CRZ-GG 13
-* 2 Zacian V CRZ-GG 48
-* 1 Cresselia EVS 228
-* 3 Trevenant & Dusknoir-GX SMP 217
-* 1 Field Blower GRI 163
-* 4 Fog Crystal CRE 227
-* 4 Tag Call CEC 270
+* 2 Dedenne-GX UNB 57
+* 1 Crobat V DAA 104
+* 1 Diancie ASR 68
+* 2 Zacian V CEL 16
+* 1 Cresselia CRE 64
+* 3 Trevenant & Dusknoir-GX PR-SM 217
+* 1 Field Blower GRI 125
+* 4 Fog Crystal CRE 140
+* 4 Tag Call CEC 206
 * 1 Forest Seal Stone SIT 156
-* 2 Roxanne ASR 188
-* 1 Guzma & Hala CEC 229
-* 3 Path to the Peak ASR 213
-* 2 Pokégear 3.0 UNB 233
-* 2 Guzma HIF 153
-* 1 Wishful Baton CIN 121
-* 4 Marnie PR-SW 121
-* 1 Raihan EVS 202
-* 1 Adventure Bag LOT 228
-* 2 Cynthia & Caitlin CEC 228
-* 1 Mallow & Lana CEC 231
+* 2 Roxanne ASR 150
+* 1 Guzma & Hala CEC 193
+* 3 Path to the Peak CRE 148
+* 2 Pokégear 3.0 SVI 186
+* 2 Guzma BUS 115
+* 1 Wishful Baton BUS 128
+* 4 Marnie SSH 169
+* 1 Raihan EVS 152
+* 1 Adventure Bag LOT 167
+* 2 Cynthia & Caitlin CEC 189
+* 1 Mallow & Lana CEC 198
 * 1 Switch Cart ASR 154
-* 4 Quick Ball SSH 216
-* 2 Air Balloon SSH 213
-* 4 Ultra Ball SUM 161
+* 4 Quick Ball SSH 179
+* 2 Air Balloon SSH 156
+* 4 Ultra Ball SVI 196
 * 2 Horror {P} Energy RCL 172
 * 7 Basic {P} Energy SVE 5

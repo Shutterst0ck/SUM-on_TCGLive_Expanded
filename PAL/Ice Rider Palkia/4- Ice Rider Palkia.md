@@ -17,24 +17,21 @@ Date: 23th July 2023
 * 3 Ice Rider Calyrex VMAX CRE 46
 * 1 Origin Forme Palkia VSTAR ASR 40
 * 1 Dawn Wings Necrozma-GX UPR 63
-* 1 Tapu Lele-GX CEL-CC 25
+* 1 Tapu Lele-GX GRI 60
 * 4 Air Balloon SSH 156
 * 3 Cynthia UPR 119
 * 4 Aqua Patch GRI 119
-* 2 Quick Ball FST 237
-* 1 Ultra Ball BRS 150
-* 2 Quick Ball SSH 179
+* 4 Quick Ball SSH 179
+* 4 Ultra Ball SVI 196
 * 2 Field Blower GRI 125
 * 2 Choice Band GRI 121
-* 1 Ultra Ball SUM 135
-* 4 Max Potion BKP 103
-* 2 Ultra Ball BRS 150
+* 4 Max Potion GRI 128
 * 2 Iono PAL 185
-* 1 Melony CRE 195
+* 1 Melony CRE 146
 * 1 Choice Belt PAL 176
 * 1 Super Rod PAL 188
 * 2 Capacious Bucket RCL 156
 * 1 Choice Belt BRS 135
 * 3 Guzma BUS 115
 * 1 Chaotic Swell CEC 187
-* 8 Basic {W} Energy Energy 29
+* 8 Basic {W} Energy SVE 3
