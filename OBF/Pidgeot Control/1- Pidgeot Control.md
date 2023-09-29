@@ -2,7 +2,7 @@
 
 Author: 10types
 
-Source: <https://www.youtube.com/live/26J2V1kOkbQ?si=9hN5OeJ1Ba__rf-_>
+Source: <https://www.youtube.com/live/26J2V1kOkbQ>
 
 Date: 19th August 2023
 

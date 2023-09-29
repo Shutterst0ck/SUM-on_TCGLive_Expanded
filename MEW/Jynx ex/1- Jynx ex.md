@@ -2,7 +2,7 @@
 
 Author: MrDogPTCGL
 
-Source: <https://youtu.be/b_i7hvSjENg?si=V1yMOODDIxZhyViQ>
+Source: <https://youtu.be/b_i7hvSjENg>
 
 Date: 27th September 2023
 

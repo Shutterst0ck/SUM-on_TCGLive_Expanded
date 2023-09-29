@@ -2,7 +2,7 @@
 
 Author: 兔子耳朵 Usagi
 
-Source: <https://youtu.be/A45M2Vpd2ZY?si=vQEJMdFLJg8YTdEf>
+Source: <https://youtu.be/A45M2Vpd2ZY>
 
 Date: 13th September 2023
 

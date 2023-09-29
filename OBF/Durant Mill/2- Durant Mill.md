@@ -2,7 +2,7 @@
 
 Author: Expanded ShowRoom
 
-Source: <https://youtu.be/iP9Vze0bxno?si=NhW6bZXdscEBtOuL>
+Source: <https://youtu.be/iP9Vze0bxno>
 
 Date: th September 2023
 

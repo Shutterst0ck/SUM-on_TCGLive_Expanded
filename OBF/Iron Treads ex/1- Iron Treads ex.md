@@ -2,7 +2,7 @@
 
 Author: じゅん
 
-Source: <https://youtu.be/tg2IVjoYppA?si=d8439lqoACszyY5I>
+Source: <https://youtu.be/tg2IVjoYppA>
 
 Date: 13th September 2023
 

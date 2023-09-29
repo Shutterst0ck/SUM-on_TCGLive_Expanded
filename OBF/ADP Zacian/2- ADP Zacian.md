@@ -2,7 +2,7 @@
 
 Author: Tiến Anh PTCGO
 
-Source: <https://youtu.be/LmPCGka565M?si=PzIYp1VaLPGMrd3I>
+Source: <https://youtu.be/LmPCGka565M>
 
 Date: 18th September 2023
 

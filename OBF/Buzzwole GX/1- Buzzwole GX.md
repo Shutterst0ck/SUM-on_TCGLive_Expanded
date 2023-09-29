@@ -2,7 +2,7 @@
 
 Author: ForTheWinTCG
 
-Source: <https://youtu.be/uUqPcfzoRO4?si=c0axUSVVe3aqzmxV>
+Source: <https://youtu.be/uUqPcfzoRO4>
 
 Date: 17th September 2023
 
