@@ -4,7 +4,7 @@ Author: じゅん
 
 Source: <https://youtu.be/l-6XJev_Rcg>
 
-Date: 23th July 2023
+Date: 22rd July 2023
 
 ![decklist](../../images/PAL/Raichu%20Electrode/5-%20Raichu%20Electrode.png)
 

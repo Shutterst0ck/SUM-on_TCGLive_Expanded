@@ -6,7 +6,7 @@ Author: getrekt_
 
 Source: Discord
 
-Date: 22th June 2023
+Date: 22nd June 2023
 
 ![decklist](../../images/PAL/Counter%20Box/1-%20Counter%20Box.png)
 

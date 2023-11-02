@@ -4,7 +4,7 @@ Author: GengarPlays
 
 Source: <https://pokemoncard.io/deck/vespiquen-ex-live-expanded-version-61899>
 
-Date: 23th September 2023
+Date: 22rd September 2023
 
 Description: The deck relies on using Rowegg GX to get out your rillaboom for energy accleration, and it uses roxie with weezing to easily spread damage making Vespiquen ex be able to actually work.
 

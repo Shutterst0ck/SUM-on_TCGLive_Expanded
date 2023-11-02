@@ -4,7 +4,7 @@ Author: じゅん
 
 Source: <https://youtu.be/tg2IVjoYppA>
 
-Date: 13th September 2023
+Date: 12rd September 2023
 
 ![decklist](../../images/OBF/Iron%20Treads%20ex/1-%20Iron%20Treads%20ex.png)
 

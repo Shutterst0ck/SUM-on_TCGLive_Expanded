@@ -4,7 +4,7 @@ Author: じゅん
 
 Source: <https://youtu.be/_Nouq7_-lao>
 
-Date: 31th October 2023
+Date: 31st October 2023
 
 ![decklist](../../images/MEW/Shock%20Lock/1-%20Shock%20Lock.png)
 

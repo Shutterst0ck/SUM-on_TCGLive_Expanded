@@ -4,7 +4,7 @@ Author: Teru6782
 
 Source: <https://pokemoncard.io/deck/ptcgliveexpandedcharizard-48931>
 
-Date: 13th June 2023
+Date: 12rd June 2023
 
 Description:
 

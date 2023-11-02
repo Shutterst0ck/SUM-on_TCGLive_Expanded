@@ -4,7 +4,7 @@ Author: Marco_Ne
 
 Source: <https://pokemoncard.io/deck/ptcgl-expanded-lost-sableye-61739>
 
-Date: 23th September 2023
+Date: 22rd September 2023
 
 Description: 
 Lost zone in PTCGL and Expanded format, pretty much guarantees Sableye turn one going second, so mostly a memeish deck. All the prism stars go to the lost zone when discarded to get to 10 as soon as possible. Anyways yeah have fun making people rage quit after koing the 2 tiny basics before the ever evolve!

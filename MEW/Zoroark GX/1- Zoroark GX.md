@@ -4,7 +4,7 @@ Author: じゅん
 
 Source: <https://youtu.be/bLhFhkI2Es4>
 
-Date: 13th October 2023
+Date: 12rd October 2023
 
 ![decklist](../../images/MEW/Zoroark%20GX/1-%20Zoroark%20GX.png)
 

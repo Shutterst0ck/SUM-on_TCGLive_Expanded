@@ -4,7 +4,7 @@ Author: MrDogPTCGL
 
 Source: <https://youtu.be/OdJFD1QTB94>
 
-Date: 21th June 2023
+Date: 21st June 2023
 
 ![decklist](../../images/PAL/Volcarona%20V/6-%20Volcarona%20V.png)
 

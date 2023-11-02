@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/_SMvEPsMtrw>
 
-Date: 21th July 2023
+Date: 21st July 2023
 
 ![decklist](../../images/PAL/Dialga/3-%20Dialga.png)
 

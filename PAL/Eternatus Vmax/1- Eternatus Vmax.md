@@ -4,7 +4,7 @@ Author: 兔子耳朵 Usagi
 
 Source: <https://youtu.be/mWhf_kH8SmI>
 
-Date: 13th June 2023
+Date: 12rd June 2023
 
 ![decklist](../../images/PAL/Eternatus%20Vmax/1-%20Eternatus%20Vmax.png)
 

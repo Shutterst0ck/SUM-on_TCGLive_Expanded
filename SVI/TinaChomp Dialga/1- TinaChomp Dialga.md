@@ -4,7 +4,7 @@ Author: uncomonfossil
 
 Source: [https://youtu.be/mr9r1HfVEUY, https://pokemoncard.io/deck/tinachomp-dialge-live-expanded-beta-46331]
 
-Date: 11th May 2023
+Date: 11st May 2023
 
 Description: It can wipe out an opponents entire board. Yes, it is a bit high roll, but it is so fun when it works. And it can also win the traditional way by taking prizes.
 

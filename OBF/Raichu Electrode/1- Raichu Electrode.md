@@ -4,7 +4,7 @@ Author: MrDogPTCGL
 
 Source: <https://youtu.be/faoqcTsQTt4>
 
-Date: 21th August 2023
+Date: 21st August 2023
 
 ![decklist](../../images/OBF/Raichu%20Electrode/1-%20Raichu%20Electrode.png)
 

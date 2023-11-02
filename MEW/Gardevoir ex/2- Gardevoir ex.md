@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/Qb4gA2mb-Dk>
 
-Date: 13th October 2023
+Date: 12rd October 2023
 
 ![decklist](../../images/MEW/Gardevoir%20ex/2-%20Gardevoir%20ex.png)
 

@@ -4,7 +4,7 @@ Author: Team Fish Knuckles
 
 Source: <https://youtu.be/Z65l5IpYC-w>
 
-Date: 11th June 2023
+Date: 11st June 2023
 
 ![decklist](../../images/SVI/Shadow%20Rider%20Vmax/3-%20Shadow%20Rider%20Vmax.png)
 

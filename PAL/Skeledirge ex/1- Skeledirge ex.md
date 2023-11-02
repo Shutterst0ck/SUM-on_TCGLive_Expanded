@@ -4,7 +4,7 @@ Author: 藤井システム
 
 Source: <https://twitter.com/saitsuyo_poke/status/1667903677208875009>
 
-Date: 11th June 2023
+Date: 11st June 2023
 ![decklist](../../images/PAL/Skeledirge%20ex/1-%20Skeledirge%20ex.png)
 
 ## List

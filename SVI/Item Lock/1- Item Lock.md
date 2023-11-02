@@ -4,7 +4,7 @@ Author: The Snorlax Squad
 
 Source: <https://youtu.be/7PiiA8xhQbE>
 
-Date: 13th May 2023
+Date: 12rd May 2023
 
 ![decklist](../../images/SVI/Item%20Lock/1-%20Item%20Lock.png)
 

@@ -4,7 +4,7 @@ Author: The Snorlax Squad
 
 Source: <https://youtu.be/eNEf1NszKvk>
 
-Date: 22th July 2023
+Date: 22nd July 2023
 
 ![decklist](../../images/PAL/Reshiram%20&%20Zekrom%20GX/1-%20Reshiram%20&%20Zekrom%20GX.png)
 

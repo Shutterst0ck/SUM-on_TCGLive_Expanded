@@ -4,7 +4,7 @@ Author: ウラン
 
 Source: <https://twitter.com/235uranium92/status/1690386833325309952>
 
-Date: 12th August 2023
+Date: 12nd August 2023
 
 ![decklist](../../images/OBF/Charizard/1-%20Charizard.png)
 

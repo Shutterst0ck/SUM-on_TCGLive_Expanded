@@ -4,7 +4,7 @@ Author: じゅん
 
 Source: <https://youtu.be/CyZ2Ew3dziM>
 
-Date: 12th May 2023
+Date: 12nd May 2023
 
 ![decklist](../../images/SVI/Caturday/1-%20Caturday.png)
 

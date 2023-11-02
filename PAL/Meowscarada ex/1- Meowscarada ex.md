@@ -4,7 +4,7 @@ Author: samx9000
 
 Source: Discord
 
-Date: 13th June 2023
+Date: 12rd June 2023
 
 ![decklist](../../images/PAL/Meowscarada%20ex/1-%20Meowscarada%20ex.png)
 

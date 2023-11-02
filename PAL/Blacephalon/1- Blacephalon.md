@@ -4,7 +4,7 @@ Author: りざぁどん
 
 Source: <https://twitter.com/37_Pokemon/status/1667912460798681089>
 
-Date: 11th June 2023
+Date: 11st June 2023
 
 ![decklist](../../images/PAL/Blacephalon/1-%20Blacephalon.png)
 

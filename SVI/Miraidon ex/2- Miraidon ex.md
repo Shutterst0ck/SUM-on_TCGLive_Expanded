@@ -4,7 +4,7 @@ Author: viksun.
 
 Source: Discord
 
-Date: 13th May 2023
+Date: 12rd May 2023
 
 ![decklist](../../images/SVI/Miraidon%20ex/2-%20Miraidon%20ex.png)
 

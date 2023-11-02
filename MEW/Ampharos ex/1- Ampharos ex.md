@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/1pqSOj7BMlI>
 
-Date: 21th October 2023
+Date: 21st October 2023
 
 ![decklist](../../images/MEW/Ampharos%20ex/1-%20Ampharos%20ex.png)
 

@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/WVfIQD6nhJI>
 
-Date: 11th September 2023
+Date: 11st September 2023
 
 ![decklist](../../images/OBF/ADP%20Palkia/1-%20ADP%20Palkia.png)
 

@@ -4,7 +4,7 @@ Author: viksun.
 
 Source: Discord
 
-Date: 13th May 2023
+Date: 12rd May 2023
 
 ![decklist](../../images/SVI/ADP%20Zacian/4-%20ADP%20Zacian.png)
 

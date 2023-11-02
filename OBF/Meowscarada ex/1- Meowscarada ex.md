@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/aPNauFY-SWM>
 
-Date: 21th September 2023
+Date: 21st September 2023
 
 ![decklist](../../images/OBF/Meowscarada%20ex/1-%20Meowscarada%20ex.png)
 

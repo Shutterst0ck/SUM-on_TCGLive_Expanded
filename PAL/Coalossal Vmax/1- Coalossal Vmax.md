@@ -4,7 +4,7 @@ Author: じゅん
 
 Source: <https://www.youtube.com/live/3KXbrSvm-NY?feature=share>
 
-Date: 12th June 2023
+Date: 12nd June 2023
 
 ![decklist](../../images/PAL/Coalossal%20Vmax/1-%20Coalossal%20Vmax.png)
 

@@ -4,7 +4,7 @@ Author: LittleDarkFury
 
 Source: <https://youtu.be/HE95Bs3Tb2g>
 
-Date: 31th October 2023
+Date: 31st October 2023
 
 ![decklist](../../images/MEW/Gengar%20&%20Mimikyu%20GX/1-%20Gengar%20&%20Mimikyu%20GX.png)
 

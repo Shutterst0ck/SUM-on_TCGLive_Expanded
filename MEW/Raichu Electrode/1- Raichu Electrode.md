@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/2nQsoCD2JmA>
 
-Date: 23th September 2023
+Date: 22rd September 2023
 
 ![decklist](../../images/MEW/Raichu%20Electrode/1-%20Raichu%20Electrode.png)
 

@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/n2L14_3weZ8>
 
-Date: 31th October 2023
+Date: 31st October 2023
 
 ![decklist](../../images/MEW/Wugtrio/2-%20Wugtrio.png)
 

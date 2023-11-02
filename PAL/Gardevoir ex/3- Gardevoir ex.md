@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/sBAYnHjlgPU>
 
-Date: 22th June 2023
+Date: 22nd June 2023
 
 ![decklist](../../images/PAL/Gardevoir%20ex/3-%20Gardevoir%20ex.png)
 

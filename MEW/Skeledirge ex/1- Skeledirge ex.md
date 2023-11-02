@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/zhW-27rwzKE>
 
-Date: 23th October 2023
+Date: 22rd October 2023
 
 ![decklist](../../images/MEW/Skeledirge%20ex/1-%20Skeledirge%20ex.png)
 

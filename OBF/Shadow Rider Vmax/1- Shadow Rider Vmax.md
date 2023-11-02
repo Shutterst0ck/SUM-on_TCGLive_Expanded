@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/4sn-hzxNZBc>
 
-Date: 22th August 2023
+Date: 22nd August 2023
 
 ![decklist](../../images/OBF/Shadow%20Rider%20Vmax/1-%20Shadow%20Rider%20Vmax.png)
 

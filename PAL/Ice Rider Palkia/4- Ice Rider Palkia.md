@@ -4,7 +4,7 @@ Author: MrDogPTCGL
 
 Source: <https://youtu.be/ZRzqSS4iNVo>
 
-Date: 23th July 2023
+Date: 22rd July 2023
 
 ![decklist](../../images/PAL/Ice%20Rider%20Palkia/4-%20Ice%20Rider%20Palkia.png)
 

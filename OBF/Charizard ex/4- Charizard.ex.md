@@ -4,7 +4,7 @@ Author: 兔子耳朵 Usagi
 
 Source: <https://youtu.be/A45M2Vpd2ZY>
 
-Date: 13th September 2023
+Date: 12rd September 2023
 
 ![decklist](../../images/OBF/Charizard%20ex/4-%20Charizard%20ex.png)
 

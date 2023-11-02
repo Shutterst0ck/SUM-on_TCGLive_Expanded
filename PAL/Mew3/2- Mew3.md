@@ -4,7 +4,7 @@ Author: MrDogPTCGL
 
 Source: <https://youtu.be/q7uVpWXnHAo>
 
-Date: 21th July 2023
+Date: 21st July 2023
 
 ![decklist](../../images/PAL/Mew3/2-%20Mew3.png)
 

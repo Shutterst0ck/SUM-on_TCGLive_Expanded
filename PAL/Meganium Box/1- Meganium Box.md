@@ -4,7 +4,7 @@ Author: めしさん
 
 Source: <https://twitter.com/meshi_yk_ch/status/1679281253584080896>
 
-Date: 13th July 2023
+Date: 12rd July 2023
 
 ![decklist](../../images/PAL/Meganium%20Box/1-%20Meganium%20Box.png)
 

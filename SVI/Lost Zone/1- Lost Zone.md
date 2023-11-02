@@ -4,7 +4,7 @@ Author: viksun.
 
 Source: Discord
 
-Date: 13th May 2023
+Date: 12rd May 2023
 
 ![decklist](../../images/SVI/Lost%20Zone/1-%20Lost%20Zone.png)
 

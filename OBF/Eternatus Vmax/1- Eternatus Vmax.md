@@ -4,7 +4,7 @@ Author: YaoTCG
 
 Source: <https://pokemoncard.io/deck/eternatus-vmax-ptcgl-56218>
 
-Date: 11th August 2023
+Date: 11st August 2023
 
 ![decklist](../../images/OBF/Eternatus%20Vmax/1-%20Eternatus%20Vmax.png)
 

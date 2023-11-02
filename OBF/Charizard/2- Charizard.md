@@ -4,7 +4,7 @@ Author: Marco_Ne
 
 Source: <https://pokemoncard.io/deck/ptcgl-expanded-charizard-box-57710>
 
-Date: 21th August 2023
+Date: 21st August 2023
 
 Description:
 This deck is made to use the many different Charizards, like Charizard GX for its 300 damage, or Team Up Charizard to seal a bunch of damage by discarding energy from itself, or Detective Pikachu Charizard GX to deal big damage and discard an energy attached to each of the opponent's Pokémon.

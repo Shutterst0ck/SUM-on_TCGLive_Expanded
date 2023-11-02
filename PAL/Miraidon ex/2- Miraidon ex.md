@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/4ycso_JOo3w>
 
-Date: 11th June 2023
+Date: 11st June 2023
 
 ![decklist](../../images/PAL/Miraidon%20ex/2-%20Miraidon%20ex.png)
 

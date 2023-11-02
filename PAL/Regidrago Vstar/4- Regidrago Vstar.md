@@ -4,7 +4,7 @@ Author: ラルダ
 
 Source: <https://twitter.com/Jroad_boy/status/1668324712135667715>
 
-Date: 12th June 2023
+Date: 12nd June 2023
 
 ![decklist](../../images/PAL/Regidrago%20Vstar/4-%20Regidragoo%20Vstar.png)
 

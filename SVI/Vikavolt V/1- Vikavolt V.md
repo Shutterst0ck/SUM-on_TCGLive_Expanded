@@ -4,7 +4,7 @@ Author: uncomonfossil
 
 Source: [https://youtu.be/Mdd4uk5VS4g, https://pokemoncard.io/deck/vikavolt-v-live-expanded-beta-47229]
 
-Date: 21th May 2023
+Date: 21st May 2023
 
 Description: Vikavolt V is a very annoying and reasonably powerful Live Expanded beta deck. The fun starts when you item lock your opponent on turn one, then evolve into Regieleki Vmax to do even more damage. Item lock your opponent (and do meaningful damage) is so much fun.
 

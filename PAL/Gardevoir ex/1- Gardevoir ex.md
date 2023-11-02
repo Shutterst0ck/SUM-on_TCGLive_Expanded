@@ -4,7 +4,7 @@ Author: ろし＠3906-3769-1385
 
 Source: <https://twitter.com/roshisyu15/status/1668563698758348800>
 
-Date: 13th June 2023
+Date: 12rd June 2023
 
 ![decklist](../../images/PAL/Gardevoir%20ex/1-%20Gardevoir%20ex.png)
 

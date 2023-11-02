@@ -4,7 +4,7 @@ Author: supermakusu
 
 Source: <https://pokemoncard.io/deck/volt-switch-55018>
 
-Date: 31th July 2023
+Date: 31st July 2023
 
 ![decklist](../../images/PAL/Pikarom/3-%20Pikarom.png)
 

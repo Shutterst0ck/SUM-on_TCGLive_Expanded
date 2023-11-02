@@ -4,7 +4,7 @@ Author: Quindorrian
 
 Source: <https://pokemoncard.io/deck/tropical-paradise-60191>
 
-Date: 11th September 2023
+Date: 11st September 2023
 
 Description: The deck focuses on the power of Rowlet & Alolan Exeggutor-GX to evolve Grookey and/or Bulbasaur while also loading up energies. The deck features lots of diversity as well, with some alternate paths to victories. It's a lot of fun to play!
 

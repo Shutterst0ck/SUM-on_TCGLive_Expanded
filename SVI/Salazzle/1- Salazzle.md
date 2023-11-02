@@ -4,7 +4,7 @@ Author: NoPornoGrindAllowed
 
 Source: <https://www.reddit.com/r/PTCGL/comments/12up4yt/this_has_to_be_in_my_opinion_one_of_the_most>
 
-Date: 22th April 2023
+Date: 22nd April 2023
 
 Description: This has to be, in my opinion, one of the most underrated single-prize decks. Surprisingly consistent, and it hits all the important numbers fr. 280 with vitality, 300 with belt, add a kukui for 300/320. Also, same-turn-evolution Butterfree line w/ nets is awesome.
 

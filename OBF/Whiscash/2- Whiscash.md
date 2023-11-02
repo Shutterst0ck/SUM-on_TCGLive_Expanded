@@ -4,7 +4,7 @@ Author: Trust Your Pilot
 
 Source: <https://twitter.com/TrustYourPilot1/status/1698085634823635404>
 
-Date: 2th September 2023
+Date: 2nd September 2023
 
 ![decklist](../../images/OBF/Whiscash/2-%20Whiscash.png)
 

@@ -4,7 +4,7 @@ Author: じゅん
 
 Source: <https://www.youtube.com/live/LISYBJ9cSPY?feature=share>
 
-Date: 13th June 2023
+Date: 12rd June 2023
 
 ![decklist](../../images/PAL/Meowscarada%20ex/3-%20Meowscarada%20ex.png)
 

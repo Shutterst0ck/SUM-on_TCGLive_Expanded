@@ -4,7 +4,7 @@ Author: くﾞみほﾟけ
 
 Source: <https://twitter.com/gumi__poke/status/1682740805851840513>
 
-Date: 22th July 2023
+Date: 22nd July 2023
 
 ![decklist](../../images/PAL/Gengar%20Vmax/1-%20Gengar%20Vmax.png)
 

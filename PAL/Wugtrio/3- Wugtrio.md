@@ -4,7 +4,7 @@ Author: めしさん
 
 Source: <https://twitter.com/meshi_yk_ch/status/1671804861996998656>
 
-Date: 22th June 2023
+Date: 22nd June 2023
 
 ![decklist](../../images/PAL/Wugtrio/3-%20Wugtrio.png)
 

@@ -4,7 +4,7 @@ Author: 兔子耳朵 Usagi
 
 Source: <https://youtu.be/SUWdfzsfpFM>
 
-Date: 22th June 2023
+Date: 22nd June 2023
 
 ![decklist](../../images/PAL/Gardevoir/1-%20Gardevoir.png)
 

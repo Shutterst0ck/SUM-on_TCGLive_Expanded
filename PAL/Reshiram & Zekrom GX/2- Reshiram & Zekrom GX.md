@@ -4,7 +4,7 @@ Author: pokeregidrago
 
 Source: <https://pokemoncard.io/deck/reshirom-deck-i-was-playing-on-ptcgl-53905>
 
-Date: 22th July 2023
+Date: 22nd July 2023
 
 ![decklist](../../images/PAL/Reshiram%20&%20Zekrom%20GX/2-%20Reshiram%20&%20Zekrom%20GX.png)
 

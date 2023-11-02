@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/rPeFdWLhBbY>
 
-Date: 11th August 2023
+Date: 11st August 2023
 
 ![decklist](../../images/OBF/Vikavolt%20Inteleon/1-%20Vikavolt%20Inteleon.png)
 

@@ -4,7 +4,7 @@ Author: miglet.
 
 Source: Discord
 
-Date: 23th September 2023
+Date: 22rd September 2023
 
 ![decklist](../../images/MEW/Rotom%20Vstar/1-%20Rotom%20Vstar.png)
 

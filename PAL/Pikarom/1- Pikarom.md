@@ -4,7 +4,7 @@ Author: Teru6782
 
 Source: <https://pokemoncard.io/deck/ptcgl-pikarom-49716>
 
-Date: 13th June 2023
+Date: 12rd June 2023
 
 Description: active mew's and rotom v's abilities better than raichu v attack if you go first.
 

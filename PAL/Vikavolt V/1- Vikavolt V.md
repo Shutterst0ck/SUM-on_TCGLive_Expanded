@@ -4,7 +4,7 @@ Author: よいち＠めいかいのとびら
 
 Source: <https://twitter.com/yoichi_vivi/status/1668252312744214535>
 
-Date: 12th June 2023
+Date: 12nd June 2023
 
 ![decklist](../../images/PAL/Vikavolt/../Vikavolt%20V/1-%20Vikavolt%20V.png)
 

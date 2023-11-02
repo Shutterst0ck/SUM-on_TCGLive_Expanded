@@ -4,7 +4,7 @@ Author: あまーち+
 
 Source: <https://twitter.com/Ten_Nine_8/status/1704744621270802441>
 
-Date: 21th September 2023
+Date: 21st September 2023
 
 ![decklist](../../images/OBF/ADP%20Metal/21-%20ADP%20Metal.png)
 

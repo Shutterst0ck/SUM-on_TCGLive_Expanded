@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/tW4EwOfTEj4>
 
-Date: 13th August 2023
+Date: 12rd August 2023
 
 ![decklist](../../images/OBF/Revavroom%20ex/1-%20Revavroom%20ex.png)
 

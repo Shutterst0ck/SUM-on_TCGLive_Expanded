@@ -4,7 +4,7 @@ Author: lordprophet
 
 Source: <https://pokemoncard.io/deck/malamar-65536>
 
-Date: 21th October 2023
+Date: 21st October 2023
 
 Description: Use Malamar to double your energy drops each turn. Curve Cursola into Tevenant, then Dubwool to one shot most pokemon once your opponent is at 1 prize card.
 

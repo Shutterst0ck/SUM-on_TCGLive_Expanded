@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/IrAlnx64ybE>
 
-Date: 22th July 2023
+Date: 22nd July 2023
 
 ![decklist](../../images/PAL/Kyogre%20Groudon/1-%20Kyogre%20Groudon.png)
 

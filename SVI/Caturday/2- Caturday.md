@@ -4,7 +4,7 @@ Author: viksun.
 
 Source: Discord
 
-Date: 13th May 2023
+Date: 12rd May 2023
 
 ![decklist](../../images/SVI/Caturday/2-%20Caturday.png)
 

@@ -4,7 +4,7 @@ Author: MrDogPTCGL
 
 Source: <https://www.youtube.com/watch?v=mUEBSx_0Mn4>
 
-Date: 11th October 2023
+Date: 11st October 2023
 
 ![decklist](../../images/MEW/Kyogre/1-%20Kyogre.png)
 

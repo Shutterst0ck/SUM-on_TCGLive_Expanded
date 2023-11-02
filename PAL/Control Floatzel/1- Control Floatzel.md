@@ -4,7 +4,7 @@ Author: じゅん
 
 Source: <https://www.youtube.com/live/3KXbrSvm-NY?feature=share>
 
-Date: 12th June 2023
+Date: 12nd June 2023
 
 ![decklist](../../images/PAL/Control%20Floatzel/1-%20Control%20Floatzel.png)
 

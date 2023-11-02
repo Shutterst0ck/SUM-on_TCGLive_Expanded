@@ -4,7 +4,7 @@ Author: NoPornoGrindAllowed
 
 Source: <https://www.reddit.com/r/PTCGL/comments/12tu53w/looking_for_advice_on_this_list_its_expanded_and>
 
-Date: 21th April 2023
+Date: 21st April 2023
 
 ![decklist](../../images/SVI/Stonjourner%20Vmax/1-%20Stonjourner%20Vmax.png)
 

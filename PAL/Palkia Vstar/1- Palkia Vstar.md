@@ -4,7 +4,7 @@ Author: ろし＠3906-3769-1385
 
 Source: <https://twitter.com/roshisyu15/status/1668569182819217408>
 
-Date: 13th June 2023
+Date: 12rd June 2023
 
 ![decklist](../../images/PAL/Palkia%20Vstar/1-%20Palkia%20Vstar.png)
 

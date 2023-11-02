@@ -4,7 +4,7 @@ Author: kinoita
 
 Source: <https://twitter.com/kinoita_shiro/status/1668250513043779588>
 
-Date: 12th June 2023
+Date: 12nd June 2023
 
 ![decklist](../../images/PAL/Sunflora%20and%20Fire%20friends/1-%20Sunflora%20and%20Fire%20friends.png)
 
