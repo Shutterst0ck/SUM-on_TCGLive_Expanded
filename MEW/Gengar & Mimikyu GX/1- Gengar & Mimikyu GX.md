@@ -13,7 +13,7 @@ Date: 31st October 2023
 * 1 Dedenne-GX UNB 57
 * 3 Haunter MEW 93
 * 3 Gengar & Mimikyu-GX TEU 53
-* 1 Mew ex MEW 205
+* 1 Mew ex MEW 151
 * 1 Tapu Lele-GX GRI 60
 * 1 Gengar SSH 85
 * 4 Gastly UNB 68
