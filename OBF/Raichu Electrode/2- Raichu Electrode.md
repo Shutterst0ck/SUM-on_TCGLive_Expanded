@@ -12,7 +12,7 @@ Date: 16th September 2023
 
 ## List
 
-* 2 Pikachu SVP 120
+* 2 Pikachu PR-SV 101
 * 2 Alolan Raichu UNM 57
 * 3 Voltorb PAL 66
 * 3 Electrode-GX CES 48

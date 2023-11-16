@@ -4,7 +4,7 @@ Author: よいち＠めいかいのとびら
 
 Source: <https://twitter.com/yoichi_vivi/status/1668138919375028224>
 
-Date: 12nd June 2023
+Date: 12th June 2023
 
 ![decklist](../../images/PAL/Zacian%20LucMetal/1-%20Zacian%20LucMetal.png)
 

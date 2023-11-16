@@ -4,7 +4,7 @@ Author: TiredWheel
 
 Source: <https://pokemoncard.io/deck/vulpix-roxie-vileplume-espurr-52817>
 
-Date: 12nd July 2023
+Date: 12th July 2023
 
 ![decklist](../../images/PAL/Espurr%20Roxie%20Vileplume/1-%20Espurr%20Roxie%20Vileplume.png)
 

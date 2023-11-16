@@ -4,7 +4,7 @@ Author: 兔子耳朵 Usagi
 
 Source: <https://youtu.be/sbAvnu3yW1k>
 
-Date: 11st June 2023
+Date: 11th June 2023
 
 ![decklist](../../images/PAL/ADP%20Dialga/1-%20ADP%20Dialga.png)
 

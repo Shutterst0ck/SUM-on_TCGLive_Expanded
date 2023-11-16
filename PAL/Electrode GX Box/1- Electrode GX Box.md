@@ -4,7 +4,7 @@ Author: 🍡もちパン🍞
 
 Source: <https://twitter.com/Ricecake_Bread/status/1668331721727811586>
 
-Date: 12nd June 2023
+Date: 12th June 2023
 
 ![decklist](../../images/PAL/Electrode%20GX%20Box/1-%20Electrode%20GX%20Box.png)
 

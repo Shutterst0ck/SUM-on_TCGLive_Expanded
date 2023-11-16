@@ -4,7 +4,7 @@ Author: ろし＠3906-3769-1385
 
 Source: <https://twitter.com/roshisyu15/status/1668121317596618753>
 
-Date: 12nd June 2023
+Date: 12th June 2023
 
 ![decklist](../../images/PAL/Miraidon%20ex/3-%20Miraidon%20ex.png)
 

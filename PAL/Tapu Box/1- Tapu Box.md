@@ -6,7 +6,7 @@ Author: 10types
 
 Source: <https://youtu.be/jP4oQHeSxhA>
 
-Date: 12nd July 2023
+Date: 12th July 2023
 
 ![decklist](../../images/PAL/Tapu%20Box/1-%20Tapu%20Box.png)
 

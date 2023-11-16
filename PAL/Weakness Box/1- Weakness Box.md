@@ -4,7 +4,7 @@ Author: Tiến Anh PTCGO
 
 Source: <https://youtu.be/sQ2auaYIxDU>
 
-Date: 11st June 2023
+Date: 11th June 2023
 
 ![decklist](../../images/PAL/Weakness%20Box/1-%20Weakness%20Box.png)
 

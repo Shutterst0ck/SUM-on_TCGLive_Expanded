@@ -4,7 +4,7 @@ Author: Expanded ShowRoom
 
 Source: <https://youtu.be/JunXL9IxQV8>
 
-Date: 12nd July 2023
+Date: 12th July 2023
 
 ![decklist](../../images/PAL/Regidrago%20Vstar/3-%20Regidrago%20Vstar.png)
 

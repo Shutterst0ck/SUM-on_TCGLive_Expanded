@@ -4,7 +4,7 @@ Author: ナカシゲ
 
 Source: <https://twitter.com/ptcg_ojisan/status/1701072684657094860>
 
-Date: 11st September 2023
+Date: 11th September 2023
 
 ![decklist](../../images/OBF/Lighting%20Box/1-%20Lighting%20Box.png)
 

@@ -4,7 +4,7 @@ Author: 兔子耳朵 Usagi
 
 Source: <https://youtu.be/ffIKT2m36GA>
 
-Date: 12nd May 2023
+Date: 12th May 2023
 
 ![decklist](../../images/SVI/Shadow%20Rider%20Vmax/6-%20Shadow%20Rider%20Vmax.png)
 

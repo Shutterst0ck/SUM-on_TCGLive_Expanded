@@ -4,7 +4,7 @@ Author: MrDogPTCGL
 
 Source: <https://youtu.be/d1rH64RS4bw>
 
-Date: 11st September 2023
+Date: 11th September 2023
 
 ![decklist](../../images/OBF/Pikachu%20V-Union/1-%20Pikachu%20V-Union.png)
 

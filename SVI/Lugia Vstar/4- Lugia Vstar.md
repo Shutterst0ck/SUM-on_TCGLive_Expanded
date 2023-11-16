@@ -6,7 +6,7 @@ Author: Earth25
 
 Source: <https://pokemoncard.io/deck/f-you-all-49429>
 
-Date: 11st June 2023
+Date: 11th June 2023
 
 ![decklist](../../images/SVI/Lugia%20Vstar/4-%20Lugia%20Vstar.png)
 
