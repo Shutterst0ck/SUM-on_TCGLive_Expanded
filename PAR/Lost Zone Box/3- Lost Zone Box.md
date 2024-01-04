@@ -16,11 +16,11 @@ Date: 8th December 2023
 * 2 Trumbeak LOT 165
 * 1 Garchomp & Giratina-GX UNM 146
 * 1 Radiant Greninja ASR 46
-* 1 Latias {*} CES 107
+* 1 Latias ◇ CES 107
 * 2 Cramorant LOR 50
 * 4 Switch Cart ASR 154
 * 2 Level Ball BST 129
-* 1 Wondrous Labyrinth {*} TEU 158
+* 1 Wondrous Labyrinth ◇ TEU 158
 * 1 Lost Vacuum LOR 162
 * 1 Hisuian Heavy Ball ASR 146
 * 2 Lost Blender LOT 181

@@ -10,7 +10,7 @@ Date: 30th November 2023
 
 ## List
 
-* 1 Diancie {*} FLI 74
+* 1 Diancie ◇ FLI 74
 * 1 Radiant Greninja ASR 46
 * 4 Slither Wing PAR 107
 * 2 Air Balloon SSH 156

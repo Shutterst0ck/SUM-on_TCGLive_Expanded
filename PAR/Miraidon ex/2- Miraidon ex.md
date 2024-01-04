@@ -18,13 +18,13 @@ Date: 8th December 2023
 * 1 Flaaffy EVS 55
 * 2 Vikavolt V DAA 60
 * 1 Dedenne-GX UNB 57
-* 1 Tapu Koko {*} TEU 51
+* 1 Tapu Koko ◇ TEU 51
 * 1 Lumineon V BRS 40
 * 1 Radiant Greninja ASR 46
 * 1 Rescue Stretcher GRI 130
 * 1 Field Blower GRI 125
 * 2 Guzma BUS 115
-* 1 Thunder Mountain {*} LOT 191
+* 1 Thunder Mountain ◇ LOT 191
 * 1 Guzma & Hala CEC 193
 * 1 Air Balloon SSH 156
 * 2 Path to the Peak CRE 148

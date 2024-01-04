@@ -37,5 +37,5 @@ Date: 29th November 2023
 * 2 Evolution Incense SSH 163
 * 1 Forest Seal Stone SIT 156
 * 2 Giant Hearth UNM 197
-* 1 Heat Factory {*} LOT 178
+* 1 Heat Factory ◇ LOT 178
 * 10 Basic {R} Energy SVE 2
