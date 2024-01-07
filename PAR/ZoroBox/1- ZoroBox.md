@@ -2,7 +2,7 @@
 
 Author: Marco_Ne
 
-Source: <https://pokemoncard.io/deck/ptcgl-expanded-zoro-control-72031#/>
+Source: <https://pokemoncard.io/deck/ptcgl-expanded-zoro-control-72031/>
 
 Date: December 2023
 

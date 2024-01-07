@@ -2,7 +2,7 @@
 
 Author: jadenidkjaden
 
-Source: <https://pokemoncard.io/deck/tsareena-ex-pheromosa-amp-buzzwole-gx-71005#/>
+Source: <https://pokemoncard.io/deck/tsareena-ex-pheromosa-amp-buzzwole-gx-71005/>
 
 Date: 5th December 2023
 

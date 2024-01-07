@@ -2,7 +2,7 @@
 
 Author: Synosei
 
-Source: <https://pokemoncard.io/deck/kaminari-70858#/>
+Source: <https://pokemoncard.io/deck/kaminari-70858/>
 
 Date: December 2023
 

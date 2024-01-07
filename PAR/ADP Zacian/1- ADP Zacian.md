@@ -2,7 +2,7 @@
 
 Author: jadenidkjaden
 
-Source: <https://pokemoncard.io/deck/adp-zacian-v-71002#/>
+Source: <https://pokemoncard.io/deck/adp-zacian-v-71002/>
 
 Date: 5th December 2023
 

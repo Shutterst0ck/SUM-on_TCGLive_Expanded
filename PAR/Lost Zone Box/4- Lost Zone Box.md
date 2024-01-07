@@ -2,7 +2,7 @@
 
 Author: jadenidkjaden
 
-Source: <https://pokemoncard.io/deck/expanded-lost-box-giratina-vstar-with-naganadel-amp-guzzlord-gx-70971#/>
+Source: <https://pokemoncard.io/deck/expanded-lost-box-giratina-vstar-with-naganadel-amp-guzzlord-gx-70971/>
 
 Date: 5th December 2023
 

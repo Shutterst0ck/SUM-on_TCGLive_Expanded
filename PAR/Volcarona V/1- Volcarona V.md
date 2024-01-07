@@ -2,7 +2,7 @@
 
 Author: jadenidkjaden
 
-Source: <https://pokemoncard.io/deck/volcarona-v-71025#/>
+Source: <https://pokemoncard.io/deck/volcarona-v-71025/>
 
 Date: 6th December 2023
 

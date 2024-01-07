@@ -2,7 +2,7 @@
 
 Author: Regiman
 
-Source: <https://pokemoncard.io/deck/lugia-vstar-live-expanded-72843#/>
+Source: <https://pokemoncard.io/deck/lugia-vstar-live-expanded-72843/>
 
 Date: December 2023
 

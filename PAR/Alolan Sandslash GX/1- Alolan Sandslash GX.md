@@ -2,7 +2,7 @@
 
 Author: jadenidkjaden
 
-Source: <https://pokemoncard.io/deck/alolan-sandslash-gx-castform-rainy-form-chilling-reign-71111#/>
+Source: <https://pokemoncard.io/deck/alolan-sandslash-gx-castform-rainy-form-chilling-reign-71111/>
 
 Date: 6th December 2023
 
